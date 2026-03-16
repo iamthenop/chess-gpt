@@ -2,9 +2,11 @@
 from __future__ import annotations
 
 import argparse
+import json
 from pathlib import Path
 
 from chessgpt.db.connection import connect
+from chessgpt.encoding.board_codec import decode_board_to_rows
 from chessgpt.encoding.render import render_llm_board, render_text_board
 
 
@@ -55,7 +57,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--format",
-        choices=("llm", "text"),
+        choices=("llm", "text", "json"),
         default="text",
         help="Output format",
     )
@@ -94,6 +96,17 @@ def main() -> None:
         side_to_move = format_side_to_move(int(row["side_to_move"]))
         castling = format_castling(int(row["castling_rights"]))
         ep_file = format_ep_file(row["ep_file"])
+
+        if args.format == "json":
+            payload = {
+                "position_id": int(row["position_id"]),
+                "side_to_move": side_to_move,
+                "castling": castling,
+                "ep_file": ep_file,
+                "board_rows": decode_board_to_rows(board_blob),
+            }
+            print(json.dumps(payload, indent=2))
+            return
 
         if args.format == "llm":
             output = render_llm_board(

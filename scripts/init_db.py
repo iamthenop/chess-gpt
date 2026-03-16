@@ -13,8 +13,8 @@ def main() -> None:
 
     conn = connect(db_path)
     try:
-        for schema_file in ("001_init.sql", "002_views.sql"):
-            sql = (schema_dir / schema_file).read_text(encoding="utf-8")
+        for schema_file in sorted(schema_dir.glob("*.sql")):
+            sql = schema_file.read_text(encoding="utf-8")
             conn.executescript(sql)
         conn.commit()
     finally:
