@@ -24,13 +24,13 @@ They are not naturally good at:
 
 This project is an attempt to bridge that gap with a compact retrieval layer.
 
-Instead of searching chess from scratch every move, the system can:
+Instead of reasoning from scratch every move, the system can:
 
 1. encode a board into a canonical binary form
-2. look up exact or similar positions
-3. retrieve common and successful moves
-4. filter illegal moves
-5. rank plausible continuations more efficiently
+2. look up an exact position
+3. retrieve common and successful continuations
+4. rank plausible moves more efficiently
+5. render state in both machine-facing and human-facing forms
 
 ## Design Principles
 
@@ -66,8 +66,6 @@ Black pieces are represented as the 4-bit two's complement counterpart of the wh
 - `C` = black rook
 - `B` = black queen
 - `A` = black king
-
-This keeps the encoding compact, canonical, and color-symmetric.
 
 ### Internal Layout
 
@@ -118,13 +116,13 @@ That makes it possible to:
 - replay games
 - aggregate move frequencies
 - identify common continuations
-- compare famous or instructive lines later
+- preserve provenance
 
 ## Current Stack
 
 - Python
 - SQLite
-- PGN ingestion
+- PGN ingestion via `python-chess`
 - compact custom board encoding
 
 SQLite is used here because it is easy to inspect, easy to version, and good enough for a retrieval-first prototype.
@@ -137,60 +135,199 @@ chess-gpt/
 │  ├─ pgn/
 │  ├─ db/
 │  └─ samples/
+├─ docs/
 ├─ schema/
+├─ scripts/
 ├─ src/chessgpt/
+│  ├─ db/
 │  ├─ encoding/
 │  ├─ pgn/
-│  ├─ db/
 │  ├─ query/
 │  └─ utils/
-├─ scripts/
 └─ tests/
+````
+
+## What Works Right Now
+
+The current repo can already:
+
+* initialize the SQLite schema
+* parse and replay PGN main lines
+* encode resulting board states into the canonical 32-byte format
+* ingest games into boards, positions, edges, and game paths
+* render positions in:
+
+  * LLM-facing canonical text form
+  * human-readable text board form
+* suggest moves from an exact stored position
+* filter low-frequency suggestions with `--min-frequency`
+
+## Getting Started
+
+Create a virtual environment and install dependencies:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-## Planned Flow
+Initialize the database:
 
-1. Parse PGN
-2. Replay moves legally
-3. Encode each resulting board into the 32-byte canonical format
-4. Store positions and move edges
-5. Aggregate move statistics
-6. Query candidate continuations for a given board state
+```bash
+PYTHONPATH=src python scripts/init_db.py
+```
+
+Import a PGN file:
+
+```bash
+PYTHONPATH=src python scripts/import_pgn.py data/samples/sample_game.pgn
+```
+
+Show a stored position in LLM format:
+
+```bash
+PYTHONPATH=src python scripts/show_position.py 1 --format llm
+```
+
+Show a stored position in human-readable form:
+
+```bash
+PYTHONPATH=src python scripts/show_position.py 1
+```
+
+Suggest moves from a stored position:
+
+```bash
+PYTHONPATH=src python scripts/suggest_move.py 1
+```
+
+Suggest moves while filtering low-frequency noise:
+
+```bash
+PYTHONPATH=src python scripts/suggest_move.py 1 --min-frequency 5
+```
+
+## Example: Canonical LLM Position Format
+
+```text
+side_to_move:w
+castling:1111
+ep_file:-
+board:
+42356324
+11111111
+00000000
+00000000
+00000000
+00000000
+FFFFFFFF
+CEDBADEC
+```
+
+## Example: Human Text Board
+
+```text
+  +----+----+----+----+----+----+----+----+
+8 | ♜  | ♞  | ♝  | ♛  | ♚  | ♝  | ♞  | ♜  |
+  +----+----+----+----+----+----+----+----+
+7 | ♟  | ♟  | ♟  | ♟  | ♟  | ♟  | ♟  | ♟  |
+  +----+----+----+----+----+----+----+----+
+6 |    |░░░░|    |░░░░|    |░░░░|    |░░░░|
+  +----+----+----+----+----+----+----+----+
+5 |░░░░|    |░░░░|    |░░░░|    |░░░░|    |
+  +----+----+----+----+----+----+----+----+
+4 |    |░░░░|    |░░░░|    |░░░░|    |░░░░|
+  +----+----+----+----+----+----+----+----+
+3 |░░░░|    |░░░░|    |░░░░|    |░░░░|    |
+  +----+----+----+----+----+----+----+----+
+2 | ♙  | ♙  | ♙  | ♙  | ♙  | ♙  | ♙  | ♙  |
+  +----+----+----+----+----+----+----+----+
+1 | ♖  | ♘  | ♗  | ♕  | ♔  | ♗  | ♘  | ♖  |
+  +----+----+----+----+----+----+----+----+
+    a   b   c   d   e   f   g   h
+```
+
+## Current Scripts
+
+### `scripts/init_db.py`
+
+Creates the SQLite schema.
+
+### `scripts/import_pgn.py`
+
+Imports one PGN file into the database.
+
+### `scripts/show_position.py`
+
+Displays a stored position in either:
+
+* `llm` format
+* `text` format
+
+### `scripts/suggest_move.py`
+
+Shows ranked outgoing moves from a stored position.
+
+Supports:
+
+* `--format text|llm`
+* `--limit`
+* `--min-frequency`
+
+## Current Tests
+
+The repo currently includes tests for:
+
+* board encoding
+* replay
+* rendering
+* ingestion
+* exact move suggestion
+
+Run all tests with:
+
+```bash
+PYTHONPATH=src python -m pytest
+```
 
 ## What This Is Not
 
 This is not:
 
-- Stockfish
-- a full search engine
-- a complete tablebase system
-- a perfect legality oracle for every edge case on day one
-- This is a practical memory layer for chess retrieval.
+* Stockfish
+* a full search engine
+* a tablebase system
+* a complete chess engine replacement
+* a graph-database showcase
 
-## Near-Term Goals
+This is a practical retrieval layer for chess memory.
 
-- board encoder / decoder
-- human board renderer
-- SQLite schema initialization
-- PGN import pipeline
-- exact-position move suggestions
-- test coverage around encoding and replay
+## Near-Term Next Steps
 
-## Long-Term Ideas
+* tidy script ergonomics
+* add more exact-query helpers
+* improve README examples as the repo evolves
+* optionally add player-scoped suggestion modes later
 
-- similar-position retrieval
-- structure tags
-- famous game annotations
-- tactical risk labeling
-- lightweight outcome-distance heuristics
+## Longer-Term Ideas
 
-## Getting Started
+* similar-position retrieval
+* structure tags
+* famous game annotations
+* game fingerprinting / deduping
+* tactical risk labeling
+* lightweight outcome-distance heuristics
 
-Initialize the database:
-```Bash
-PYTHONPATH=src python3 scripts/init_db.py
-```
-Later steps will include PGN import and move suggestion scripts.
+## Documentation
+
+Additional design notes live in:
+
+* `docs/encoding.md`
+* `docs/schema.md`
+* `docs/ingestion.md`
+* `docs/query.md`
+* `docs/examples.md`
 
 ## License
 

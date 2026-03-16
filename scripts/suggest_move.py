@@ -29,6 +29,12 @@ def main() -> None:
         help="Maximum number of candidate moves to return",
     )
     parser.add_argument(
+        "--min-frequency",
+        type=int,
+        default=1,
+        help="Minimum edge frequency required to include a move",
+    )
+    parser.add_argument(
         "--format",
         choices=("text", "llm"),
         default="text",
@@ -41,12 +47,15 @@ def main() -> None:
 
     conn = connect(db_path)
     try:
-        moves = suggest_moves_for_position_id(conn, args.position_id, limit=args.limit)
+        moves = suggest_moves_for_position_id(conn, args.position_id, limit=max(args.limit, 1000))
     finally:
         conn.close()
 
+    moves = [move for move in moves if move.frequency >= args.min_frequency][: args.limit]
+
     if args.format == "llm":
         print(f"position_id:{args.position_id}")
+        print(f"min_frequency:{args.min_frequency}")
         print("candidate_moves:")
         for move in moves:
             print(
@@ -60,6 +69,7 @@ def main() -> None:
         return
 
     print(f"position_id:{args.position_id}")
+    print(f"min_frequency:{args.min_frequency}")
     if not moves:
         print("no candidate moves found")
         return
