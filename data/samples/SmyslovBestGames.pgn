@@ -1,0 +1,3008 @@
+﻿[Event "Exercise #1"]
+[Site "Moscow"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Kirilov"]
+[Result "1-0"]
+[ECO "C71"]
+[Annotator "Nemec Vjekoslav"]
+[SetUp "1"]
+[FEN "r3kb1r/5ppp/p1ppqn2/1p4B1/4P3/1PN5/1P2QPPP/R4RK1 w kq - 0 15"]
+[PlyCount "5"]
+[EventDate "1940.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "URS"]
+
+{Let's start our journey through the magical world of Smyslov games by
+examining some of the games from his early years. Even though many associate
+Smyslov's name with solid, quiet and positional play and superb endgame
+technique, in his life - and especially in his youth - he has played his fair
+share of wild, sharp, attacking games. --- The following game, played in
+Moscow, in 1940 is a perfect example. Let's start with the very first exercise.
+Can you find the move Smyslov played in the game - and the corresponding idea?
+} 15. Qc2 $1 {[%cal Rc3b5] Now this attack on c6 and b5 is decisive as Black
+has no good defence.} Nd7 $2 {This loses on the spot but the position was
+tough to defend anyway.} 16. Rxa6 $3 {A fantastic tactical blow, winning on
+the spot!} Rxa6 (16... Rc8 {Was played the game as the rook can't really be
+captured.}) 17. Nxb5 $18 {[%cal Rb5c7,Rc7e8,Rc2c8] And there is no defence
+against dual threats of Nc7 and Qc8 (if the knight is captures).} 1-0
+
+[Event "Exercise #2"]
+[Site "Moscow"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Kirilov"]
+[Result "1-0"]
+[ECO "C71"]
+[Annotator "Nemec Vjekoslav"]
+[SetUp "1"]
+[FEN "1Rr1kb1r/5pp1/3pq2p/1p4B1/4P3/1PN5/1PQ2PPP/6K1 w k - 0 21"]
+[PlyCount "5"]
+[EventDate "1940.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "URS"]
+
+{After some adventures, we have arrived at the following position. We can see
+that Black's king is exposed and that all our pieces are participating in the
+attack. Can you find a way to finish the game off?} 21. Nd5 {[%cal Gd5c7,Gc2c6]
+Qc6 and Nc7 are inevitable. Black might have as well resigned.} (21. Nxb5 {
+Is also winning.}) 21... Rxb8 22. Qc6+ {Even stronger than taking the queen
+with Nc7.} Qd7 23. Nc7# {A brutal miniature that very few would associate with
+Smyslov if the moves were shown without the names! Beautiful demonstration of
+several important concepts - how to utilize the lead in development, how to
+destroy a seemingly healthy pawn chain with some nice tactical ideas, how to
+handle the initiative and so on.} 1-0
+
+[Event "URS Club Torpedo-ch"]
+[Site "Moscow"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Kirilov"]
+[Result "1-0"]
+[ECO "C71"]
+[Annotator "Nemec Vjekoslav"]
+[PlyCount "45"]
+[EventDate "1940.??.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "URS"]
+
+{Let's start our journey through the magical world of Smyslov games by
+examining some of the games from his early years. Even though many associate
+Smyslov's name with solid, quiet and positional play and superb endgame
+technique, in his life - and especially in his youth - he has played his fair
+share of wild, sharp, attacking games. --- The following game, played in
+Moscow, in 1940 is a perfect example.} 1. e4 {In his youth, Smyslov very often
+moved the king pawn forward, but this move isn't only restricted to his youth.
+For example, he ventured it in his World Championship Matches against Mikhail
+Botvinnik, among other things.} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 {This move
+leads to the so-called Steinitz variation of the Ruy Lopez - a line that was
+very popular back in the day due to its solidity. Black reinforces the e5
+point and has various developing scheme to follow it up available.} 5. d4 $5 {
+But this move, involving a sharp pawn sacrifice, is definitely not the most
+common continuation nor the one you would expect from "harmonic and
+positional" Smyslov. White strikes in the center immediately, but this
+essentially gambits a pawn.} b5 6. Bb3 Nxd4 7. Nxd4 exd4 8. c3 $5 {Since White
+can't really regain the pawn on d4 at once due to the exposed bishop on b3, he
+has to gambit a pawn in some way. Playing c3, undermining the center and
+aiming for rapid development is one possible way of doing so.} ({As mentioned,
+trying to regain the pawn with} 8. Qxd4 $2 {Doesn't work due to the well-known
+opening trap:} c5 9. Qd5 {[%cal Rb3f7,Rd5a8] Seemingly saving the bishop due
+to the double attack, but this is only an illusion.} Be6 10. Qc6+ Bd7 11. Qd5
+c4 $19 {[%cal Rc4b3] And the bishop on b3 is finally lost!}) ({Okay, White can
+try to regain the pawn immediately by inserting this bishop move, but it
+doesn't bring him that much advantage. After something like} 8. Bd5 Rb8 9. Bc6+
+Bd7 10. Bxd7+ Qxd7 11. Qxd4 Nf6 $11 {[%csl Gf6] Black is fully developed, has
+no weaknesses and is even maybe slightly preferable in this very dry and equal
+position.}) 8... dxc3 {Black accepts the challenge, which is probably the most
+principled way of playing.} 9. Qh5 $5 {[%csl Gd5][%cal Rh5f7,Gb1c3,Gc3d5] With
+this move, White tries to create pressure against the f7 pawn while at the
+same time keeping the route Nc3-Nd5 open for the knight on b1. However, this
+shouldn't be too brilliant as the queen on h5 is very exposed.} (9. Qd5 {
+Going to d5 involves the immediate drawing variation} Be6 10. Qc6+ Bd7 11. Qd5
+Be6 $11 {When White can't really avoid the repetition.}) 9... Qe7 $6 {[%csl
+Re7][%cal Re7e4,Ge7f7] It is very natural to place the queen on e7, defend the
+f7 pawn and attack the e4 pawn, but it transpires that her majesty is not
+ideally placed here as it gets in the way of the kingside pieces.} (9... g6 {
+Including g6 is very sensible as White probably doesn't have anything better
+than} 10. Qd5 Be6 11. Qc6+ Bd7 12. Qd5 {With the repetition of moves once
+again.}) ({But with} 9... Qd7 {Black could have tried to fight for an
+advantage. The point is that the queen doesn't hinder Black's fluent
+development on the kingside. Thus after} 10. Nxc3 Nf6 11. Qe2 Be7 12. O-O O-O {
+White is hard-pressed to show the compensation for the pawn.}) 10. Nxc3 Nf6 11.
+Qe2 {[%csl Rf6,Rf8,Rg7] Now White has some compensation as it is not super
+easy for Black to develop the kingside.} Be6 12. O-O c6 {With this move, Black
+defends the d5 square and tries to stay solid, but this is somewhat passive as
+it allows White to bring in more pieces into fray. Furthermore, it will
+transpire that this pawn can become a target and allow some hidden tactical
+possibilities later in the game.} ({With that being said, it was not super
+easy to find an alternative. If Black were to go for the natural kingside
+development with} 12... g6 13. Qf3 {[%cal Yc1g5,Ye4e5] then this queen move,
+threatening e5, is very strong. It is very hard for Black to find a reply, e.g.
+} Rb8 (13... Nd7 {Doesn't work as White plays} 14. e5 {All the same!} Rc8 15.
+exd6 {And with the opening of the position White has more than sufficient
+compensation for the pawn. In fact, the engine thinks White is objectively
+winning already.}) (13... Bg4 {Is the only move according to the computer, but
+after} 14. Qg3 Be6 15. e5 dxe5 16. Qf3 {White keeps a large initiative all the
+same e.g.} e4 17. Nxe4 Nxe4 18. Qxe4 {And due to the lead in development White
+has definite compensation for the pawn. It is really hard for Black to play
+this position.}) 14. Bg5 Bg7 15. e5 {[%csl Rf6][%cal Gc3e4,Rg5e7] And with Ne4
+coming, White is already winning, e.g.} dxe5 16. Ne4 Bf5 17. Nxf6+ Bxf6 18.
+Qc6+ {[%cal Rc6e8,Rc6f6] A decisive double attack.} Bd7 19. Qxf6 $18 {And
+White has won a piece.}) ({The best move, however, was} 12... b4 {Kicking the
+knight from c3 away. The critical continuation now is} 13. e5 dxe5 14. Ne4 {
+When White seems to have compensation for the two missing pawns, but not more
+than that.}) 13. Bg5 {[%cal Rg5d8,Gc3d5] Bringing the bishop into the game and
+creating some ideas of Bxf6 and Nd5.} (13. Re1 {and}) (13. Bf4 {were
+alternatives.}) 13... Bxb3 {Probably the best move, reducing the effect of the
+ND5 sacrifice a great deal.} (13... h6 14. Bxf6 Qxf6 (14... gxf6 15. Qf3 $44)
+15. Nd5 {Is quite unpleasant for Black as after} Qd8 16. Nb4 Qd7 17. Bxe6 fxe6
+18. a4 {White has a nice lead in development and Black has potential
+weaknesses all over the place, providing White with sufficient compensation
+for the pawn (although probably not more).}) 14. axb3 Qe6 $2 {But this is a
+decisive mistake as the queen departs from the defence of the c6 pawn and
+allows a nice combination we are about to see.} (14... h6 {was absolutely
+necessary. After} 15. Bxf6 Qxf6 16. Qc2 {[%cal Rc3b5] Is somewhat unpleasant,
+creating the threat of Nxb5 and Qxc6, but Black has sufficient resources in
+the form of} Qd8 {when} 17. Nxb5 (17. Ne2 {Keeps the game going, of course,
+and White still has the initiative, but it is a completely different story
+compared to what happened in the game.}) 17... cxb5 18. Qc6+ Ke7 {Is unclear.})
+15. Qc2 $1 {[%cal Rc3b5] Now this attack on c6 and b5 is decisive as Black has
+no good defence.} Nd7 $2 {This loses on the spot but the position was tough to
+defend anyway.} (15... Ra7 {IS no better due to the simple chess:} 16. Bxf6 (
+16. Nxb5 {Now doesn't work as the rook is not on a8 so after} cxb5 17. Qc6+ Qd7
+{the rook on a8 is not hanging.}) 16... Qxf6 (16... gxf6 17. Ne2 {[%csl Rc6,
+Gf5,Rf6,Rf7][%cal Ga1d1,Ge2d4,Rc2c6] When White's structure is better, all the
+pieces are coming and Black can't hope to survive.}) 17. Nd5 {[%cal Rc2c6] IS
+decisive, but the variations are very pretty so I will reproduce them here in
+full:} cxd5 18. Qc6+ Ke7 (18... Kd8 19. Qb6+ Rc7 20. Rac1 Qe7 21. Qb8+) 19.
+Rfe1 d4 20. e5 dxe5 21. Qc5+ Ke6 22. Qxa7) 16. Rxa6 $3 {A fantastic tactical
+blow, winning on the spot!} Rc8 {Trying to prolong the game as the rook can't
+be captured.} (16... Rxa6 17. Nxb5 $18 {[%cal Rb5c7,Rc7e8,Rc2c8] And there is
+no defence against dual threats of Nc7 and Qc8 (if the knight is captures).})
+17. Rfa1 {There was a strong tactical blow available here, but Smyslov -
+understandably - decides to go for the pragmatic approach.} (17. Nxb5 {[%cal
+Rc2c8,Gb5d4] Using the pin on the c-file was simple enough. Nd4 comes on the
+next move etc. Maybe Smyslov was worried that after} Nb8 18. Nd4 Qg4 {He would
+be losing material, but here he has some nice tactical ideas after} (18... Qe5
+19. Nf3) 19. Ra8 Qxg5 20. Rxb8 Rxb8 21. Qxc6+ Kd8 22. Rc1 {Here is transpires
+White is winning but okay, it is not so easy (or necessary) to calculate all
+this in advance, so probably his choice was more pragmatic and prudent!}) 17...
+h6 $6 {Black was hoping to chase the bishop away and probably play Be7, but
+this is way too slow.} (17... Nb8 {[%cal Rb8a6,Gb8c6] Trying to defend the c6
+pawn and attack the rook on a6 is also a possible defensive try, but after} 18.
+Ra7 {[%cal Ra7e7] Be7 is prevented and it is hard for Black to move.}) (17...
+Be7 {Developing the bishop was probably comparatively the best, but after} 18.
+Bxe7 Qxe7 (18... Kxe7 {might be the best attempt, but who would play such
+thing willingly.}) 19. Nd5 {Black is losing all the same.}) 18. Rxc6 $3 {
+Not the only winning move, but a very spectacular one!} Rxc6 {Probably it was
+better not to take the rook, but the game is hopeless anyway.} 19. Ra8+ Nb8 20.
+Rxb8+ {White wins in all variations, but some calculation was still required!}
+Rc8 {This is refuted very elegantly with a nice knight jump} (20... Kd7 {
+Trying to run with the king doesn't help either as White can include all
+pieces into the attack with} 21. Rd8+ Kc7 22. Nxb5+ Kb7 {And here the nice
+geometrical idea} 23. Qxc6+ {works in White's favour as after} Kxc6 24. Nd4+
+Kc7 25. Nxe6+ {[%csl Rf8] The bishop on f8 is hanging so there is no time to
+capture the bishop and if the knight is captured then} fxe6 26. Be7 $18 {
+[%cal Rd8h8] wins on the spot. Beautifully calculated by Smyslov!}) 21. Nd5 {
+[%cal Gd5c7,Gc2c6] Qc6 and Nc7 are inevitable. Black might have as well
+resigned.} (21. Nxb5 {Is also winning.}) 21... Rxb8 22. Qc6+ {Even stronger
+than taking the queen with Nc7.} Qd7 23. Nc7# {A brutal miniature that very
+few would associate with Smyslov if the moves were shown without the names!
+Beautiful demonstration of several important concepts - how to utilize the
+lead in development, how to destroy a seemingly healthy pawn chain with some
+nice tactical ideas, how to handle the initiative and so on.} 1-0
+
+[Event "Exercise #1"]
+[Site "Moscow"]
+[Date "1943.12.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[ECO "C82"]
+[Annotator "Nemec Vjekoslav"]
+[SetUp "1"]
+[FEN "4rrk1/2p3pp/p4q2/1p1p3b/5n2/2P3QP/PPBN2P1/R1B3NK b - - 0 21"]
+[PlyCount "7"]
+[EventDate "1943.12.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[SourceTitle "EXT 2011"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.11.26"]
+[SourceQuality "1"]
+
+{[#] Smyslov's career - just like careers of so many other chess players of
+that era - was inevitably affected by the World War II, during which all
+International Chess Competitions ceased (and during which the whole world was
+sent on turmoil, obviously). --- In fact, many of Smyslov's chess playing
+peers and even childhood friends, who weren't necessarily as strong as him,
+were called to army and ended up losing their lives on the battlefront.
+Fortunately, Smyslov was not one of them as he got a job in the aviation (I
+believe, but don't quote me on it) and spend the war years working in an
+office, away from the front. --- On the other hand, even though there weren't
+any International tournaments at a time, the Soviet Chess Federation was keen
+on not letting their players to get completely rusty and organized quite a few
+tournaments during the War Years. --- It was during one of those
+war-tournaments - the Moscow Championship 1943 - when Smyslov managed to
+defeat the great Mikhail Botvinnik for the very first time. --- Let's join the
+came on move 21. Even though he employed a very dubious variation of the Ruy
+Lopez, after an unforced error on Smyslov's part, Botvinnik took over the
+initiative. At this critical juncture, he has to decide on the course of
+action - and it is precisely here where Botvinnik went wrong. Can you do
+better than the Partiarch and suggest a convincing course of action?} 21... Ne2
+{The simple jump of the knight to e2 was also quite unpleasant. It is a more
+human option.} ({Black had two interesting options at the disposal. The first
+one involved placing the queen on the nice active diagonal where she eyes g1.
+This is important as after} 21... Qb6 $5 22. Nb3 Ne2 23. Nxe2 Rf1+ {[%csl Rg1]
+[%cal Rb6g1] The fact that g1 is under control and Ng1 is not possible is
+extremely annoying for White.}) (21... c5 $2 {This move - trying to set the
+pawn chain into motion - is logical from the human viewpoint, but objectively
+not the best as it is simply to slow to meet the demands of this complicated
+position.}) 22. Nxe2 Rxe2 {Black is very active. Maybe Botvinnik wasn't sure
+about what happens if the rook is kicked away say with} 23. Bd3 {but here
+there is a strong option} Qe5 $1 24. Qxe5 Rxe5 {[%cal Re5e1,Rf8f1] And this
+endgame is won for Black as White's pieces are not coming out anytime soon and
+the rooks are too active on the open files.} 1-0
+
+[Event "Exercise #2"]
+[Site "Moscow"]
+[Date "1943.12.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[ECO "C82"]
+[Annotator "Nemec Vjekoslav"]
+[SetUp "1"]
+[FEN "4rrk1/6pp/p4q2/1ppp3b/5n2/2P3QP/PPBN2P1/R1B3NK w - - 0 22"]
+[PlyCount "11"]
+[EventDate "1943.12.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[SourceTitle "EXT 2011"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.11.26"]
+[SourceQuality "1"]
+
+{As we have seen, Botvinnik went wrong on the previous move by moving the
+c-pawn forward. How should White continue now to exploit this mistake?} 22. Nb3
+{It was probably better not to place the knight on f3 and avoid all ideas of
+Bxf3.} (22. Ndf3 {[%csl Gf3][%cal Rc1f4,Rg3f4] This logical move, moving the
+knight away from the path of the bishop, attacking f4 and also keeping it
+closer to the king was played in the game, but it transpired not to be the
+best because at hthe correct moment - Black could have taken on f3.}) 22... Ne2
+23. Nxe2 Rxe2 24. Bd3 {Black doesn't have anything better than to go for} Qe5 {
+when the accurate} 25. Kh2 {Allows White to retain some initiative in the
+endgame after} (25. Qxe5 {Is probably less precise as the rook comes to e1
+with check and White loses a tempo. Nevertheless after} Rxe5 {the evaluation
+of the endgame is different as after} 26. Nxc5 Re1+ 27. Kh2 {[%cal Ga2a4,Gc5b3]
+We have managed to get a pawn and get our pieces out and can play Nb3-a4 next
+trying to get the rook in the game. The engine insists this is still equal,
+but I feel only White can now play for the win.}) 25... Qxg3+ 26. Kxg3 Re1 27.
+Nxc5 1-0
+
+[Event "Exercise #3"]
+[Site "Moscow"]
+[Date "1943.12.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[ECO "C82"]
+[Annotator "Nemec Vjekoslav"]
+[SetUp "1"]
+[FEN "4rrk1/6pp/p4q2/1ppp3b/5n2/2P2NQP/PPB3P1/R1B3NK b - - 0 22"]
+[PlyCount "9"]
+[EventDate "1943.12.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[SourceTitle "EXT 2011"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.11.26"]
+[SourceQuality "1"]
+
+{Let's get back to the actual game continuation. In order to understand why it
+was better to move the knight to f3 and not on b3 - let's take a look at the
+possible variation for Black. What was Botvinnik's best course of action in
+this position?} {Black could have exploited the fact the knight is now on f3
+by capturing it with the bishop.} 22... Bxf3 {And now suddenly neither of the
+captures is fully satisfactory for White, e.g.} (22... Ne2 $2 {Was played in
+the game, but this now comes at the least appropriate moment, justifying
+White's play perfectly!}) 23. Nxf3 {Taking with the knight looks very healthy
+and harmonious, but there is also a problem in the view of} (23. gxf3 d4 {
+And this version of the endgame after} 24. Bxf4 Qxf4 25. Qxf4 Rxf4 26. Be4 dxc3
+27. bxc3 Rd8 {Is also very unclear as White's pawn chain is very much ruined.
+Probably the game should result in a draw.}) (23. Qxf3 {Taking with the queen
+is no good as it removes the queen from controlling the e1 square and allows
+the unpleasant} Re1 24. Rb1 Ne2 25. Be3 {and here it seems White has it all
+covered but here comes the unpleasant} Qe5 {[%cal Rf8f3,Re2g3] when White is
+in major trouble.}) 23... Nxg2 $1 {When Black has enough counterplay for
+equality.} 24. Bg5 {Virtually the only move!} (24. Qxg2 Qxf3 $19) (24. Kxg2
+Re2+ $19) 24... Qxf3 25. Qxf3 Rxf3 26. Kxg2 Ref8 {And in this endgame Black is
+not worse as they have two pawns and a rook for the two bishops and a lot of
+activity on the open files.} 1-0
+
+[Event "Exercise #4"]
+[Site "Moscow"]
+[Date "1943.12.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[ECO "C82"]
+[Annotator "Nemec Vjekoslav"]
+[SetUp "1"]
+[FEN "5rk1/6p1/p4q1p/1ppp2Nb/4r3/2P3QP/PP1B2PK/R2B4 b - - 0 27"]
+[PlyCount "5"]
+[EventDate "1943.12.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[SourceTitle "EXT 2011"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.11.26"]
+[SourceQuality "1"]
+
+{After Botvinnik missed the idea oftaking on f3 demonstrated in the previous
+exercise, Smyslov managed to consolidate his position and obtain a winning
+advantage. However, on move 27, he played the flashy move 27. Ng5? which turns
+out to be a bad mistake. Why?} 27... Bxd1 $1 {Black could have actually
+allowed White to take on e4 as after} (27... hxg5 $2 {Was played in the game,
+missing the final saving chance.}) 28. Nxe4 dxe4 29. Rxd1 Rd8 {[%cal Rd8d3,
+Rf6d6] It transpires there is no easy way to get rid of the pin on the d-file.
+Black has ideas of Rd3-Qd6 and it is hard to make progress for White. Not an
+easy continuation to evaluate, but objectively 27.Ng5? relinquished all
+White's advantage.} 1-0
+
+[Event "Exercise #5"]
+[Site "Moscow"]
+[Date "1943.12.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[ECO "C82"]
+[Annotator "Nemec Vjekoslav"]
+[SetUp "1"]
+[FEN "3r4/R5pk/3q4/1p2r1p1/3p2B1/6QP/1P1B2P1/7K w - - 0 36"]
+[PlyCount "4"]
+[EventDate "1943.12.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[SourceTitle "EXT 2011"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.11.26"]
+[SourceQuality "1"]
+
+{After Botvinnik missed the defensive resource seen in the previous exercise,
+his game went quickly downhill and by move 36, Smyslov managed to finish the
+game in quite some style. Can you find the neat winning tactic Smyslov
+executed in the diagram position?} 36. Bf4 $1 {[%cal Rg3d6] Very strong,
+winning even more material! This is not the only winning move, of course, but
+it is the simplest! As someone said - in winning position, KISS (Keep It
+Simple Stupid).} Re1+ ({The bishop is immune as} 36... gxf4 37. Bf5+ {[%cal
+Rg3g7,Ra7g7] Leads to the mate on g7.}) 37. Qxe1 Qxf4 {Now White has a clean
+extra piece and the conversion shouldn't be in any question.} 1-0
+
+[Event "Moscow-ch23"]
+[Site "Moscow"]
+[Date "1943.12.??"]
+[Round "?"]
+[White "Smyslov, Vassily V"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[ECO "C82"]
+[Annotator "Nemec Vjekoslav"]
+[PlyCount "99"]
+[EventDate "1943.12.??"]
+[EventType "tourn"]
+[EventRounds "17"]
+[EventCountry "URS"]
+[SourceTitle "EXT 2011"]
+[Source "ChessBase"]
+[SourceDate "2010.11.26"]
+[SourceVersion "1"]
+[SourceVersionDate "2010.11.26"]
+[SourceQuality "1"]
+
+{Smyslov's career - just like careers of so many other chess players of that
+era - was inevitably affected by the World War II, during which all
+International Chess Competitions ceased (and during which the whole world was
+sent on turmoil, obviously). --- In fact, many of Smyslov's chess playing
+peers and even childhood friends, who weren't necessarily as strong as him,
+were called to army and ended up losing their lives on the battlefront.
+Fortunately, Smyslov was not one of them as he got a job in the aviation (I
+believe, but don't quote me on it) and spend the war years working in an
+office, away from the front. --- On the other hand, even though there weren't
+any International tournaments at a time, the Soviet Chess Federation was keen
+on not letting their players to get completely rusty and organized quite a few
+tournaments during the War Years. --- It was during one of those
+war-tournaments - the Moscow Championship 1943 - when Smyslov managed to
+defeat the great Mikhail Botvinnik for the very first time.} 1. e4 {As we said,
+back in the day Smyslov used to play 1.e4 quite regularly.} e5 {But this was a
+bit surprising move to see from Botvinnik, who was a great specialist in the
+French defence, but also the Classical Sicilian and the Caro-Kann. Then again,
+back in the day it was easier to be versatile in the opening.} 2. Nf3 Nc6 3.
+Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 {I believe this is one of the rare instances
+where Botvinnik played the Open variation of the Ruy Lopez.} 6. d4 b5 7. Bb3 d5
+8. dxe5 Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 {As mentioned earlier, I am not too
+keen to talk about all the intricacies about the opening moves and their
+subtleties at this point. If you want to check this particular line in greater
+detail, I would definitely recommend the course The Grand Ruy Lopez by Nils
+Grandelius on Chessable, as I know he covers the whole 9.c3 move order there
+in some detail.} Nxf2 $5 {This sacrifice, leading to the so-called Dilworth
+variation in the Ruy Lopez, is extremely popular nowadays (as it is very
+direct and suitable for analysis with Modern computers). For example, it was
+recently seen in the Candidates tournament in a game between Nakamura and
+Caruana.} ({Other options include} 11... f5 {when} 12. Nb3 {should objectively
+give White a good game.}) (11... Bf5 12. Nb3 {Is also a possible variation
+where White should be able to gain some advantage.}) 12. Rxf2 f6 13. exf6 (13.
+Nf1 Bxf2+ 14. Kxf2 fxe5 15. Kg1 {Is the modern main line of this variation.})
+13... Qxf6 $6 {But this is not the most precise move order, allowing White an
+additional option we will see on the next move.} (13... Bxf2+ 14. Kxf2 Qxf6 {
+Is one of the main positions of this entire line. White has two pieces for a
+rook and a pawn, but practice has shown that Black's practical chances
+shouldn't be underestimated.}) 14. Qf1 $1 {This is a difference. Now White
+manages to include the queen very harmoniously in the game and doesn't have to
+lose time by going back to f2 and back with the king, which means that White
+is comfortably better.} Bg4 {Trying to increase the pressure on the f3 knight,
+but this is going into totally wrong direction.} (14... Bf5 {Is indicated by
+the computer as the best move, trying to neutralize White's strong
+light-squared bishop, although after} 15. Bxf5 Qxf5 16. Nb3 Bxf2+ 17. Qxf2 {
+White once again has a very harmonious position in which Black's combative
+resources are slowly running out.}) 15. Kh1 $2 {But this is a serious mistake
+- an invaluable loss of time that can't be afforded in this position.} ({
+White had several other possibilities but the dynamic move} 15. Qd3 {[%cal
+Rc2h7,Rd3d5] Creating threats against both h7 and d5, was very strong here. It
+is hard to suggest what Black should do know. Probably best is to take on f2
+to get the king out, say} Bxf2+ (15... Qf5 {Going for the endgame doesn't
+really inspire as after} 16. Qxf5 Bxf5 17. Bb3 Bxf2+ 18. Kxf2 $18 {[%csl Rd5]
+White should have a decisive material advantage. Furthermore, Black's pawn
+structure is not ideal (d4 and e5 are somewhat weakened, d5 is a target).}) 16.
+Kxf2 Qh4+ 17. Kg1 $18 {And d5 is still hanging, White's pieces are
+harmoniously placed and it is hard for Black to find the compensation for the
+missing material.}) 15... Bxf2 16. Qxf2 Rae8 17. Qg3 Ne5 {Now suddenly things
+are looking a bit tricky for White as all Black's pieces are participating in
+the game while White is struggling with the development - and the king on h1
+is also vulnerable to some back rank issues.} 18. Bd1 {[%csl Gf3][%cal Gd1f3]
+It is understandable to want to reinforce the f3 point, but this is another
+anti-developing move that places another piece on the back rank.} ({A move
+like this one, trying to open up the rook or the bishop and get the pieces
+into the game, was probably objectively the best (although it is definitely a
+hard move for a human). Note that if Black tries to take on f3 it is not a
+problem as after} 18. a4 Bxf3 19. Nxf3 Nxf3 20. gxf3 Qxf3+ 21. Qxf3 Rxf3 22.
+Kg2 {We have avoided all immediate issues, although the position remains
+complicated and somewhat unpleasant.}) 18... Nd3 {[%csl Gd3][%cal Ge8e1] This
+is a logical move, trying to activate the knight further, but it transpires
+that this is not the strongest option at Black's disposal!} (18... h5 {Trying
+to create a diversion with the h-pawn was also possible. The idea is that
+affter} 19. h4 Nd3 $13 {[%csl Rg4,Gh3][%cal Gh2h3] White doesn't have the same
+h3 idea that was present in the game.} (19... Qd6 {might be even stronger
+again, though!})) 19. h3 {Now White at least opens up the back rank with a
+gain of tempo, although the situation remains very unpleasant.} Bh5 20. Bc2 Nf4
+{[%cal Re8e2] Creating ideas of Ne2 or Re2.} 21. Ng1 {[%cal Gg1e2] White is
+desperately trying to cover the e2 square.} (21. Bd1 {Is arguably better as now
+} Ne2 22. Bxe2 Rxe2 23. Ng1 {Kinda works out for White, but who would want to
+put the bishop on d1 again willingly?}) 21... c5 $2 {This move - trying to set
+the pawn chain into motion - is logical from the human viewpoint, but
+objectively not the best as it is simply to slow to meet the demands of this
+complicated position.} ({Black had two interesting options at the disposal.
+The first one involved placing the queen on the nice active diagonal where she
+eyes g1. This is important as after} 21... Qb6 $5 22. Nb3 Ne2 23. Nxe2 Rf1+ {
+[%csl Rg1][%cal Rb6g1] The fact that g1 is under control and Ng1 is not
+possible is extremely annoying for White.}) (21... Ne2 {The simple jump of the
+knight to e2 was also quite unpleasant as after} 22. Nxe2 Rxe2 {Black is very
+active. Maybe Botvinnik wasn't sure about what happens if the rook is kicked
+away say with} 23. Bd3 {but here there is a strong option} Qe5 $1 24. Qxe5 Rxe5
+{[%cal Re5e1,Rf8f1] And this endgame is won for Black as White's pieces are
+not coming out anytime soon and the rooks are too active on the open files.})
+22. Ndf3 {[%csl Gf3][%cal Rc1f4,Rg3f4] A logical move, moving the knight away
+from the path of the bishop, attacking f4 and also keeping it closer to the
+king.} (22. Nb3 {However, it was probably better not to place the knight on f3
+and avoid all ideas of Bxf3. Here if we continue in the same manner as in the
+game then after} Ne2 23. Nxe2 Rxe2 24. Bd3 {Black doesn't have anything better
+than to go for} Qe5 25. Qxe5 Rxe5 {But here with our knight already on b3 the
+evaluation of the endgame is different as after} 26. Nxc5 Re1+ 27. Kh2 {
+[%cal Ga2a4,Gc5b3] We have managed to get a pawn and get our pieces out and
+can play Nb3-a4 next trying to get the rook in the game. The engine insists
+this is still equal, but I feel only White can now play for the win.}) 22...
+Ne2 $2 {But this now comes at the least appropriate moment, justifying White's
+play perfectly!} ({Black could have exploited the fact the knight is now on f3
+by capturing it with the bishop.} 22... Bxf3 {And now suddenly neither of the
+captures is fully satisfactory for White, e.g.} 23. gxf3 (23. Nxf3 {Taking
+with the knight looks very healthy and harmonious, but there is also a problem
+in the view of} Nxg2 $1 {When Black has enough counterplay for equality.} 24.
+Bg5 {Virtually the only move!} (24. Qxg2 Qxf3 $19) (24. Kxg2 Re2+ $19) 24...
+Qxf3 25. Qxf3 Rxf3 26. Kxg2 Ref8 {And in this endgame Black is not worse as
+they have two pawns and a rook for the two bishops and a lot of activity on
+the open files.}) (23. Qxf3 {Taking with the queen is no good as it removes
+the queen from controlling the e1 square and allows the unpleasant} Re1 24. Rb1
+Ne2 25. Be3 {and here it seems White has it all covered but here comes the
+unpleasant} Qe5 {[%cal Rf8f3,Re2g3] when White is in major trouble.}) 23... d4
+{And this version of the endgame after} 24. Bxf4 Qxf4 25. Qxf4 Rxf4 26. Be4
+dxc3 27. bxc3 Rd8 {Is also very unclear as White's pawn chain is very much
+ruined. Probably the game should result in a draw.}) 23. Nxe2 Rxe2 24. Bd1 $1 {
+Now this surprising bishop retreat, bolstering the f3 knight, is very strong
+and justifies White's choice to move the knight to the kingside earlier in the
+game.} (24. Bd3 {Going to d3 is not so powerful now as after} Bxf3 25. gxf3 Re6
+{[%cal Rf6f3] The pawn on f3 is under attack and there is no time for some Bd2
+move.}) 24... Re6 $6 {Not the most resillient, but in any case Black's
+position is quite bad at this point.} (24... Bxf3 25. gxf3 Re6 {Was probably
+more resistant as it at least ruined White's structure, but here since the
+bishop is not on d3 and since the other bishop is protecting f3, there is not
+much play for Black and White can continue calmly with} 26. Bd2 {[%cal Gf3f4,
+Gd1f3] When the position should be technically winning after f3-Bf3 next.}) 25.
+Bd2 {Now White has managed to fully consolidate and should be better due to
+the slight material advantage.} h6 26. Kh2 Re4 $6 27. Ng5 $2 {[%cal Rd1h5]
+Flashy, but not necessary. Virtually any other move like moving the rook or
+the a-pawn would have kept a clear plus.} hxg5 $2 {Missing the final saving
+chance.} (27... Bxd1 $1 {Black could have actually allowed White to take on e4
+as after} 28. Nxe4 dxe4 29. Rxd1 Rd8 {[%cal Rd8d3,Rf6d6] It transpires there
+is no easy way to get rid of the pin on the d-file. Black has ideas of Rd3-Qd6
+and it is hard to make progress for White. Not an easy continuation to
+evaluate, but objectively 27.Ng5? relinquished all White's advantage.}) 28.
+Bxh5 {Now everything is in order and White should be easilly winning as
+Smyslov now has a bishop pair and the g-pawns are also doubled and weak.} Re5
+29. Bf3 Qe7 30. a4 {Opening up the rook is a typical idea in these,
+Marshall-like positions.} Kh7 31. axb5 axb5 32. Ra7 {[%cal Re7a7,Rg3e5]
+Seeking simplification is always a good idea in technically winning positions.}
+Qd6 33. Bg4 {[%cal Rd2g5] Not falling for the trap.} (33. Bxg5 $2 {Would lose
+all advantage due to} Rxf3 {when White has to settle for} 34. Qxf3 (34. gxf3 $4
+Re2+ {Loses the queen and the game. It is never too late to spoil a chess game!
+}) 34... Rxg5+ 35. Kg1 $11 {with equality.}) 33... Rd8 34. Kh1 $138 (34. Bf4
+$18 {[%cal Rg3g7,Gg4f5] Here, and on the next move, the same tactic that was
+ultimately seen in the game was available.}) 34... d4 35. cxd4 (35. Bf4 $1 {
+Was once again possible!}) 35... cxd4 36. Bf4 $1 {[%cal Rg3d6] Very strong,
+winning even more material!} Re1+ ({The bishop is immune as} 36... gxf4 37.
+Bf5+ {[%cal Rg3g7,Ra7g7] Leads to the mate on g7.}) 37. Qxe1 Qxf4 {Now White
+has a clean extra piece and the conversion shouldn't be in any question.} 38.
+Rd7 {Simplifying even further!} Rxd7 39. Bxd7 d3 40. Bg4 {[%cal Gg4d1]
+Covering the d1 queening square is sufficient.} (40. Bxb5 $18 {was also good
+enough!}) 40... d2 41. Qe2 b4 42. Qd3+ g6 43. Kg1 Kh6 44. b3 Kg7 45. Bf3 Qf7
+46. Kf2 {[%csl Rd2][%cal Gd3e3,Gf2e2] The winning plan is simple - get the
+king to e2 and collect the pawn on d2.} Qe6 47. Qe3 Qd6 48. Bd1 Qd5 49. g4 Kh7
+50. Ke2 {[%csl Rd2] And here Botvinnik finally decided he has had enough and
+called it a day. A fascinating, mind-boggling struggle kinda ahead of the time.
+It makes one brain explode to analyze this complicated game even with the help
+of the engines - I can only imagine how the players (and contemporary analysts)
+felt when trying to figure things out by using the board and the pieces.} 1-0
+
+[Event "Exercise #1"]
+[Site "Moscow URS"]
+[Date "1945.06.??"]
+[Round "2"]
+[White "Vasily Smyslov"]
+[Black "Iosif Rudakovsky"]
+[Result "1-0"]
+[ECO "B83"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r4rk1/ppq1bppp/3pbn2/4p3/4PP2/2N1B3/PPP1B1PP/R3QRK1 w - - 0 13"]
+[PlyCount "9"]
+[EventDate "1945.??.??"]
+
+{[%csl Re6] In the previous two encounters, we have seen how Smyslov had the
+ability to play very violent, tactical, Tal-like chess - especially in his
+youth (but not only in his youth). However, as a player, he is much more
+famous for his positional, logical and "simple" style with the help of which
+he sometimes outplayed his opponents imperceptibly and quietly. --- A perfect
+example of "vintage" Smyslov style is the following game, played against the
+Ukrainian Master Iosif Rudakovsky in the 1945 USSR Championship. It is a very
+famous game that I use to this day to illustrate the power of occupying the d5
+square in the Najdorf structure and it is a classic example of the "Good
+Knight vs The Bad Bishop" scenario. --- The first critical position arose on
+move 13. Black just moved the bishop to e6. Why exactly is this not the best
+positional idea?} 13. f5 {[%csl Gf5][%cal Rf5e6] A very strong continuation
+that is very typical for this Najdorf structure (with the Black pawns on d6
+and e5). White grabs space on the kingside and removes the pawn from f4 where
+it can potentially be exchanged for the pawn on e5. When doing this maneuver,
+White does need to be careful not to allow the immediate counterstrike with d5,
+which is not the case here because this advance comes with the tempo on the
+bishop on e6.} Bc4 $6 {[%csl Rc4] Continuing with the idea of exchanging the
+bishops, but it is actually wrong as it weakens Black's grip over the d5
+square. It is much easier for Black's bishop to control the d5 square than for
+the bishop on e2, so this exchange is very much in White's favour.} (13... Bd7
+{Retreating the bishop to d7 was objectively better, but now the e4 pawn is
+not under the attack and White can once again play} 14. Bg5 Bc6 15. Bxf6 Bxf6 {
+And here White has a very good grip over the d5 square that can be increased
+even further by bringing the pieces to the d-file and Black is much worse than
+in lines with the immediate Bd7.}) 14. Bxc4 Qxc4 15. Bg5 {[%cal Rg5e7] A very
+strong move! White now exchanges the final defender of the d5 square and
+intends to plant their own knight there - and there is nothing Black can do
+against this plan, as Rudakovsky has just exchanged the last defender - the
+bishop on e6.} Rfe8 {It is probably better to put the rook on another file as
+on e8 it merely ends up in some tactical problems, but as it is, Black's
+position is strategically suspect.} 16. Bxf6 Bxf6 {Now we can see Black has no
+pieces that can prevent the knight from finding a happy home on d5 - and that
+factor alone is already sufficient for the game to be strategically lost.} 17.
+Nd5 {[%csl Ra8,Gd5,Re8][%cal Gd5c7] Furthermore - due to the positioning of
+the rooks (a consequence of the move Re8) - White can jump to d5 immediately.}
+1-0
+
+[Event "Exercise #2"]
+[Site "Moscow URS"]
+[Date "1945.06.??"]
+[Round "2"]
+[White "Vasily Smyslov"]
+[Black "Iosif Rudakovsky"]
+[Result "1-0"]
+[ECO "B83"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r3r1k1/pp3ppp/3p1b2/3NpP2/2q1P3/8/PPP3PP/R3QRK1 b - - 0 17"]
+[PlyCount "10"]
+[EventDate "1945.??.??"]
+
+{So, we have just seen how White managed to plant the knight on d5, which
+almost immediately leads to a difficult position for Black. However, on the
+next move, Rudakovsky made Smyslov's job even easier. Can you do better and
+suggest the most resillient defensive move for Black in this position?} 17...
+Qxc2 {For better or for worse, Black should have probably captured the pawn on
+c2. At first glance it seems as if it loses an exchange - but at least it
+disrupts the natural flow of the game - and forces White to give up the
+wonderful knight on d5 (that is easily worth at least a rook). Play might
+continue} (17... Bd8 {[%csl Gd8] A very passive defensive move, typical of
+that era, that gives White everything they ever wanted in this position.}) 18.
+Rf2 {[%cal Rf2a2] Attacking the queen and defending the b2 pawn.} Qc6 {The
+queen has to stay on the c-file otherwise Nc7 happens all the same.} 19. Rc1 {
+Winning the exchange nevertheless as Nc7 is unavoidable now.} Qa6 20. Nc7 {
+[%cal Rc7e8,Rc7a8,Rc7a6]} Qxa2 21. Nxa8 Rxa8 22. Rfc2 {And even though White
+has won an exchange, Black has two pawns for it and the conversion task is not
+at all trivial. I think this would have been a much better saving chance and I
+feel any modern player would go for something less clear and complicated
+instead of a position where play is extremely one-sided.} 1-0
+
+[Event "Exercise #3"]
+[Site "Moscow URS"]
+[Date "1945.06.??"]
+[Round "2"]
+[White "Vasily Smyslov"]
+[Black "Iosif Rudakovsky"]
+[Result "1-0"]
+[ECO "B83"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "2rbr2k/p4ppp/3p4/1pqNpP2/4P3/1PP2R2/P5PP/R3Q2K w - - 0 22"]
+[PlyCount "15"]
+[EventDate "1945.??.??"]
+
+{Thus, we have previously seen how White managed to plant an unopposed knight
+on d5. Now we are going to see how such a powerful steed can be use to decide
+the outcome of the game in one's favour. In the diagram position, White
+already has a very strong continuation at their disposal. How would you
+continue here?} 22. f6 {Now finally Smyslov decides on this pawn advance,
+opening up the kingside and creating a winning attack. It is possible to wait
+and play some further preparatory moves, but this is a good moment to strike!
+No matter how Black reacts, they are objectively completely lost.} gxf6 (22...
+Bxf6 {Taking with the bishop is no better, as after} 23. Nxf6 gxf6 24. Qh4 {
+[%csl Rf6,Rh7][%cal Gh4f6,Gh4h7] The attack on the kingside decides the game.})
+(22... g6 {Is even worse as after} 23. Qh4 {There is no good way of dealing
+with the mating threat.} Rg8 {Doesn't help as White has this typical mating
+pattern available} (23... h5 24. Qg5 Kh7 25. Rh3 {[%cal Rh3h5] And the sac on
+h5 will decide.}) 24. Qxh7+ Kxh7 25. Rh3#) 23. Qh4 {[%csl Rf6,Rh7][%cal Gh4f6,
+Gh4h7] Creating threats on the kingside and attacking the weak points on f6
+and h7.} Rg8 24. Nxf6 {[%cal Rh4h7] Threatening mate on h7. At this point,
+White is no longer concerned about maintaining the strong knight on d5 and is
+perfectly willing to allow its exchange for the bishop - matters will be
+decided in a direct attack.} Rg7 {Trying desperately to defend h7.} (24... Bxf6
+{Getting rid of the knight at this point doesn't change much as after} 25.
+Qxf6+ Rg7 26. Rg3 {[%cal Rg3g7,Rf6h8] We get something very similar to the
+game:} Rcg8 27. Rd1) 25. Rg3 {Hoping to divert the defender and also
+threatening Qxh7 on the spot right now.} Bxf6 26. Qxf6 Rcg8 27. Rd1 {[%cal
+Gg3c3,Rd1d6] Now the action along the d-file decides. Note that c3 is
+protected so Black can't ever hope to create some play against the back rank 
+(not that even that would help in this position).} d5 28. Rxg7 Rxg7 29. Rxd5 {
+[%cal Gd5d8] And here Rudakovsky finally decided to throw in the towel. A
+convincing, superb and crystal clear game by Smyslov that is a model example
+on winning the fight for the d5 square in these structures. I really like
+these old games as their simplicity is sometimes extremely instructive. Mind
+you, Rudakovsky wasn't some random slouch, but a very respectable master and
+the game was played at the strongest competition of that time - the USSR
+Championship - which just shows how much chess has evolved in the last 70
+years on all fronts - especially in regard to the opening knowledge and in
+terms of defensive play.} 1-0
+
+[Event "USSR Championship"]
+[Site "Moscow URS"]
+[Date "1945.06.??"]
+[Round "2"]
+[White "Vasily Smyslov"]
+[Black "Iosif Rudakovsky"]
+[Result "1-0"]
+[ECO "B83"]
+[Annotator "mistr"]
+[PlyCount "57"]
+[EventDate "1945.??.??"]
+
+{In the previous two encounters, we have seen how Smyslov had the ability to
+play very violent, tactical, Tal-like chess - especially in his youth (but not
+only in his youth). However, as a player, he is much more famous for his
+positional, logical and "simple" style with the help of which he sometimes
+outplayed his opponents imperceptibly and quietly. --- A perfect example of
+"vintage" Smyslov style is the following game, played against the Ukrainian
+Master Iosif Rudakovsky in the 1945 USSR Championship. It is a very famous
+game that I use to this day to illustrate the power of occupying the d5 square
+in the Najdorf structure and it is a classic example of the "Good Knight vs
+The Bad Bishop" scenario.} 1. e4 {Once again, we see Smyslov opening with the
+king's pawn.} c5 2. Nf3 {But this is a bit surprising. Already back at that
+time, Smyslov started playing the Closed Sicilian variation - an opening that
+would bring him a lot of success throughout his career. But, that day he
+decided to go for the more principled battle in the Open Sicilian.} e6 3. d4
+cxd4 4. Nxd4 Nf6 5. Nc3 d6 {The pure Scheveningen variation is considered to
+be a bit risky nowadays due to the possibility of advancing the g-pawn on the
+next move, but of course, back in 1945 the theory of this variation (and of
+many other openings) was only starting to develop.} 6. Be2 {This natural
+developing move is a natural option - but not the most critical one according
+to the 21st century standards.} (6. g4 $5 {This move, leading to the so-called
+Keres attack, is nowadays considered to be by far the most critical test of
+the Scheveningen variation.}) 6... Be7 7. O-O O-O 8. Be3 {Both sides develop
+their forces in a logical and natural manner.} Nc6 {The main move in this
+position, developing the knight, creating some pressure on the d4 knight and
+anticipating the advance of the f-pawn that would allow Black to execute the
+timely e5 counterpush in the center. Black is trying to make an argument in
+this variation that moving the a-pawn is not necessary and that they can start
+fighting for the center at once.} (8... a6 {Is another big move that
+transposes to a version of the Scheveningen structure that can be reached via
+the Najdorf move order (when Black plays a6 earlier on move 5). It was played
+by a number of strong players, such as Carlsen, Anand and Ivanchuk.}) 9. f4 {
+White, in turn, embarks on the standard plan for this structure, involving the
+advance of the kingside pawns.} Qc7 {[%cal Gc7c6,Gc7e5] This move is somewhat
+surprising, but actually not at all that bad. Black defends the knight on c6
+and adds some more influence over the critical e5 square.} (9... e5 {Black
+could have also considered striking in the center immediately with e5, but I
+think this is a bit premature when the knight on c6 is not protected as after}
+10. Nxc6 bxc6 11. fxe5 dxe5 {[%csl Rc6] Black does have inferior structure.
+This is why the main moves here involve defending the c6 knight first.}) (9...
+Bd7 {Defending the knight with the bishop on d7 is by far the most common and
+natural move in this position.}) 10. Qe1 {[%cal Ge1g3,Gg3h4] This move,
+intending to transfer the queen to the kingside, is very standard for the
+Scheveningen structure, but it is not so well-timed here as it allows Black to
+execute the main idea of the e5 counteradvance.} (10. a4 {[%cal Gd1d4] Keeping
+the option of recapturing on d4 with the queen and making a useful
+semi-waiting move for now is a better option.}) (10. Kh1 {Is also a move that
+comes into consideration.}) 10... Nxd4 {[%cal Ge6e5] A typical liberating
+maneuver in the Sicilian, exchanging the knight and intending to strike in the
+center with e5.} 11. Bxd4 e5 12. Be3 {Now Black has equallized comfortably as
+they have gained their fair share in the center.} Be6 {[%cal Gf4f5,Ge6c4] But
+almost immediately, Rudakovsky makes the wrong decision, allowing the pawn to
+come to f5 with a gain of tempo.} (12... Bd7 {Moving the bishop to d7 and
+intending to place it on c6 was a better option as it wouldn't have allowed f5
+to come with tempo. Now if} 13. f5 Bc6 {Is very strong, as after} 14. Bf3 b5 {
+And White is in trouble as Black has a perfect control over the d5 square and
+should bee able to execute the thematic advance of the d5 pawn very soon.}) (
+12... a6 {Preparing the move b5 potentially.}) (12... b6 {Or b6 intending to
+fianchetto the bishops, were both also sensible.}) (12... exf4 {Last but not
+least - Black could have also executed this thematic pawn exchange, removing
+the possibility of ever playing f5 from White's array of options.} 13. Bxf4 Be6
+{[%csl Rd6,Re4][%cal Gf6d7,Gd7e5] In this type of structure, the weakness of
+the d6 pawn is counterbalanced by the weakness of the e4 pawn and the e5
+square and usually in these structures, Black should be fine if they manage to
+reach a position like this one without any major concessions.}) 13. f5 {
+[%csl Re6][%cal Rf5e6] A very strong continuation that is very typical for
+this Najdorf structure (with the Black pawns on d6 and e5). White grabs space
+on the kingside and removes the pawn from f4 where it can potentially be
+exchanged for the pawn on e5. When doing this maneuver, White does need to be
+careful not to allow the immediate counterstrike with d5, which is not the
+case here because this advance comes with the tempo on the bishop on e6.} Bc4
+$6 {Continuing with the idea of exchanging the bishops, but it is actually
+wrong as it weakens Black's grip over the d5 square. It is much easier for
+Black's bishop to control the d5 square than for the bishop on e2, so this
+exchange is very much in White's favour.} (13... Bd7 {Retreating the bishop to
+d7 was objectively better, but now the e4 pawn is not under the attack and
+White can once again play} 14. Bg5 Bc6 15. Bxf6 Bxf6 {And here White has a
+very good grip over the d5 square that can be increased even further by
+bringing the pieces to the d-file and Black is much worse than in lines with
+the immediate Bd7.}) 14. Bxc4 Qxc4 15. Bg5 {[%cal Rg5e7] A very strong move!
+White now exchanges the final defender of the d5 square and intends to plant
+their own knight there - and there is nothing Black can do against this plan,
+as Rudakovsky has just exchanged the last defender - the bishop on e6.} Rfe8 {
+It is probably better to put the rook on another file as on e8 it merely ends
+up in some tactical problems, but as it is, Black's position is strategically
+suspect.} 16. Bxf6 Bxf6 {Now we can see Black has no pieces that can prevent
+the knight from finding a happy home on d5 - and that factor alone is already
+sufficient for the game to be strategically lost.} 17. Nd5 {[%csl Ra8,Gd5,Re8]
+[%cal Gd5c7] Furthermore - due to the positioning of the rooks (a consequence
+of the move Re8) - White can jump to d5 immediately.} Bd8 {[%csl Gd8] A very
+passive defensive move, typical of that era, that gives White everything they
+ever wanted in this position.} (17... Qxc2 {For better or for worse, Black
+should have probably captured the pawn on c2. At irst glance it seems as if it
+loses an exchange - but at least it disrupts the natural flow of the game -
+and forces White to give up the wonderful knight on d5 (that is easily worth
+at least a rook). Play might continue} 18. Rf2 {[%cal Rf2a2] Attacking the
+queen and defending the b2 pawn.} Qc6 {The queen has to stay on the c-file
+otherwise Nc7 happens all the same.} 19. Rc1 {Winning the exchange
+nevertheless as Nc7 is unavoidable now.} Qa6 20. Nc7 {[%cal Rc7e8,Rc7a8,Rc7a6]}
+Qxa2 21. Nxa8 Rxa8 22. Rfc2 {And even though White has won an exchange, Black
+has two pawns for it and the conversion task is not at all trivial. I think
+this would have been a much better saving chance and I feel any modern player
+would go for something less clear and complicated instead of a position where
+play is extremely one-sided.}) 18. c3 {[%csl Gc3,Gd5][%cal Gd5f6] Now White
+secures the c-pawn and Black is left without any counterplay. The knight on d5
+is a true octopus, influencing a large part of the board - most notably the f6
+square, that creates some attacking chances.} b5 {Trying to create some play,
+but this doesn't lead anywhere.} (18... f6 {Black should probably prevent
+White from playing f6 once and for all and then wait to see how White will try
+to break the position.}) 19. b3 (19. f6 {Was very strong already, but Smyslov
+was never one to rush matters.}) 19... Qc5+ 20. Kh1 Rc8 {Once again this is
+kinda futile as Black can't open any files on the queenside - but what else to
+play?} 21. Rf3 {Starting to prepare the kingside attack. Due to the central
+control and lack of counterplay on the queenside, the kingside is the side of
+the board where White should, indeed, play.} (21. f6 {Was once again very
+strong here.}) 21... Kh8 (21... f6 {Was the last chance not to lose
+immediately.}) 22. f6 {Now finally Smyslov decides on this pawn advance,
+opening up the kingside and creating a winning attack. No matter how Black
+reacts, they are objectively completely lost.} gxf6 (22... Bxf6 {Taking with
+the bishop is no better, as after} 23. Nxf6 gxf6 24. Qh4 {[%csl Rf6,Rh7][%cal
+Gh4f6,Gh4h7] The attack on the kingside decides the game.}) (22... g6 {Is even
+worse as after} 23. Qh4 {There is no good way of dealing with the mating
+threat.} Rg8 {Doesn't help as White has this typical mating pattern available}
+(23... h5 24. Qg5 Kh7 25. Rh3 {[%cal Rh3h5] And the sac on h5 will decide.})
+24. Qxh7+ Kxh7 25. Rh3#) 23. Qh4 {[%csl Rf6,Rh7][%cal Gh4f6,Gh4h7] Creating
+threats on the kingside and attacking the weak points on f6 and h7.} Rg8 24.
+Nxf6 {[%cal Rh4h7] Threatening mate on h7. At this point, White is no longer
+concerned about maintaining the strong knight on d5 and is perfectly willing
+to allow its exchange for the bishop - matters will be decided in a direct
+attack.} Rg7 {Trying desperately to defend h7.} (24... Bxf6 {Getting rid of
+the knight at this point doesn't change much as after} 25. Qxf6+ Rg7 26. Rg3 {
+[%cal Rg3g7,Rf6h8] We get something very similar to the game:} Rcg8 27. Rd1)
+25. Rg3 {Hoping to divert the defender and also threatening Qxh7 on the spot
+right now.} Bxf6 26. Qxf6 Rcg8 27. Rd1 {[%cal Gg3c3,Rd1d6] Now the action
+along the d-file decides. Note that c3 is protected so Black can't ever hope
+to create some play against the back rank (not that even that would help in
+this position).} d5 28. Rxg7 Rxg7 29. Rxd5 {[%cal Gd5d8] And here Rudakovsky
+finally decided to throw in the towel. A convincing, superb and crystal clear
+game by Smyslov that is a model example on winning the fight for the d5 square
+in these structures. I really like these old games as their simplicity is
+sometimes extremely instructive. Mind you, Rudakovsky wasn't some random
+slouch, but a very respectable master and the game was played at the strongest
+competition of that time - the USSR Championship - which just shows how much
+chess has evolved in the last 70 years on all fronts - especially in regard to
+the opening knowledge and in terms of defensive play.} 1-0
+
+[Event "Exercise #1"]
+[Site "The Hague NED / Moscow URS"]
+[Date "1948.04.11"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Samuel Reshevsky"]
+[Result "1-0"]
+[ECO "C75"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r2qr1k1/1ppb1pp1/p1np1bnp/3Np3/3PP3/1BP2N2/PP3PPP/R1BQ1RK1 w - - 0 13"]
+[PlyCount "5"]
+[EventDate "1948.??.??"]
+
+{Even though there weren't any major International chess tournaments during
+the World War II, in the war-torn USSR more than a few tournaments were
+organized in the 1942-1945 period. Thus, Smyslov - as well as other Soviet
+players - did get their regular practice and continued developing. --- It is,
+therefore, not surprising that, after the war, Smyslov already turned out to
+be one of the best chess players in the world. It already showed in the first
+International tournament held in Groningen in 1946 where Smyslov came in third
+behind Botvinnik and Euwe. Thus, it wasn't surprising that Smyslov was invited
+to be one of the participants in the FIDE World Championship Tournament, held
+in the Hague and Moscow in 1948. --- This tournament was supposed to resolve
+the interregnum state that had arisen after Alekhine's death. Apart from
+Botvinnik and Smyslov, Euwe, Keres and Reshevsky participated. It was
+precisely the American grandmaster that Soviets feared the most as he was
+considered to be Botvinnik's most serious competitor. --- Every encounter with
+Reshevsky, was, thus, of utmost importance - but in round 11 of the tournament
+Smyslov inflicted him a devastating blow. It is one of those brilliant
+strategic/positional masterpieces Smyslov was rather known for and is
+definitely one of his best games that fully deserves to be included on this
+list. --- Let's join the game at the first critical moment - on move 13.
+Reshevsky used the Steinitz Defence of the Ruy Lopez in this game, but didn't
+handle the opening in very critical manner (not surprising, given that
+Reshevsky was never a true opening specialist). Yet, in the diagram position,
+there is a lot of tension in the center and it is not so easy to figure out
+how best to handle it. How would you continue as White here? Can you find the
+move Smyslov played?} 13. dxe5 $1 {For me, this is an oustanding move that
+shows superb judgment. White deals with the threat to the e4 pawn and claims
+that Black has no good way of recapturing on e5 for positional reasons.} Bxe5 {
+It is hard to say which recapture is better. Or more precisely - worse. Taking
+with the bishop seems crazy as it gets rid of the bishop pair, but Black is
+claiming that the knights are better in this position due to its closed nature.
+} (13... Ngxe5 {Taking with the knight would be met with} 14. Nxe5 {A very
+strong idea, once again emphasizing the fact that Black doesn't have good way
+of recapturing.} (14. Nd2 {[%cal Gf2f4] Even this knight retreat, preserving
+the pieces and preparing f4, is possible.}) 14... Nxe5 (14... dxe5 {Always
+loses to} 15. Nxf6+ {[%cal Rd1d7] When Black is unable to recapture on f6 with
+the queen due to the hanging bishop.} gxf6 16. Qh5 {Here White is winning
+directly due to Black's ruined kingside.}) (14... Rxe5 {is no better as after}
+15. Bc2 {[%cal Gf2f4] f4 is coming next and Black is again in trouble.}) (14...
+Bxe5 15. f4 {Is very strong for White as after} Bf6 16. Bc2 {There are all
+kinds of threats on the kingside and Black is suffering due to the lack of
+space.}) 15. f4 {[%csl Ge4,Gf4] And here White obtains a very dangerous pawn
+duo in the center and Black is suffering from the lack of space.}) (13... Ncxe5
+14. Nxe5 {Leads to a very similar variations as after 13...Ngxe5.}) (13... dxe5
+{Taking with the pawn is losing on the spot as after} 14. Nxf6+ {[%cal Rd1d7]
+The queen is unable to recapture on f6 due to the hanging bishop on d7 and
+after} gxf6 {Black is just busted due to the weakened kingside structure.
+White even has the immediate} 15. Nh4 Nxh4 16. Qh5 {[%cal Rh5h6,Rh5h4]
+Basically winning on the spot.}) 14. Nxe5 {Once again, White invites Black to
+place a piece on e5 so that f4 can happen next.} dxe5 {[%csl Ge5][%cal Ge5f4]
+Black is trying to stabillize the center and prevent the whole f4 idea, but
+this invites different kinds of problems.} (14... Ngxe5 15. f4 {Is still very
+dangerous for Black.}) (14... Ncxe5 15. f4 {Leads to something very similar.})
+(14... Rxe5 15. Bc2 {[%cal Gf2f4] With f4 coming next, is also not very
+attractive.}) 15. Qf3 {[%cal Rf3f7,Rb3f7] Threatening all sorts of discoveries
+against f7. Black's problem are passive pieces - the knight is unable to jump
+to f4 and the other one is severely restricted by the c3 pawn.} 1-0
+
+[Event "Exercise #2"]
+[Site "The Hague NED / Moscow URS"]
+[Date "1948.04.11"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Samuel Reshevsky"]
+[Result "1-0"]
+[ECO "C75"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "rn5k/1p2qpp1/pB1pn2p/4p3/4P1Q1/1BP3P1/PP3P1P/3R2K1 w - - 0 25"]
+[PlyCount "11"]
+[EventDate "1948.??.??"]
+
+{Let's join the game slightly later - on move 25. After a few transformations,
+the position has become completely winning for White, as Black has a weak pawn
+on d6 and White also has the bishop pair. However, things are never very easy
+in chess - currently Black wants to play Nd7, remove the bishop from b6, then
+slowly unravel with Rd8, Nc5 and so on. --- Smyslov, however, found a
+wonderful way to transform the advantage and transition to a favourable
+endgame. Can you find the set of maneuver he played in this very moment?} 25.
+Bxe6 {[%csl Re6] As they say, one advantage of having the bishop pair is the
+possibility of exchanging them at an opportune moment. This is a perfect
+example - White gives up the light-squared bishop in order to ruin the
+structure and force the advantageous transformation of the position.} fxe6 (
+25... Qxe6 26. Qxe6 fxe6 27. Rxd6 {Leads to a completely lost endgame, of
+course.}) 26. Qh4 {[%cal Rh4d8] A star move. When I first saw this positional
+idea, I couldn't believe my eyes, as White is voluntarily inviting Black to
+ruin the pawn structure, but in this position it is all about the activity in
+the endgame.} Qd7 {Trying to keep the queens on the board and avoid the
+depressing endgame, but this merely delays the inevitable.} (26... Qxh4 {
+Taking the queen on h4 does ruin the structure, but after} 27. gxh4 Nd7 28.
+Rxd6 {[%cal Rd6e6]} Nf8 29. h5 {White's activity is far more relevant than the
+double h-pawns. Besides, Black has a lot of weak pawns of their own and White
+is just completely winning.}) 27. Qd8+ {Another strong point behind the Qh4
+move.} Qxd8 28. Bxd8 {[%csl Rd6][%cal Rd1d6] Now it transpires it is not
+possible to defend the d6 pawn.} Nd7 29. Bc7 {[%cal Rc7d6]} (29. Ba5 Nc5 30.
+Rxd6 {Seems simpler as the e4 pawn is not really important here} Nxe4 31. Rxe6
+{White should easily win here as the pieces are too active and Black has too
+many weaknesses.}) 29... Nc5 30. Rxd6 {[%cal Rd6e6] And this endgame should be
+won as White has an extra pawn and the rook is very active. Although, of
+course, it is never easy to win a chess game and some technique is still
+required.} 1-0
+
+[Event "Exercise #3"]
+[Site "The Hague NED / Moscow URS"]
+[Date "1948.04.11"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Samuel Reshevsky"]
+[Result "1-0"]
+[ECO "C75"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "6k1/R5p1/7p/7P/p3P3/6P1/r4PK1/8 w - - 0 41"]
+[PlyCount "23"]
+[EventDate "1948.??.??"]
+
+{After some further adventures, on move 41, the following rook endgame has
+been reached. Black has a passed pawn, but White has 4 vs 2 majority on the
+kingside. Furthermore, Black's rook is in front of the a-pawn, while White's
+rook on a7 is placed ideally behind the passed pawn. Due to all these factors,
+White should be winning - but it is good to learn the winning technique in
+similar endgames. --- Ideally, I would recommend you to try and win this
+position against the computer. Alternatively, you can try to guess how Smyslov
+continued here - although in this type of position it is not so much about the
+moves as much as the concepts!} 41. g4 {White's general idea consists of
+advancing the kingside pawns, creating a shelter for the king and then either
+winning g7 or hoping to push the passed e-pawn to the queening square.} a3 42.
+Kg3 Re2 {[%cal Re2e4,Ra7a3] Trying to exchange the a-pawn for the e4 pawn and
+obtain an endgame with 3 pawns versus two on the kingside which has high
+drawing margin.} 43. Kf3 {Of course, Smyslov doesn't want to allow this
+transformation.} (43. Rxa3 {Taking the a-pawn would be a premature blunder as
+after} Rxe4 {This endgame is dead drawn. It is beyond the scope of this
+analysis to dive deep and explain how and why Black draws (it is a big
+question whether the author himself would know how to do it, to be honest),
+but it objectively shouldn't be too difficult. I refer you to some endgame
+books/practical play if you are interested about finding more on this topic.})
+43... Ra2 44. Ke3 {[%cal Gf2f3,Ge3f4] Preparing to move the f-pawn and then
+put the king in front of it.} Kf8 45. f3 Ra1 46. Kf4 a2 {[%csl Ge4,Gf3,Gg4,Gh5]
+At first glance this may look a bit problematic as Black's a-pawn is far
+advanced, but it transpires that White's pawns provide a nice shield for the
+king.} 47. e5 Kg8 48. Kf5 {[%cal Gf5g6,Gf3f4] Threatening Kg6 or f4 so Black's
+reply is forced.} Rf1 {Trying to eliminate one of the pawns, but this happens
+too late here.} (48... Kh7 {Trying to stop Kg6 would allow} 49. f4 {And Black
+is in zugzwang - they have to either allow the king to g6 or lose the a2 pawn.}
+Kg8 50. Kg6 Kf8 51. g5 {And Black is losing here e.g.} Ke8 52. Kxg7 hxg5 53. f5
+{[%csl Gf6][%cal Gf5f6,Gf6f7] White is much faster and Black can't survive.
+There are other ways to win, of course, but just to illustrate the point -
+Black's rook on a1 is too passive while the one on a7 can simultaneously cover
+the a2 pawn and participate in promotion of White's own pawns.}) 49. Rxa2 Rxf3+
+50. Kg6 {[%csl Gg6][%cal Ga2a8] The king on g6 is way too active Ra7 and Ra8
+are both threatened here.} Kf8 (50... Rf8 51. Ra7 {[%cal Ge5f6] Loses the g7
+pawn and with it - the game. Note how it is very useful to have the pawn on e5
+preventing any Rf6 checks.}) 51. Ra8+ Ke7 52. Ra7+ {[%csl Rg7] And here
+Reshevsky finally decided to throw in the towel. A beautiful strategic
+masterpiece that has always left a long-lasting impression on me - in
+particular this counterintuitive move Qh4 transitioning to a won endgame. ---
+It is true that this game showcased Reshevsky's weaknesses - most notably in
+the opening phase of the game. But don't forget he was one of the strongest
+players in the world for a loong time and that he would also have a rivarly
+with the young Fischer in the late 1950s and early 1960s. --- Beating him in
+this style was no easy feat and this game is a very good demonstration of
+Smyslov's class at a time.} 1-0
+
+[Event "FIDE World Championship Tournament"]
+[Site "The Hague NED / Moscow URS"]
+[Date "1948.04.11"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Samuel Reshevsky"]
+[Result "1-0"]
+[ECO "C75"]
+[Annotator "mistr"]
+[PlyCount "103"]
+[EventDate "1948.??.??"]
+
+{Even though there weren't any major International chess tournaments during
+the World War II, in the war-torn USSR more than a few tournaments were
+organized in the 1942-1945 period. Thus, Smyslov - as well as other Soviet
+players - did get their regular practice and continued developing. --- It is,
+therefore, not surprising that, after the war, Smyslov already turned out to
+be one of the best chess players in the world. It already showed in the first
+International tournament held in Groningen in 1946 where Smyslov came in third
+behind Botvinnik and Euwe. Thus, it wasn't surprising that Smyslov was invited
+to be one of the participants in the FIDE World Championship Tournament, held
+in the Hague and Moscow in 1948. --- This tournament was supposed to resolve
+the interregnum state that had arisen after Alekhine's death. Apart from
+Botvinnik and Smyslov, Euwe, Keres and Reshevsky participated. It was
+precisely the American grandmaster that Soviets feared the most as he was
+considered to be Botvinnik's most serious competitor. --- Every encounter with
+Reshevsky, was, thus, of utmost importance - but in round 11 of the tournament
+Smyslov inflicted him a devastating blow. It is one of those brilliant
+strategic/positional masterpieces Smyslov was rather known for and is
+definitely one of his best games that fully deserves to be included on this
+list.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 {The so-called Steinitz Defence
+is considered to be a relatively solid, but quite passive opening. It is still
+seen from time to time today at the top level - but mostly in faster time
+controls.} 5. c3 Nge7 {Nowadays, this move is relatively rarely played, even
+though it is a favourite of the strong grandmaster Anton Demchenko.} 6. d4 Bd7
+7. Bb3 {This clever move, side-stepping all sorts of potential exchanges of
+the bishop and eyeing the f7 square, is the most common possibility here 
+(although not the only one).} h6 {Preventing anything from coming to g5.} 8.
+Nbd2 Ng6 {[%cal Gg6e5,Gg6f4] The point of the variation. Black tries to
+reinforce the central e5 point as much as possible. Potentially, the knight
+looks to jump to f4 in the future.} 9. Nc4 {[%cal Gc4e3] Continuing the
+typical Ruy Maneuver and intending to place the knight to e3.} (9. O-O {
+You might be wondering - but why doesn't White castle first? It is definitely
+possible, but transposition is very likely after} Be7 10. Nc4) 9... Be7 {
+[%cal Ge8g8] Black continues with the development and intends to castle.} 10.
+O-O O-O (10... Bg5 {This is a typical modern move that has been played in this
+position. Black realizes their dark-squared bishop is their worst placed piece
+so they try to get rid of it in radical fashion. Note that taking on g5 is
+probably not the best as after} 11. Nxg5 (11. Ne3 Bxe3 12. Bxe3 {Was what was
+seen in some games at the grandmaster level. Black gives up the bishop pair
+but claim that exchanging one pair of pieces has eased their position a little
+bit. White is probably still better, but this is the modern interpretation of
+such an opening line.}) 11... hxg5 {[%csl Gf4][%cal Rh8h2,Gg5f4,Ge5f4] Black
+gets the open h-file and a nice outpost on f4 for the knight.}) 11. Ne3 {
+[%cal Ge3d5] The knight finishes the journey and is ready to jump to d5 next.}
+Bf6 {Continuing in the same solid and passive style.} ({Trying to relieve the
+tension in the center and eliminate some pieces also came into consideration.} 
+11... exd4 12. Nxd4 (12. cxd4 {Taking with the pawn is also possible, but after
+} Bf6 {Black does get some play against the central pawns.}) 12... Nxd4 13.
+cxd4 Bg5 {[%cal Gg5c1,Ge3d5] Black is seeking to exchange some pieces as they
+have less space. Still, after} 14. Nd5 Bxc1 15. Rxc1 c6 16. Ne3 {White's space
+advantage in the center should guarantee some advantage. It is not much as
+Black is very solid, but they are also very very passive.}) 12. Nd5 {[%csl Gd5]
+[%cal Rd5f6] Now the knight is very powerful on d5.} Re8 $6 {[%cal Re8e4,Ge5d4]
+Another passive move. It was probably better to take on d4 first. Black now
+threatens to take and then to take on e4 - but now White gains an additional
+option of capturing on e5 himself.} (12... exd4 13. Nxd4 {Absolutely necessary
+here. This idea can be seen often - say in some Italian position it is often a
+theme.} (13. cxd4 Re8 {And it turns out White's center is under a lot of
+pressure, e.g.} 14. Bc2 Bg4) 13... Nxd4 14. cxd4 Re8 15. f3 {And now with the
+knight from f3 gone, the center is under much less pressure as Bg4 is not a
+thing and White has a stable advantage (although a lot of chess remains to be
+played, ofc).}) 13. dxe5 $1 {For me, this is an oustanding move that shows
+superb judgment. White deals with the threat to the e4 pawn and claims that
+Black has no good way of recapturing on e5 for positional reasons.} Bxe5 {
+It is hard to say which recapture is better. Or more precisely - worse. Taking
+with the bishop seems crazy as it gets rid of the bishop pair, but Black is
+claiming that the knights are better in this position due to its closed nature.
+} (13... Ngxe5 {Taking with the knight would be met with} 14. Nxe5 {A very
+strong idea, once again emphasizing the fact that Black doesn't have good way
+of recapturing.} (14. Nd2 {[%cal Gf2f4] Even this knight retreat, preserving
+the pieces and preparing f4, is possible.}) 14... Nxe5 (14... dxe5 {Always
+loses to} 15. Nxf6+ {[%cal Rd1d7] When Black is unable to recapture on f6 with
+the queen due to the hanging bishop.} gxf6 16. Qh5 {Here White is winning
+directly due to Black's ruined kingside.}) (14... Rxe5 {is no better as after}
+15. Bc2 {[%cal Gf2f4] f4 is coming next and Black is again in trouble.}) (14...
+Bxe5 15. f4 {Is very strong for White as after} Bf6 16. Bc2 {There are all
+kinds of threats on the kingside and Black is suffering due to the lack of
+space.}) 15. f4 {[%csl Ge4,Gf4] And here White obtains a very dangerous pawn
+duo in the center and Black is suffering from the lack of space.}) (13... Ncxe5
+14. Nxe5 {Leads to a very similar variations as after 13...Ngxe5.}) (13... dxe5
+{Taking with the pawn is losing on the spot as after} 14. Nxf6+ {[%cal Rd1d7]
+The queen is unable to recapture on f6 due to the hanging bishop on d7 and
+after} gxf6 {Black is just busted due to the weakened kingside structure.
+White even has the immediate} 15. Nh4 Nxh4 16. Qh5 {[%cal Rh5h6,Rh5h4]
+Basically winning on the spot.}) 14. Nxe5 {Once again, White invites Black to
+place a piece on e5 so that f4 can happen next.} dxe5 {[%csl Ge5][%cal Ge5f4]
+Black is trying to stabillize the center and prevent the whole f4 idea, but
+this invites different kinds of problems.} (14... Ngxe5 15. f4 {Is still very
+dangerous for Black.}) (14... Ncxe5 15. f4 {Leads to something very similar.})
+(14... Rxe5 15. Bc2 {[%cal Gf2f4] With f4 coming next, is also not very
+attractive.}) 15. Qf3 {[%cal Rf3f7,Rb3f7] Threatening all sorts of discoveries
+against f7. Black's problem are passive pieces - the knight is unable to jump
+to f4 and the other one is severely restricted by the c3 pawn.} Be6 {A logical
+way of trying to deal with the pressure on the long diagonal.} 16. Rd1 {
+[%cal Rd1d8] Including the rook in the game and eyeing the queen on d8.} Bxd5
+$2 {But this is a terrible move, simply handing the d5 square and the
+light-squares into White's hands!} (16... Qc8 {For better or for worse, Black
+should have tried to sidestepp the discovered attack on the d-file and moved
+the queen. Then White has a very pleasant position as all his pieces are
+better placed, but there is nothing immediately decisive and after, say} 17. h3
+a5 {[%cal Ga5a4,Gc6a5,Ga5c4] With the idea of a4 and Na5-Nc4, Black is still
+fighting!}) 17. Rxd5 {[%csl Ga1,Gb3,Gc1,Gd5] Now White has a total control
+over the d5 square and the light-squares in general and also the bishop pair.
+The position is strategically winning now.} (17. Bxd5 {Is also very good.})
+17... Qe7 18. Qf5 {[%cal Gd5d7,Rc1h6,Rf5g6] Threatening Rd7, but also the
+devilish Bxh6 and Qxg6.} Nf8 {This move is necessary to deal with all the
+threats, but this is another backward move.} (18... Rad8 {is met with} 19. Bxh6
+{This bishop sacrifice is necessary in order to open up the back rank!} gxh6
+20. Rxd8 Rxd8 21. Qxg6+ {[%cal Ga1h1]}) 19. Be3 {[%cal Ga1d1,Ge3c5] White has
+the easy plan of bringing the other rook into the game, while at the same time,
+Bc5 is also threatened.} Ne6 20. Rad1 Red8 21. g3 {[%csl Gf4][%cal Gg3f4] A
+very instructive move. White does not rush matters at all, but makes a small
+improving move, creating some space for the king, covering the f4 square and
+asking Black - what will you do.} Rd6 {Trying to double the rooks, but this
+allows White to transform the position.} 22. Rxd6 cxd6 {[%csl Rd6] Now a new
+weakness has appeared on d6.} 23. Qg4 {[%cal Re3h6] Threatening Bxh6 and
+preparing a fantastic move that will be seen in the game.} Kh8 {Sidestepping
+the threat. Maybe f8 or h7 were better squares, but there is not much of a
+difference.} 24. Bb6 {[%csl Gd8][%cal Gb6d8] Taking the d8 under control.
+White doesn't need to hurry in this position. Once again - the weak pawn on d6
+and the bishop pair are static, permanent advantages, so Smyslov is merely
+trying to restrict Black as much as possible.} Nb8 {[%csl Gd7][%cal Gb8d7]
+This move has a concrete idea in mind - get the knight to d7 and kick the
+bishop away. It is not entire clear how good this concept is even if it is
+executed, but now Smyslov finds an outstanding way to transition into a
+winning endgame.} 25. Bxe6 {[%csl Re6] As they say, one advantage of having
+the bishop pair is the possibility of exchanging them at an opportune moment.
+This is a perfect example - White gives up the light-squared bishop in order
+to ruin the structure and force the advantageous transformation of the
+position.} fxe6 (25... Qxe6 26. Qxe6 fxe6 27. Rxd6 {Leads to a completely lost
+endgame, of course.}) 26. Qh4 {[%cal Rh4d8] A star move. When I first saw this
+positional idea, I couldn't believe my eyes, as White is voluntarily inviting
+Black to ruin the pawn structure, but in this position it is all about the
+activity in the endgame.} Qd7 {Trying to keep the queens on the board and
+avoid the depressing endgame, but this merely delays the inevitable.} (26...
+Qxh4 {Taking the queen on h4 does ruin the structure, but after} 27. gxh4 Nd7
+28. Rxd6 {[%cal Rd6e6]} Nf8 29. h5 {White's activity is far more relevant than
+the double h-pawns. Besides, Black has a lot of weak pawns of their own and
+White is just completely winning.}) 27. Qd8+ {Another strong point behind the
+Qh4 move.} Qxd8 28. Bxd8 {[%csl Rd6][%cal Rd1d6] Now it transpires it is not
+possible to defend the d6 pawn.} Nd7 29. Bc7 {[%cal Rc7d6]} (29. Ba5 Nc5 30.
+Rxd6 {Seems simpler as the e4 pawn is not really important here} Nxe4 31. Rxe6
+{White should easily win here as the pieces are too active and Black has too
+many weaknesses.}) 29... Nc5 30. Rxd6 {[%cal Rd6e6] And this endgame should be
+won as White has an extra pawn and the rook is very active. Although, of
+course, it is never easy to win a chess game and some technique is still
+required.} Rc8 31. Bb6 {Maybe not the cleanest, as it does allow some Na4
+counterplay.} (31. Ba5 {Was once again probably simpler, although White is
+winning nevertheless.}) 31... Na4 {Now it transpires that b2 pawn will drop
+and that Black will get some queenside activity, although White does have an
+extra pawn and the bishop is, generally, better than the knight in a position
+like this.} 32. Rxe6 Nxb2 33. Rxe5 Nc4 34. Re6 Nxb6 35. Rxb6 Rxc3 36. Rxb7 {
+Nevertheless, White ends up in a rook endgame with an extra pawn which should
+be an easy win. Still it is somewhat instructive to see how exactly does
+Smyslov convert this.} Rc2 37. h4 {Not being concerned about the a-pawn.
+Smyslov starts advancing the kingside pawn majority. The idea is to get the
+king to f5, pawns on f4,g4,h5 and then to either win the g7 pawn or to push
+the e-pawn far away down the board.} Rxa2 38. Kg2 a5 39. h5 {[%csl Gh5][%cal
+Gh5g6]} a4 40. Ra7 {Rook behind the passed pawn is ideally placed!} Kg8 41. g4
+a3 42. Kg3 Re2 {[%cal Re2e4,Ra7a3] Trying to exchange the a-pawn for the e4
+pawn and obtain an endgame with 3 pawns versus two on the kingside which has
+high drawing margin.} 43. Kf3 {Of course, Smyslov doesn't want to allow this
+transformation.} (43. Rxa3 {Taking the a-pawn would be a premature blunder as
+after} Rxe4 {This endgame is dead drawn. It is beyond the scope of this
+analysis to dive deep and explain how and why Black draws (it is a big
+question whether the author himself would know how to do it, to be honest),
+but it objectively shouldn't be too difficult. I refer you to some endgame
+books/practical play if you are interested about finding more on this topic.})
+43... Ra2 44. Ke3 {[%cal Gf2f3,Ge3f4] Preparing to move the f-pawn and then
+put the king in front of it.} Kf8 45. f3 Ra1 46. Kf4 a2 {[%csl Ge4,Gf3,Gg4,Gh5]
+At first glance this may look a bit problematic as Black's a-pawn is far
+advanced, but it transpires that White's pawns provide a nice shield for the
+king.} 47. e5 Kg8 48. Kf5 {[%cal Gf5g6,Gf3f4] Threatening Kg6 or f4 so Black's
+reply is forced.} Rf1 {Trying to eliminate one of the pawns, but this happens
+too late here.} (48... Kh7 {Trying to stop Kg6 would allow} 49. f4 {And Black
+is in zugzwang - they have to either allow the king to g6 or lose the a2 pawn.}
+Kg8 50. Kg6 Kf8 51. g5 {And Black is losing here e.g.} Ke8 52. Kxg7 hxg5 53. f5
+{[%csl Gf6][%cal Gf5f6,Gf6f7] White is much faster and Black can't survive.
+There are other ways to win, of course, but just to illustrate the point -
+Black's rook on a1 is too passive while the one on a7 can simultaneously cover
+the a2 pawn and participate in promotion of White's own pawns.}) 49. Rxa2 Rxf3+
+50. Kg6 {[%csl Gg6][%cal Ga2a8] The king on g6 is way too active Ra7 and Ra8
+are both threatened here.} Kf8 (50... Rf8 51. Ra7 {[%cal Ge5f6] Loses the g7
+pawn and with it - the game. Note how it is very useful to have the pawn on e5
+preventing any Rf6 checks.}) 51. Ra8+ Ke7 52. Ra7+ {[%csl Rg7] And here
+Reshevsky finally decided to throw in the towel. A beautiful strategic
+masterpiece that has always left a long-lasting impression on me - in
+particular this counterintuitive move Qh4 transitioning to a won endgame. ---
+It is true that this game showcased Reshevsky's weaknesses - most notably in
+the opening phase of the game. But don't forget he was one of the strongest
+players in the world for a loong time and that he would also have a rivarly
+with the young Fischer in the late 1950s and early 1960s. --- Beating him in
+this style was no easy feat and this game is a very good demonstration of
+Smyslov's class at a time.} 1-0
+
+[Event "Exercise #1"]
+[Site "Zuerich SUI"]
+[Date "1953.10.13"]
+[Round "24"]
+[White "Paul Keres"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E14"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "2rq1rk1/pb2bppp/1pn1p3/3p4/2PP4/PPR2N2/1B3PPP/3QRBK1 w - - 0 16"]
+[PlyCount "7"]
+[EventDate "1953.08.30"]
+
+{As we have previously seen, already in 1948, Smyslov was considered to be one
+of the strongest players in the world and a legitimate contender for the World
+Chess Championship title. And even though things didn't go his way in the very
+next cycle (which was - somewhat surprisingly - won by David Bronstein) -
+starting from the 1953-1954 World Championship Cycle Smyslov would dominate
+the remainder of the 1950s and participate in no less than three World
+Championship Matches against Mikhail Botvinnik. --- The crucial step toward
+his first World Chess Championship match against Botvinnik was the legendary
+Candidates Tournament 1953, played in Zürich. After 21 rounds, Smyslov was
+tied with Reshevsky at 12.5/21, while the legendary Estonian Paul Keres was
+just behind them with half a point less. --- It goes without saying that the
+encounter between Keres and Smyslov in the 22nd round was of tremendous
+competitive importance. We are now going to examine this historic game. The
+first critical position arose on move 16. Smyslov didn't play the opening
+perfectly and ended up in a suspicious position. How should have Keres
+continued here?} 16. c5 {[%csl Gc3,Gc5][%cal Gc3c5] Advancing on the queenside
+was much better in this position as it would have utilize the nice position of
+the rook on c3 and set White's pawn majority into the motion. Black would end
+up in some significant difficulties.} (16. Ne5 $2 {Was what was played in the
+game, but it is the wrong move, involving a faulty plan of attacking on the
+kingside with the pieces. It is hard to say why exactly this plan doesn't work
+- it simply isn't viable on the tactical, move per move basis.}) 16... bxc5 {
+Not the only move, but just to illustrate the basic idea.} 17. dxc5 Bf6 18. Rc2
+{[%csl Ga3,Gc5][%cal Gb3b4] And due to the pawn majority on the queenside that
+will be reinforced with b4 next, White is significantly better. Note that} a5 {
+Isn't particularly helpful as after} 19. Qd2 {[%cal Gb3b4] b4 will happen all
+the same.} 0-1
+
+[Event "Exercise #2"]
+[Site "Zuerich SUI"]
+[Date "1953.10.13"]
+[Round "24"]
+[White "Paul Keres"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E14"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "2rq1rk1/pb3p1p/1p2pbp1/3p3R/2PP4/PP5R/1B3PPP/3Q1BK1 b - - 0 19"]
+[PlyCount "5"]
+[EventDate "1953.08.30"]
+
+{Instead of the positional plan and advance of the queenside pawn majority,
+Keres decided to burn all the bridges and go for the all-in attack. On his
+last move, he offered the sacrifice of the rook on h5. Should Black accept it
+or is there a better move available?} 19... dxc4 $3 {[%cal Gb7e4,Ge4h7] A cold
+shower and one of the most brilliant defensive moves ever played - especially
+if we consider the competetive importance of this game. Black refuses to
+capture the rook but first opens up the bishop's diagonal and creates the
+threat of capturing the rook and then retreating the bishop to e4 to cover the
+h7 pawn. Furthermore, the c-pawn now becomes an important asset in the
+position.} (19... gxh5 {At first glance it is not at all clear whether the
+acceptance of the rook sacrifice loses. However, we will see that it does and
+will return to this move slightly later.}) 20. bxc4 {Recapturing the pawn on
+c4 now allows Black to take the rook without any issues as after} (20. Rxh7 $2
+{This is the losing move, but it was hard to suggest what White should do next.
+} c3 {[%cal Rc3b2] A cold shower! It turns out White has no attack going and
+now the powerful c-pawn is shutting the bishop out of the game and threatening
+to promote very very fast.} 21. Qc1 {[%cal Gc1h6] Trying to get in Qh6-Rh8-Qh7
+mate but it is easily parried.} Qxd4 {[%cal Rd4h8] Adding some more protection
+on the long diagonal.} 22. Qh6 Rfd8 {And now there is no mate and Black wins
+quickly due to the better pieces and the strong c-pawn. Smyslov went on to win
+the game easily.}) (20. Qg4 {Is suggested by the engine as the most resillient
+move, but after} c3 21. Bxc3 Qd6 {[%csl Ra3,Rd4,Rh3,Rh5] It is not entirely
+clear where White's attack is going and Black has a great positional advantage
+due to the better structure and better coordinated pieces (the rooks are not
+useful on the h-file if they are not participating in an attack).}) 20... gxh5
+21. Qxh5 Be4 {[%csl Gh7][%cal Ge4h7] the h7 pawn is securely defended and
+Black is simply winning.} 0-1
+
+[Event "Exercise #3"]
+[Site "Zuerich SUI"]
+[Date "1953.10.13"]
+[Round "24"]
+[White "Paul Keres"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E14"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "2rq1rk1/pb3p1p/1p2pb2/3p3p/2PP4/PP5R/1B3PPP/3Q1BK1 w - - 0 20"]
+[PlyCount "15"]
+[EventDate "1953.08.30"]
+
+{[%evp 0,35,24,-5,6,-8,13,6,15,16,13,11,11,-2,19,4,5,-9,-13,-6,-23,0,-8,-4,-11,
+7,-6,0,14,4,9,20,2,-31,-58,-75,-83,-83] Let's get back to the position that
+could have arisen on move 20 if Black had taken the rook. For many years, the
+commentators wondered whether Keres' sacrificial concept was correct, but
+nowadays, we can establish that it indeed was, but only if White finds the
+right attacking resource at the end of it. Can you do so? How would you
+continue the attack after the brilliant rook sacrifice?} 20. Qxh5 {[%cal Rh3h7]
+Ok, the first move is kinda obvious as mate on h7 is threatened.} Re8 {White
+has the following ultra brilliant attacking idea} 21. a4 $3 {[%cal Gb2a3,Ra3f8]
+This is the star move - with the extremely potent idea of playing Ba3 that is
+winning on the spot, no matter what Black does. I will provide two sample
+lines.} Qd6 {[%cal Rd6a3] seems a bit more resistant as it covers the a3-f8
+diagonal, but here White has the powerful move.} (21... dxc4 22. Qxh7+ Kf8 23.
+Ba3+ Re7 24. Rg3 {[%cal Gg3g8] And due to the threat of Rg8, Black will lose
+at least a queen and his king will still be in a lot of peril, while White
+will regain some pawns as well.}) 22. Qh6 {[%csl Rf6][%cal Rh6f6,Gh3g3,Gf1d3]
+Attacking the bishop and creating ideas of Rg3 and Bd3.} Bg7 (22... Qe7 {
+Defending the bishop doesn't help as after} 23. Rg3+ Kh8 24. Bd3 {Black gets
+mated - but on h7 this time. A surprising change of the target!}) 23. Qxh7+ Kf8
+24. Rg3 {[%cal Rg3g8] Creating the threat against the g7 bishop once again.}
+Bf6 25. c5 {[%cal Rc5d6,Gb2a3,Gd4c5,Rb2f6] A star move! Forcing the queen away
+from the d6 post and preparing Ba3, while at the same time introducing the
+idea of attacking the bishop on f6 with the help of a discovery.} bxc5 (25...
+Qd8 {Retreating the queen is possible, but then White has several ways of
+continuing, the easiest probably being} 26. c6 Rxc6 27. Ba3+ Rd6 28. Bb5 {
+And White has a winning attack with all the pieces participating.}) 26. Qh6+ {
+[%csl Rf6][%cal Rh6f8,Rh6f6,Gh6f4] Including this important check to attack
+the bishop on f6 and also prevent the queen from coming to f4.} Ke7 27. dxc5 {
+[%cal Rh6f6,Rb2f6,Rc5d6] And now the queen on d6 is attacked as well as the
+bishop on f6 and White is completely winning.} 0-1
+
+[Event "Zurich Candidates"]
+[Site "Zuerich SUI"]
+[Date "1953.10.13"]
+[Round "24"]
+[White "Paul Keres"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E14"]
+[Annotator "mistr"]
+[PlyCount "56"]
+[EventDate "1953.08.30"]
+
+{[%evp 0,35,24,-5,6,-8,13,6,15,16,13,11,11,-2,19,4,5,-9,-13,-6,-23,0,-8,-4,-11,
+7,-6,0,14,4,9,20,2,-31,-58,-75,-83,-83] As we have previously seen, already in
+1948, Smyslov was considered to be one of the strongest players in the world
+and a legitimate contender for the World Chess Championship title. And even
+though things didn't go his way in the very next cycle (which was - somewhat
+surprisingly - won by David Bronstein) - starting from the 1953-1954 World
+Championship Cycle Smyslov would dominate the remainder of the 1950s and
+participate in no less than three World Championship Matches against Mikhail
+Botvinnik. --- The crucial step toward his first World Chess Championship
+match against Botvinnik was the legendary Candidates Tournament 1953, played
+in Zürich. After 21 rounds, Smyslov was tied with Reshevsky at 12.5/21, while
+the legendary Estonian Paul Keres was just behind them with half a point less.
+--- It goes without saying that the encounter between Keres and Smyslov in the
+22nd round was of tremendous competitive importance. We are now going to
+examine this historic game.} 1. c4 {Keres was a very versatile player that
+could open with virtually any first move. In this game, he decided to go for a
+quiet, unconventional approach, avoiding the theoretical battle and trying to
+maintaing the tension from the early moments, hoping to outplay Smyslov in a
+later stage of the game.} Nf6 2. Nc3 e6 {Even though Smyslov was playing the
+King's Indian and Grünfeld in his career, he was also regularly employing the
+Nf6-e6 setups against 1.d4, so it is not that surprising to see him invite the
+transposition to the Nimzo-Indian here.} 3. Nf3 {Keres still refrains from
+moving the d-pawn and continues to play "around" the center.} c5 4. e3 Be7 5.
+b3 {Definitely not the most ambitious way of handling the opening stage of the
+game, but once again sticking to the same principle of avoiding any sort of
+theoretical battle.} O-O 6. Bb2 b6 {Black also doesn't seek immediate
+confrontation and aims to develop the bishop to b7.} (6... d5 {Advancing in
+the center with d5 is much more principled and was seen in a number of
+high-level games - even in 2022.}) 7. d4 {Now White finally takes a moment to
+push the d-pawn in the center. It is hard to count on any serious advantage
+without doing so.} cxd4 8. exd4 $6 {But this is a little bit strange decision,
+in my opinion. Black deliberately shuts the diagonal of the bishop on b2 and
+allows Black to transpose to some sort of Colle-System position.} (8. Nxd4 {
+Keeping the diagonal of the b2 bishop open seems much more natural, to be
+completely honest.}) (8. Qxd4 {With the very same idea is also possible. Say
+after} Nc6 9. Qd2 Bb7 10. Be2 {White has a normal, very healthy position.})
+8... d5 {[%csl Rd4,Gd5][%cal Rb2d4] Naturally, now Smyslov strikes in the
+center and prevents White from playing d5 and opening up the bishop on b2 at
+any moment.} 9. Bd3 {Developing the bishop to a very active square and
+pointing it at the Black king. Even though Black has equalized, the position
+is definitely not "dead" and a lot of play remains - which is probably what
+White players employing such an unpretentious scheme are hoping for.} Nc6 {
+[%csl Gc6][%cal Gc6b4,Gc6e7,Gc6a5] It feels a bit strange to place the knight
+to c6 where it is blocking the bishop on b7, but it is far more active there
+than on d7 and can jump, say, to b4 - or even reroute itself via e7 at some
+point in the future. Also, if White ever plays a3, then Na5 comes into
+consideration.} 10. O-O Bb7 11. Rc1 Rc8 12. Re1 {[%cal Gf3e5] Now we have
+actually transposed to one of the main lines of the Colle system that was
+tested in practice many many times.Both sides bring their forces into the game.
+In general, White wants to occupy the e5 square at some point.} Nb4 {[%csl Rd3]
+[%cal Rb4d3,Rc8c4,Rd5c4,Gb7h1] One of the possible moves in this position,
+attacking the bishop on d3 and creating some play against hte c4 pawn.} 13. Bf1
+Ne4 {I am not sure how good this jump of the knight to e4 is, though - even
+though it was also played recently at the very high level.} (13... Re8 {
+Calm move like Re8, bringing the rook to a file where it will be useful, is
+very sensible, for example. White is the one who needs to find a way of
+continuing next.}) 14. a3 {A nice intermediate move, kicking the knight from
+b4 away.} Nxc3 (14... Na6 {Comes into the consideration, although after} 15.
+Bd3 {Black is probably forced to move the knight from e4 all the same.}) 15.
+Rxc3 {[%cal Gc3h3] Now the rook is very active along the 3rd rank and has the
+option of swinging to the kingside in due time. This position is actually very
+dangerous for Black and it can be concluded that Keres' opening choice has
+worked very well up to this point.} Nc6 16. Ne5 $2 {But almost immediately
+Keres goes for the wrong move, involving a faulty plan of attacking on the
+kingside with the pieces. It is hard to say why exactly this plan doesn't work
+- it simply isn't viable on the tactical, move per move basis.} (16. c5 {
+Advancing on the queenside was much better in this position as it would have
+utilize the nice position of the rook on c3 and set White's pawn majority into
+the motion. Black would end up in some significant difficulties.} bxc5 {
+Not the only move, but just to illustrate the basic idea.} 17. dxc5 Bf6 18. Rc2
+{[%csl Ga3,Gc5][%cal Gb3b4] And due to the pawn majority on the queenside that
+will be reinforced with b4 next, White is significantly better. Note that} a5 {
+Isn't particularly helpful as after} 19. Qd2 {b4 will happen all the same.})
+16... Nxe5 17. Rxe5 $6 {Consistently going for the attacking idea, but
+objectively there was still time to change the mind.} (17. dxe5 {Is probably
+objectively better, although after} dxc4 18. Bxc4 g6 {[%csl Re5][%cal Rb2e5,
+Gb7g2] Black is now the one calling all the shots as the bishop on b2 is
+restricted by the pawn on e5 while the one on b7 is very happy with the open
+diagonal. Furthermore - the pawn on e5 can potentially be weak later on.})
+17... Bf6 18. Rh5 g6 19. Rch3 {The crux of Keres' idea is this bold and
+imaginative sacrifice of a full rook. Alas, he missed Smyslov's
+ultra-brilliant defensive reply.} dxc4 $3 {[%cal Gb7e4,Ge4h7] A cold shower
+and one of the most brilliant defensive moves ever played - especially if we
+consider the competetive importance of this game. Black refuses to capture the
+rook but first opens up the bishop's diagonal and creates the threat of
+capturing the rook and then retreating the bishop to e4 to cover the h7 pawn.
+Furthermore, the c-pawn now becomes an important asset in the position.} (19...
+gxh5 {At first glance it is not at all clear whether the acceptance of the
+rook sacrifice loses. However, after} 20. Qxh5 Re8 {White has the following
+ultra brilliant attacking idea} 21. a4 $3 {[%cal Gb2a3,Ra3f8] With the
+extremely potent idea of playing Ba3 that is winning on the spot, no matter
+what Black does. I will provide two sample lines.} dxc4 (21... Qd6 {seems a
+bit more resistant as it covers the a3-f8 diagonal, but here White has the
+powerful move} 22. Qh6 {[%csl Rf6][%cal Rh6f6,Gh3g3,Gf1d3] Attacking the
+bishop and creating ideas of Rg3 and Bd3.} Bg7 (22... Qe7 {Defending the
+bishop doesn't help as after} 23. Rg3+ Kh8 24. Bd3 {Black gets mated - but on
+h7 this time. A surprising change of the target!}) 23. Qxh7+ Kf8 24. Rg3 {
+[%cal Rg3g8] Creating the threat against the g7 bishop once again.} Bf6 25. c5
+{[%cal Rc5d6,Gb2a3,Gd4c5,Rb2f6] A star move! Forcing the queen away from the
+d6 post and preparing Ba3, while at the same time introducing the idea of
+attacking the bishop on f6 with the help of a discovery.} bxc5 (25... Qd8 {
+Retreating the queen is possible, but then White has several ways of
+continuing, the easiest probably being} 26. c6 Rxc6 27. Ba3+ Rd6 28. Bb5 {
+And White has a winning attack with all the pieces participating.}) 26. Qh6+ {
+[%csl Rf6][%cal Rh6f8,Rh6f6,Gh6f4] Including this important check to attack
+the bishop on f6 and also prevent the queen from coming to f4.} Ke7 27. dxc5 {
+[%cal Rh6f6,Rb2f6,Rc5d6] And now the queen on d6 is attacked as well as the
+bishop on f6 and White is completely winning.}) 22. Qxh7+ Kf8 23. Ba3+ Re7 24.
+Rg3 {[%cal Gg3g8] And due to the threat of Rg8, Black will lose at least a
+queen and his king will still be in a lot of peril, while White will regain
+some pawns as well.}) 20. Rxh7 $2 {This is the losing move, but it was hard to
+suggest what White should do next.} (20. bxc4 {Recapturing the pawn on c4 now
+allows Black to take the rook without any issues as after} gxh5 21. Qxh5 Be4 {
+[%csl Gh7][%cal Ge4h7] the h7 pawn is securely defended and Black is simply
+winning.}) (20. Qg4 {Is suggested by the engine as the most resillient move,
+but after} c3 21. Bxc3 Qd6 {[%csl Ra3,Rd4,Rh3,Rh5] It is not entirely clear
+where White's attack is going and Black has a great positional advantage due
+to the better structure and better coordinated pieces (the rooks are not
+useful on the h-file if they are not participating in an attack).}) 20... c3 {
+[%cal Rc3b2] A cold shower! It turns out White has no attack going and now the
+powerful c-pawn is shutting the bishop out of the game and threatening to
+promote very very fast.} 21. Qc1 {[%cal Gc1h6] Trying to get in Qh6-Rh8-Qh7
+mate but it is easily parried.} Qxd4 {[%cal Rd4h8] Adding some more protection
+on the long diagonal.} 22. Qh6 Rfd8 {And now there is no mate and Black wins
+quickly due to the better pieces and the strong c-pawn.} 23. Bc1 Bg7 24. Qg5
+Qf6 25. Qg4 c2 26. Be2 Rd4 27. f4 Rd1+ 28. Bxd1 Qd4+ {A remarkable defensive
+effort by Smyslov and one of those games that makes you feel sad for Keres as
+one gets the impression he was betrayed by his nerves at the moment when the
+tension was high. In any case, after this, in the following round Smyslov also
+went on to beat Reshevsky in a crucial encounter and ended up winning the
+Candidates Tournament 1953 with a 2 point difference, qualifying thus for the
+match against the formidable Botvinnik.} 0-1
+
+[Event "Exercise #1"]
+[Site "Moscow URS"]
+[Date "1954.04.15"]
+[Round "14"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E68"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r1b2rk1/p2n1pbp/q1pp2p1/1p4B1/N1PpP1P1/5NP1/PP3PB1/R2Q1RK1 w - - 0 14"]
+[PlyCount "5"]
+[EventDate "1954.??.??"]
+
+{Thus, after winning the Zürich Candidates Tournament in 1953, Smyslov
+qualified for the match against Botvinnik that was held in 1954 in Moscow.
+This match turned out to be one of the most fighting and "bloodiest" in the
+entire history of chess. Out of 24 games, 14 had a decisive outcome and at
+some point there was a streak of 8- decisive games. --- Smyslov himself
+started extremely poorly, losing 3 out of the first 4 games. However, after
+winning game 7 and then scoring a hat trick in games 9-11, he took the lead
+briefly before losing games 12 and 13 and finding himself trailing by a point
+again. --- But then, in game 14, he managed to win again and level the scores
+again. This is probably his most impressive creative achievement from that
+first match and fully deserves to be mentioned here. --- Let's start our
+explorations by examining the wild opening position that arose on move 14.
+From the modern viewpoint, this whole variation of the King's Indian is
+dubious, but it is not so easy to prove it. How would you continue as White
+here? Can you find the best move?} 14. Be7 {[%cal Re7f8,Re7d6] From the modern
+viewpoint, this attack on the rook on f8 and the pawn on d6 can be regarded as
+best.} ({In the game, Botvinnik played} 14. Nxd4 {Of course, it is easy to
+criticize the pioneers that trailblazed the path, but this is objectively not
+the best move in the position. Botvinnik was surely tempted with the
+subsequent sacrifice on c6, but must have underestimated/misevaluated the
+resulting position. We will get back to this move in the next exercise.}) (14.
+Bf4 {[%cal Rf4d6] Would lead to a very similar variation after} bxa4 15. Bxd6
+Re8 16. c5) 14... Re8 15. Bxd6 bxa4 16. c5 {[%csl Ra4,Rc6,Rd4,Gd6] And White
+should have the objective advantage in this position due to the strong bishop
+on d6 and some cleaer targets in Black's position, although the position does
+remain very complicated. Nevertheless, it seems that the practical results at
+the grandmaster level favour White, which is probably one of the reasons why
+these concrete line is not as popular nowadays.} 0-1
+
+[Event "Exercise #2"]
+[Site "Moscow URS"]
+[Date "1954.04.15"]
+[Round "14"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E68"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r1b2rk1/p2n1pbp/q1pp2p1/1p4B1/N1PNP1P1/6P1/PP3PB1/R2Q1RK1 b - - 0 14"]
+[PlyCount "7"]
+[EventDate "1954.??.??"]
+
+{Going back to the position arising on move 14. How should Black play now
+after White moved the knight to d4?} 14... bxa4 {Ok, the first move is obvious
+- take the hanging knight.} 15. Nxc6 {[%cal Ra6c6,Ge4e5] The point of
+Botvinnik's play - luring the queen to c6 and preparing e5 next, opening the
+light-squared bishop.} (15. Be7 {Might still be the better move, but then it
+should have been played one move earlier anyway.}) 15... Qxc6 16. e5 Qxc4 $1 {
+A tremendous reply (although there is not much choice). Smyslov simply
+collects all the pawns that are offered and realizes he will receive a lot of
+compensation for the exchange.} 17. Bxa8 Nxe5 {[%csl Ge5,Rg4,Gg7][%cal Gg7b2]
+This position is dynamically balanced. Black's active pieces, the weakness of
+the g4 pawn and the dominant knight on e5 more than compensate for the missing
+exchange. And even though the game is objectively within the drawing margins
+from the engine standpoint, it is very natural to expect it will not end in a
+draw in a game between two humans. I feel Black has better chances as his
+position is easier to play - and the subsequent course of the game confirms
+this.} 0-1
+
+[Event "Exercise #3"]
+[Site "Moscow URS"]
+[Date "1954.04.15"]
+[Round "14"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E68"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "B1b2rk1/p4pbp/3p2p1/4n1B1/Q5P1/P5P1/1q3P2/2R2RK1 b - - 0 20"]
+[PlyCount "11"]
+[EventDate "1954.??.??"]
+
+{After some more moves, the following position was reached on move 20 and here
+Smyslov found a fantastic resource. Can you find the move that he played in
+the game - which turns out to be the strongest?} 20... Bb7 $5 {[%cal Ra8h1,
+Ge5f3] A tremendous and creative move that tries to eliminate White's
+light-squared bishop and exploit the weak light-squares around the enemy king,
+but it seemingly invites White to win material on the spot by playing Rb1.} 21.
+Rb1 $4 {Botvinnik once again goes for the materialistic option,
+underestimating the dynamic, sacrificial possibilities available in the
+position - and it turns out to be the losing mistake.} (21. Bxb7 Qxb7 {Was now
+very unpleasant as the queen is on a4 and not controlling the f3 square.
+Nevertheless, after} 22. Be3 {White shouldn't fear the checks too much as after
+} Nf3+ 23. Kh1 {Black has to go for} Nd2+ (23... Nh4+ {Doesn't work due to} 24.
+Qc6) 24. Kh2 Nxf1+ 25. Rxf1 {[%csl Ra7,Rd6] When the game is very much within
+drawing margins despite Black's extra pawn - as the one on a7 is currently
+targeted and the one on d6 is also very weak.}) 21... Nf3+ 22. Kh1 Bxa8 $3 {
+A tremendous move, ignoring the attack on the queen and simply sacrificing it
+for three minor pieces.} 23. Rxb2 Nxg5+ 24. Kh2 Nf3+ 25. Kh3 Bxb2 {[%csl Ga8,
+Gb2,Gf3] Black now obtains three pieces for the queen in a position where they
+coordinate perfectly and where White has a static pawn structure on the
+kingside that provides nice outposts (g5, f3) for these pieces. Thus, somewhat
+surprisingly, White is simply dead lost here.} 0-1
+
+[Event "Botvinnik - Smyslov World Championship"]
+[Site "Moscow URS"]
+[Date "1954.04.15"]
+[Round "14"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "E68"]
+[Annotator "mistr"]
+[PlyCount "66"]
+[EventDate "1954.??.??"]
+
+{[%evp 0,66,24,24,24,13,36,15,19,19,19,29,19,29,42,35,41,17,37,19,51,24,42,35,
+95,60,33,24,24,-7,-9,-6,-6,-7,15,-22,-16,-18,23,-18,2,-12,-17,-92,-87,-144,
+-166,-158,-165,-158,-165,-173,-173,-153,-158,-165,-94,-240,-213,-218,-201,-273,
+-279,-396,-297,-350,-404,-404,-311] Thus, after winning the Zürich Candidates
+Tournament in 1953, Smyslov qualified for the match against Botvinnik that was
+held in 1954 in Moscow. This match turned out to be one of the most fighting
+and "bloodiest" in the entire history of chess. Out of 24 games, 14 had a
+decisive outcome and at some point there was a streak of 8- decisive games.
+--- Smyslov himself started extremely poorly, losing 3 out of the first 4
+games. However, after winning game 7 and then scoring a hat trick in games
+9-11, he took the lead briefly before losing games 12 and 13 and finding
+himself trailing by a point again. --- But then, in game 14, he managed to win
+again and level the scores again. This is probably his most impressive
+creative achievement from that first match and fully deserves to be mentioned
+here.} 1. d4 {In this match, Botvinnik was varying between 1.d4 and 1.c4, with
+the former being seen in the majority of his White games.} Nf6 2. c4 g6 {
+In turn, Smyslov played the Nimzo-Indian, Queen's Gambit Accepted, King's
+Indian and Grünfeld. In this game, though the King's Indian was seen for the
+very first time.} 3. g3 {The fianchetto variation was not a surprising choice
+for Botvinnik.} Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 {This is a
+relatively old way of handling this variation that still has the right to
+exist to this day. Nowadays people have switched to the queenside pawn
+advances - either with c5 or even the exotic a6-Rb8-b5.} 8. e4 c6 {[%csl Gd5]
+[%cal Gc6d5,Gd8a5] Black takes the d5 square under some control and opens up
+the path for the queen. A very standard move in this type of position.} 9. Be3
+{[%csl Gd4][%cal Ge3d4] One of the many possible moves here, developing the
+bishop and adding some more protection to the d4 pawn.} Ng4 {[%csl Re3][%cal
+Rg4e3] The most common move in this position, disturbing the bishop
+immediately, that is still being played to this day.} 10. Bg5 Qb6 {[%csl Rd4]
+[%cal Rb6b2,Rb6d4] Black is trying to pressure the queenside and the central
+pawn on d4 and is already planning the creative sacrifice that appears later
+in the game.} 11. h3 {[%csl Rg4][%cal Rh3g4] But what now? It seems as if the
+knight on g4 has to retreat and that Black's entire opening strategy has kind
+of failed.} exd4 $5 {A very creative and unexpected move, destroying the
+center after all and ignoring the attack to the knight on g4 for the moment.
+The drawback of this move is that it seemingly involves a piece sacrifice,
+although we will see it is only temporary. This move was repeated in a number
+of high profile games even in 2021, so it is definitely playable, albeit a bit
+risky.} (11... Ngf6 {With that being said, some strong players such as
+Naroditsky have retreated the knight to f6 here, but after the calm} 12. b3 {
+I feel White has a dream scenario in this position as the position is very
+secure and it is not immediately obvious how will Black create some
+counterplay.}) 12. Na4 {[%csl Rb6][%cal Ra4b6] This intermediate move, hitting
+the queen and gaining time to capture on g4, seems a bit problematic, but the
+line doesn't yet end here.} Qa6 13. hxg4 b5 {[%csl Ra4][%cal Rb5a4] The point
+of Black's play! With this move, the piece is regained as the knight doesn't
+have anywhere to go. Alas, it transpires that the positional price for this
+tactical operation is a bit high as Black's pawn structure is in ruins and
+White should be able to fight for the advantage here.} 14. Nxd4 {Of course, it
+is easy to criticize the pioneers that trailblazed the path, but this is
+objectively not the best move in the position. Botvinnik was surely tempted
+with the subsequent sacrifice on c6, but must have underestimated/misevaluated
+the resulting position.} (14. Be7 {From the modern viewpoint, this attack on
+the rook on f8 and the pawn on d6 can be regarded as best.} Re8 15. Bxd6 bxa4
+16. c5 {[%csl Ra4,Rc6,Rd4,Gd6] And White should have the objective advantage
+in this position due to the strong bishop on d6 and some cleaer targets in
+Black's position, although the position does remain very complicated.
+Nevertheless, it seems that the practical results at the grandmaster level
+favour White, which is probably one of the reasons why these concrete line is
+not as popular nowadays.}) 14... bxa4 15. Nxc6 {[%cal Ra6c6,Ge4e5] The point
+of Botvinnik's play - luring the queen to c6 and preparing e5 next, opening
+the light-squared bishop.} Qxc6 16. e5 Qxc4 $1 {A tremendous reply (although
+there is not much choice). Smyslov simply collects all the pawns that are
+offered and realizes he will receive a lot of compensation for the exchange.}
+17. Bxa8 Nxe5 {[%csl Ge5,Rg4,Gg7][%cal Gg7b2] This position is dynamically
+balanced. Black's active pieces, the weakness of the g4 pawn and the dominant
+knight on e5 more than compensate for the missing exchange. And even though
+the game is objectively within the drawing margins from the engine standpoint,
+it is very natural to expect it will not end in a draw in a game between two
+humans. I feel Black has better chances as his position is easier to play -
+and the subsequent course of the game confirms this.} 18. Rc1 (18. Qxd6 {
+Maybe it was worth taking the pawn on d6, although that is not the most
+important pawn in this position, e.g.} Be6 {Preventing Bd5 and threatening the
+bishop on a8.} 19. Bg2 Qxg4 {When Black has full compensation for the pawn and
+White is the one who has to play accurately to maintain the balance.}) 18...
+Qb4 19. a3 {Complicating the game a big by giving up the b2 pawn - which was
+not strictly necessary.} Qxb2 {Maybe it was better not to take on b2, open the
+b-file and allow the a4 pawn to fall, but the evaluation of the position is
+not significantly affected - yet.} 20. Qxa4 (20. Be4 {Perhaps it was better to
+retreat the bishop here to avoid any Bb7 ideas due to} Bb7 21. Bxb7 Qxb7 22. f4
+{As now the queen on d1 is controlling the f3 square!}) 20... Bb7 $5 {A
+tremendous and creative move that tries to eliminate White's light-squared
+bishop and exploit the weak light-squares around the enemy king, but it
+seemingly invites White to win material on the spot by playing Rb1.} 21. Rb1 $4
+{Botvinnik once again goes for the materialistic option, underestimating the
+dynamic, sacrificial possibilities available in the position - and it turns
+out to be the losing mistake.} (21. Bxb7 Qxb7 {Was now very unpleasant as the
+queen is on a4 and not controlling the f3 square. Nevertheless, after} 22. Be3
+{White shouldn't fear the checks too much as after} Nf3+ 23. Kh1 {Black has to
+go for} Nd2+ (23... Nh4+ {Doesn't work due to} 24. Qc6) 24. Kh2 Nxf1+ 25. Rxf1
+{[%csl Ra7,Rd6] When the game is very much within drawing margins despite
+Black's extra pawn - as the one on a7 is currently targeted and the one on d6
+is also very weak.}) 21... Nf3+ 22. Kh1 Bxa8 $3 {A tremendous move, ignoring
+the attack on the queen and simply sacrificing it for three minor pieces.} 23.
+Rxb2 Nxg5+ 24. Kh2 Nf3+ 25. Kh3 Bxb2 {Black now obtains three pieces for the
+queen in a position where they coordinate perfectly and where White has a
+static pawn structure on the kingside that provides nice outposts (g5, f3) for
+these pieces. Thus, somewhat surprisingly, White is simply dead lost here.} 26.
+Qxa7 Be4 27. a4 {The a-pawn is the only hope, but it is easily dealt with.} Kg7
+28. Rd1 Be5 29. Qe7 Rc8 {[%csl Gc8,Ge4,Ge5,Gf3] Just look at this coordination.
+All Black's pieces are on good squares, protecting each other and
+participating in the game. The echoes of Bobby Fischer's famous Game of the
+Century are very much present here.} 30. a5 (30. Rxd6 {Trying to sacrifice an
+exchange to destabliize the pieces doesn't help here as after} Rc1 {Forced
+mate is already threatened and White can't defend!}) 30... Rc2 {[%cal Rc2h2]
+White's king is in mortal danger.} 31. Kg2 (31. Rf1 Bd3 {Is also quite
+hopeless.}) 31... Nd4+ 32. Kf1 Bf3 33. Rb1 Nc6 {[%cal Rc6a5,Ge5d4] And now
+with Nxa5 and Bd4 being threatened, Botvinnik finally decided he has had
+enough and decided to throw in the towel. A beautiful sacrificial dynamic
+concept from a player many don't associate with such imbalanced, irrational
+games - but that definitely had the capability to play such games. --- After
+this game, the score in the match was again level. Alas, Botvinnik then won
+games 15 and 16, taking the two point lead. Smyslov won games 20 and 23, but
+failed to win in the decisive, 24th game leaving the final score in the match
+at 12-12. According to the match regulations, in the case of the tie,
+Botvinnik would retain the title, so Smyslov had to wait for another three
+years before having another shot at the title.} 0-1
+
+[Event "Exercise #1"]
+[Site "Moscow URS"]
+[Date "1957.04.13"]
+[Round "17"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "D73"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r4rk1/pb1q2bp/1p1nppp1/3p4/3P1P1P/2N1PNPB/PP2Q2K/2R2R2 b - - 0 19"]
+[PlyCount "7"]
+[EventDate "1957.??.??"]
+
+{[#] As we have seen previously, in the 1954 match, Smyslov failed to win the
+title by the narrowest of the margins. And even though by drawing the match he
+proved he is Botvinnik's equal, he had to go through the gruelling process of
+qualification once again and repeat the feat of winning the Candidates
+tournament - which he duly managed to do so by winning the 1956 Amsterdam
+Candidates tournament - 1.5 point ahead of Keres (who once again came second).
+--- Thus, in 1957, the 2nd Botvinnik - Smyslov match was held in Moscow. This
+time, Smyslov was in control virtually from the start of the match. After
+winning the 1st game, he did lose games 4 and 5 only to immediately level the
+score in game 6 and then to seize a two point lead by winning games 8 and 12.
+--- Nevertheless, Botvinnik wasn't to go away so easily as he managed to
+reduce the lead by winning the 13th game. Thus, after 3 subsequent draws, by
+game 17 the tension had reached the peak. It is at this particular moment that
+Smyslov played the following marvellous game that virtually clinched the match
+in his favour. --- In contrast to the previous game, which was a tactical
+masterpiece, this game was a pure positional/strategic battle. On move 19, we
+have a position with symmetricla pawn structure, but where Black arguably has
+a bit more potential to improve the position. Can you find the plan/concept
+Smyslov utilized to improve his position in this exact moment?} 19... a5 {
+[%cal Gb7a6,Ra6f1] Very good play. White's play in the center and on the
+kingside is somewhat stuck, while Black improves the position on the queenside.
+} (19... b5 {It was also possible to start with the advance of the b-pawn -
+but why not threaten Ba6 in the meantime.}) 20. Rfe1 b5 21. Nd1 b4 22. Nf2 Ba6
+{[%csl Ga5,Gb4][%cal Ra6f1] The passive bishop is now activated and space
+advantage has been secured on the left hand side of the board. It is very
+instructive to observe how Smyslov quietly outplays his formidable opponent.}
+0-1
+
+[Event "Exercise #2"]
+[Site "Moscow URS"]
+[Date "1957.04.13"]
+[Round "17"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "D73"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "2r3k1/6bp/2qnppp1/p2p4/1p1P1P1P/3NPNP1/PP5K/3Q1R2 b - - 0 27"]
+[PlyCount "1"]
+[EventDate "1957.??.??"]
+
+{By move 27, Smyslov has gained a large positional advantage. However, at this
+critical moment, he made a mistake that relinquished a large portion of his
+advantage. What would you play in this exact position as Black?} 27... h5 {
+One of the golden rules of the endgame play says - do not hurry. At this
+particular moment, maintaining the tension with some sort of semi-waiting move
+was probably the strongest.} (27... Nf5 {Improving the knight and bringing it
+to a nice square on f5 was also a good option.}) ({In the game, Smyslov went
+for} 27... Qc2+ {This looks tempting, but the queen exchange actually
+relinquishes a significant part of Black's advantage.} 28. Qxc2 Rxc2+ 29. Rf2 {
+[%csl Gf2][%cal Gd3f2] This is the problem for Black. White manages to deal
+with the infiltration of the rook to c2 and now Black almost has either
+exchange or retreat, meaning that a large part of the advantage is now gone.})
+0-1
+
+[Event "Exercise #3"]
+[Site "Moscow URS"]
+[Date "1957.04.13"]
+[Round "17"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "D73"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "8/5kb1/4ppp1/p2p3p/1p1PnPPP/1P2PN1K/P7/3N4 b - - 0 35"]
+[PlyCount "7"]
+[EventDate "1957.??.??"]
+
+{Nevertheless, in the resulting minor piece endgame, Smyslov retained the
+practical advantage. And little by little, he once again managed to outplay
+the great Patriarch, obtaining the decisive advantage on move 35 for the
+second time in the game. Yet once again, he didn't make use of the opportunity
+to make the most of it. --- On his last move, Botvinnik advanced the g-pawn,
+seeking some exchanges. What is the best way to react here?} 35... Bf8 {
+It was better to simply continue waiting and improving the position as it is
+not entirely clear what White will do with the g-pawn.} ({In the game, Smyslov
+played} 35... hxg4+ $2 {But this exchange also turns out to be a mistake as it
+changes the character of the structure on the kingside. Smyslov probably
+thought White's h4 pawn would be a weakness in the long-run, but it transpires
+that this is not necessarily true.}) 36. Ne1 {Continuing to wait is probably
+the best, but then Black can go for the central e5 pawn advance.} (36. gxh5
+gxh5 {[%cal Gf7g6,Gg6f5,Gf5e4,Gf5g4] Also gives the Black king g6-f5 route.}) (
+36. g5 Bd6 37. gxf6 Kxf6 {[%cal Gf6f5,Gf5e4,Gf5g4] The king can now infiltrate
+with f5 and e4/g4 in the future.}) 36... Bd6 37. Nd3 Bc7 {Puts White in some
+sort of zugzwang as it gets more and more difficult to move the pieces, say}
+38. Ne1 e5 {With a decisive opening of the position.} 0-1
+
+[Event "Exercise #4"]
+[Site "Moscow URS"]
+[Date "1957.04.13"]
+[Round "17"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "D73"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "8/4b3/4p1p1/p2p1p2/3P1P1k/1Pp1PK2/P1N5/8 w - - 0 45"]
+[PlyCount "21"]
+[EventDate "1957.??.??"]
+
+{After some further adventures, on move 45, the final critical moment of the
+game arose. Here Botvinnik had one possible path toward the desired draw,
+which he ended up missing. Can you do better and find the best defensive
+resource in this position? Note that this exercise is very difficult and that
+it it far from easy to understand why exactly would this move be the best.} 45.
+a4 {At this particular moment, it was absolutely necessary to advance the
+a-pawn. As mentioned earlier, it would have allowed White to have a nice
+defensive resource at the exact moment as the a-pawn is now closer to queening
+than it is in the game, which means that some potential pawn endgames are not
+lost for White. It is really not easy to understand why this is so relevant,
+but it does work on the concrete basis.} ({In the game, Botvinnik went for} 45.
+Ne1 $2 {But this is now the losing moment. Botvinnik decides to stay passive
+and keep waiting, but it transpires that this is the wrong strategy as Black
+is now able to outmaneuver him, put him into zugzwang and infiltrate with his
+king into the position.}) 45... Kh3 (45... g5 {Is now also slow as after} 46.
+fxg5 Kxg5 47. Ke2 Kg4 48. Kd3 Kf3 49. b4 {Works, as after} axb4 50. a5 b3 51.
+Ne1+ Kf2 52. Kxc3 {The a-pawn once again manages to save White. Of course, not
+an easy variation to see, which is why it was simpler to play a4 on one of the
+two previous moves.}) 46. Ke2 Kg3 47. Kd3 Kf2 48. Kxc3 Ke2 {Here White has the
+saving advance of the b-pawn:} 49. b4 {In the game, we will see how this is
+losing, but here it saves White as Black is not winning the pawn endgame.} Bd8
+(49... axb4+ 50. Nxb4 Bxb4+ 51. Kxb4 {IS actually won for White as he is much
+faster}) 50. bxa5 Bxa5+ 51. Kb3 {And White is not lost here, e.g.} Kd3 52. Kb2
+Kc4 53. Kb1 Kb3 54. Na1+ Kxa4 55. Kc2 {And White manages to hold - all thanks
+to the a-pawn.} 0-1
+
+[Event "Exercise #5"]
+[Site "Moscow URS"]
+[Date "1957.04.13"]
+[Round "17"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "D73"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "8/4b3/4p1p1/p2p1p2/3P1P1k/1Pp1PK2/P7/4N3 b - - 0 45"]
+[PlyCount "1"]
+[EventDate "1957.??.??"]
+
+{In the game, Botvinnik decided to stay passive, but this allowed Smyslov to
+obtain a decisive advantage with the help of a very thematic move. Which one?} 
+45... g5 {[%csl Gg5] Now this move is very powerful as Black removes one
+obstacle on the kingside and White also needs to lose a tempo to get the
+knight back to c2 and initiate the whole idea with a4-b4 and so on - which
+means that White is now objectively completely lost - in many pawn endgames,
+the weakness of the e3 pawn and the potential advance of the f-pawn will be
+decisive. --- I think we could stop for the purposes of this exercise as the
+path toward victory is still lengthy. Still, it is very instructive to observe
+how Smyslov goes about outmaneuvering Botivnnik and winning this position, so
+I would definitely urge the dear student to check the full game - or even try
+to win this position against the computer.} 0-1
+
+[Event "Botvinnik - Smyslov World Championship"]
+[Site "Moscow URS"]
+[Date "1957.04.13"]
+[Round "17"]
+[White "Mikhail Botvinnik"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "D73"]
+[Annotator "mistr"]
+[PlyCount "138"]
+[EventDate "1957.??.??"]
+
+{As we have seen previously, in the 1954 match, Smyslov failed to win the
+title by the narrowest of the margins. And even though by drawing the match he
+proved he is Botvinnik's equal, he had to go through the gruelling process of
+qualification once again and repeat the feat of winning the Candidates
+tournament - which he duly managed to do so by winning the 1956 Amsterdam
+Candidates tournament - 1.5 point ahead of Keres (who once again came second).
+--- Thus, in 1957, the 2nd Botvinnik - Smyslov match was held in Moscow. This
+time, Smyslov was in control virtually from the start of the match. After
+winning the 1st game, he did lose games 4 and 5 only to immediately level the
+score in game 6 and then to seize a two point lead by winning games 8 and 12.
+--- Nevertheless, Botvinnik wasn't to go away so easily as he managed to
+reduce the lead by winning the 13th game. Thus, after 3 subsequent draws, by
+game 17 the tension had reached the peak. It is at this particular moment that
+Smyslov played the following marvellous game that virtually clinched the match
+in his favour.} 1. Nf3 Nf6 2. g3 g6 3. c4 c6 4. Bg2 Bg7 5. d4 O-O 6. Nc3 d5 7.
+cxd5 cxd5 8. Ne5 {This time, instead of the King's Indian seen in the previous
+game, we see a relatively quiet variation of the Fianchetto Grünfeld defence.}
+b6 {[%cal Gc8b7] With this move Black intends to develop the bishop to b7, but
+it is a little bit passive, although it is still played at the grandmaster
+level to this day.} 9. Bg5 {I am not 100% sure I understand this move. The
+idea is potentially to eliminate the knight on f6 that can sometimes jump to
+e4, but I am not sure if that is the most dangerous idea of all time.
+Furthermore, the bishop is exposed to Ne4 jumps on this particular square.} (9.
+O-O {Is seen more often nowadays, when after} Bb7 10. Qa4 {or} (10. Bf4 {
+Are both viable options.})) 9... Bb7 {[%csl Ge4][%cal Gf6e4] Continung with
+the development of thee bishop and preparing to jump with the knight to e4.}
+10. Bxf6 {The point of White's play. I guess the argument is that the knight
+on f6 is very valuable here and that Black's dark-squared bishop doesn't have
+that much scope, but still - White does give up the bishop pair voluntarily.}
+Bxf6 11. O-O {I feel that after this move White doesn't have any advantage
+whatsoever.} (11. f4 Bg7 12. h4 {This aggressive kingside expansion was seen
+in a game between my two compatriots - Zdenko Kožul and Ivan Šarić - and it
+seems it is more principled and dangerous way of posing some problems compared
+to the timid kingside castling. That game continued} e6 13. h5 Nd7 14. hxg6
+hxg6 15. e3 {When White had a small, but stable advantage, even though he
+ultimately ended up losing the game.}) 11... e6 12. f4 {[%csl Gd4,Ge5,Gf4] A
+standard plan of reinforcing the e5 knight and creating a dark-square bind in
+these positions. But Black can play around this knight and in some very
+distant future - White might regret that he weakened his kingside (as we will
+see in the endgame in this game).} Bg7 13. Rc1 f6 {Expelling the knight from
+e5 is possible, although not strictly necessary.} 14. Nf3 Nc6 15. e3 Qd7 16.
+Qe2 Na5 {[%csl Gc4][%cal Ga5c4] A good move. The knight is eyeing the
+potentially weakened c4 square.} 17. h4 {[%cal Gh4h5,Gg2h3] Also very typical
+move, expanding on the kingside and preparing Bh3, trying to pressure the e6
+pawn.} Nc4 18. Bh3 {[%cal Rh3e6]} Nd6 {[%csl Ge4][%cal Gd6e4] Now the knight
+reroutes and also eyes the weak e4 square. Black shouldn't be worse here as
+both sides have some weaknesses and weak squares, although a complex strategic
+battle is in front of us.} 19. Kh2 a5 20. Rfe1 b5 {Very good play. White's
+play in the center and on the kingside is somewhat stuck, while Black improves
+the position on the queenside.} 21. Nd1 b4 22. Nf2 Ba6 {[%csl Ga5,Gb4][%cal
+Ra6f1] The passive bishop is now activated and space advantage has been
+secured on the left hand side of the board. It is very instructive to observe
+how Smyslov quietly outplays his formidable opponent.} 23. Qd1 Rfc8 {The next
+step is the occupation of the open file.} 24. Rxc8+ {This is a bit too
+cooperative. As usual, exchanging on our opponent's ground helpes them more
+than it helps us to relievee the tension.} (24. Rc5 {Hoping to double on the
+c-file in the future was interesting.}) (24. e4 {Trying to imbalance play by
+breaking through in the center was also a bit more combative than the text
+move.}) 24... Rxc8 25. Bf1 {[%csl Gb5,Gc4,Ge4] Seeking further exchanges, but
+it transpires that this one is also to Black's benefit as now the
+light-squares are weakened.} Bxf1 26. Rxf1 Qc6 {[%cal Gc6c2] Intending to play
+Qc2 and go for a nice endgame.} (26... Qb5 {Trying to maintain the tension by
+keeping the queens on the board and trying to exploit some light-squares with,
+say, Nf5 next, came into consideration too.}) (26... h5 {[%csl Gf5,Gg4]
+Securing some more light-squares, was also interesting.}) 27. Nd3 Qc2+ {
+This looks tempting, but the queen exchange actually relinquishes a
+significant part of Black's advantage.} (27... h5 {Once again, maintaining the
+tension with some sort of semi-waiting move was worth considering.}) 28. Qxc2
+Rxc2+ 29. Rf2 {[%csl Gf2][%cal Gd3f2] This is the problem for Black. White
+manages to deal with the infiltration of the rook to c2 and now Black almost
+has either exchange or retreat, meaning that a large part of the advantage is
+now gone.} Rxf2+ 30. Nxf2 Nc4 31. Nd1 {[%csl Gb2][%cal Gd1e3,Gd1b2] Now all
+weaknesses are covered and without the heavy pieces on the board, it is hard
+to make progress for Black. Still, the game is far from over and now we enter
+a completely new stage of the game.} Kf7 32. b3 $2 {[%csl Rc3][%cal Rb3c4] But
+this is a mistake. It is natural to want to kick the knight from the c4 square,
+but in the process, White is weakening the c3 square.} ({It was better to try
+and wait with a move such as} 32. Kg2 h5 33. Kf2 {And it is hard for White to
+make further progress.}) 32... Nd6 33. Kg2 h5 {[%csl Gg4] Clamping down on the
+light-squares! Black probably has to play this move sooner or later.} 34. Kh3 {
+White tries to play g4 to eliminate some pawns, in return.} Ne4 35. g4 hxg4+ $2
+{But this exchange also turns out to be a mistake as it changes the character
+of the structure on the kingside. Smyslov probably thought White's h4 pawn
+would be a weakness in the long-run, but it transpires that this is not
+necessarily true.} (35... Bf8 {It was better to simply continue waiting and
+improving the position as it is not entirely clear what White will do with the
+g-pawn. Say if} 36. g5 (36. gxh5 gxh5 {[%cal Gf7g6,Gg6f5,Gf5e4,Gf5g4] Also
+gives the Black king g6-f5 route.}) ({Not reacting to the tension with
+something like} 36. Ne1 Bd6 37. Nd3 Bc7 {Puts White in some sort of zugzwang
+as it gets more and more difficult to move the pieces, say} 38. Ne1 e5 {
+With a decisive opening of the position.}) 36... Bd6 37. gxf6 Kxf6 {[%cal
+Gf6f5,Gf5e4,Gf5g4] The king can now infiltrate with f5 and e4/g4 in the future.
+}) 36. Kxg4 f5+ {I guess this was the point of Smyslov's idea. Now the d8-h4
+diagonal is open and Black can potentially try to attack the h4 pawn (which is
+what happens in the game). But it transpires that this is less strong than
+what was considered in the previous note.} ({Going for the same plan of Bd6-e5
+as in the previous note doesn't work for the simple reason that the king is
+not tied to the defence of the g-pawn, so after} 36... Bf8 37. Ne1 Bd6 38. Nd3
+Bc7 {White can simply move the king and not the knight on d3} 39. Kf3 {And it
+is hard for Black to make progress here.}) 37. Kh3 Bf6 38. Ne1 Kg7 39. Nd3 {
+[%csl Gd3] Now once again, White's pieces are doing a good job of defending
+everything and it is hard to make progress. That is why Smyslov decides to
+sharply alter the character of play and go for the transformation of the
+position.} Nc3 $5 {Sharply changing the character of play at the verge of the
+first time control (which usually happened on move 40). Smyslov invites the
+exchange of the knight and transformation into a bishop vs. knight endgame and
+seemingly there is no way for Botvinnik to refuse it!} ({If Black continues
+waiting, White has several ways of maintaining the balance.} 39... Be7 40. N1b2
+{This is the computer solution. White gives up the c3 square but creates
+counterplay in an unexpected fashion, e.g.} (40. N3f2 {Is a more human way.
+After} Nc3 41. a4 {White manages to remove the weakness on a2 and it is hard
+for Black to make progress.}) 40... Nc3 41. Nc5 Nxa2 42. Nb7 {And White has
+solved all the problems.}) 40. Nxc3 bxc3 {[%csl Rc3] So, let us stop for the
+moment and ask ourselves - why exactly should Black pretend to be better in
+this endgame? Well, the pawn on c3 is a temporary distraction for our opponent
+and needs to be dealt with. The only way in which White can do so is going
+with the king all the way to d3 and then capturing it. This, in turn should
+allow Black to capture the h4 pawn (which is something h can do anyway,
+actually) and run with king to f2, threatening to capture on e3. Furthermore,
+Black can also push g5 and then f4 at the appropriate moment. Thus, White has
+to defend accurately as Black has a clear plan of going forward.} 41. Ne1 {
+Missing the immediate opportunity to resolve all problems!} (41. b4 {This
+should lead to a draw, although lines are far from easy.} a4 {The more complex
+try leading to a very complicated endgame.} (41... axb4 42. Nxb4 {White will
+very likely collect the c3 pawn at the right moment and the passed a-pawn will
+be a big enough nuisance to secure equality!}) 42. b5 {Is also sufficient as
+Black has to deal with the b-pawn. Play might continue} Bd8 43. Kg3 Kh6 44. Kf2
+Kh5 45. Ke2 {And now suddenly Black has to be careful with} Ba5 (45... Kxh4 46.
+Nc5 {Is actually lost for Black as now} Kg3 47. Kd3 Kf3 48. Nxa4 {And White
+will win in complications after} c2 49. Kxc2 Kxe3 50. Nc5 Ba5 51. Nxe6 {
+The passed pawns on the queenside are too dangerous and the knight is perfect
+on e6.}) 46. Kd1 Kxh4 47. Kc2 (47. Nc5 Kg3 48. Nxa4 Kf3 {Is different compared
+to the previous variation as now c3 pawn has survived.} 49. Nc5 Kxe3 50. Nxe6
+Kd3 $11 51. Nc5+ Ke3 52. Ne6) 47... Kg3 {Although this endgame is still very
+tricky and complicated. White now has to be precise with} 48. Nc5 Kf3 {The
+Black king is just in time.} 49. Kd3 c2 50. Kxc2 Kxe3 {And this whole mess
+should end in a draw after} 51. Nxe6 Ke4 52. Kb2 Kd3 53. Ka3 Kc3 54. Kxa4 {
+White does get connected passed pawns, but Black's king is far more active and
+restricting the enemy king (it doesn't allow it to go to b4 and then push the
+a-pawn)} Bb6 55. Ka3 Ba7 56. Ka4 Bb6 {And neither side can make any progress
+here and the game should end in a draw. A fascinating variation that
+demonstrates the full complexity of this endgame.}) 41... Kh6 42. Nc2 {[%csl
+Gc2,Rc3,Gd3] Maneuvering the knight to c2 is very sensible, though, as now the
+pawn is blockaded and the d3 square vacated for the king.} Be7 {Now Black does
+prevent the b-pawn from advancing before assaulting the h4 pawn.} 43. Kg3 {
+Not yet losing, but it does demonstrate Botvinnik was not aware of the key
+idea in this position (which will end up costing him later). He could have
+advanced the a-pawn here at once.} (43. a4 {This would lead to a variation
+very similar to the one we will examine in notes to White's 45th move.}) 43...
+Kh5 {Black, of course, collects the h-pawn and tries to infiltrate with the
+king.} 44. Kf3 (44. a4 {Was once again a bit more precise as it would have
+forced Black to capture on h4 with the bishop. After} Bxh4+ 45. Kf3 Bd8 {
+White has something similar to the variation that could arise in the notes to
+the next move, but with the Black king still being on h5, which is maybe a
+minor difference, but a difference nevertheless.}) 44... Kxh4 45. Ne1 $2 {
+But this is now the losing moment. Botvinnik decides to stay passive and keep
+waiting, but it transpires that this is the wrong strategy as Black is now
+able to outmaneuver him, put him into zugzwang and infiltrate with his king
+into the position.} (45. a4 {At this particular moment, it was absolutely
+necessary to advance the a-pawn. As mentioned earlier, it would have allowed
+White to have a nice defensive resource at the exact moment as the a-pawn is
+now closer to queening than it is in the game. If we follow the same variation
+as in the game, then after} Kh3 (45... g5 {Is now also slow as after} 46. fxg5
+Kxg5 47. Ke2 Kg4 48. Kd3 Kf3 49. b4 {Works, as after} axb4 50. a5 b3 51. Ne1+
+Kf2 52. Kxc3 {The a-pawn once again manages to save White. Of course, not an
+easy variation to see, which is why it was simpler to play a4 on one of the
+two previous moves.}) 46. Ke2 Kg3 47. Kd3 Kf2 48. Kxc3 Ke2 {Here White has the
+saving advnace of the a-pawn} 49. b4 {In the game, we will see how this is
+losing, but here it saves White as Black is not winning the pawn endgame.} Bd8
+(49... axb4+ 50. Nxb4 Bxb4+ 51. Kxb4 {IS actually won for White as he is much
+faster}) 50. bxa5 Bxa5+ 51. Kb3 {And White is not lost here, e.g.} Kd3 52. Kb2
+Kc4 53. Kb1 Kb3 54. Na1+ Kxa4 55. Kc2 {And White manages to hold - all thanks
+to the a-pawn.}) 45... g5 {Now this move is very powerful as Black removes one
+obstacle on the kingside and White also needs to lose a tempo to get the
+knight back to c2 and initiate the whole idea with a4-b4 and so on - which
+means that White is now objectively completely lost. Still, it is very
+instructive to observe how Smyslov goes about outmaneuvering Botivnnik and
+winning this position.} 46. fxg5 Kxg5 47. Nc2 Bd6 48. Ne1 {Trying to stay
+passive, but now Smyslov embarks on an instructive outflanking maneuver.} (48.
+Ke2 {Is now too slow as after} Kg4 49. Kd3 Kf3 {Any ideas involving the
+advance of the b-pawn don't help e.g.} 50. a4 (50. Kxc3 Ke2 51. b4 Bxb4+ 52.
+Nxb4 axb4+ 53. Kxb4 Kxe3 {Leads to a lost pawn endgame for White as now a-pawn
+is on a2 and Black managed to get in g5 earlier, paving the way for the f-pawn.
+}) 50... Kf2 {And White is completely helpless here.} 51. b4 (51. Na1 Ke1 52.
+Nc2+ Kd1 53. Na1 Bb4 54. Nc2 Kc1 {[%csl Rb3][%cal Gc1b2,Gb2b3] Black will
+simply walk and pick up the b3 pawn.}) 51... axb4 52. a5 b3 53. Ne1 {Is now
+not check so White loses.}) 48... Kh4 49. Nc2 Kh3 50. Na1 Kh2 51. Kf2 Bg3+ 52.
+Kf3 Bh4 53. Nc2 Kg1 54. Ke2 {White is trying to stop the king from
+infiltrating at all costs.} Kg2 55. Na1 Be7 56. Nc2 Kg3 57. Ne1 Bd8 58. Nc2 Bf6
+59. a3 {Finally trying to create some counterplay, but it is too late.} Be7 60.
+b4 a4 {The bishop will easily deal with the b-pawn and Black also has the f4
+pawn push at the right moment, if required.} 61. Ne1 Bg5 62. Nc2 Bf6 {Black is
+in some sort of zugzwang. They wouldn't really love to move the knight or the
+king - but there is not much choice.} 63. Kd3 {Finally giving up and letting
+the king further.} (63. Na1 f4 {Is already winning on the spot for Black as
+the d4 pawn falls.}) (63. b5 Bd8 64. Na1 Bc7 65. Nc2 Ba5 66. Na1 Bb6 67. Nc2
+Kg4 {Is a very similar zugzwang again - either f4 happens or the king arrives
+at f3 e.g.} 68. Kd3 Kf3 69. Kxc3 Ke2) 63... Kf2 64. Na1 Bd8 65. Nc2 Bg5 {
+The final zugzwang.} 66. b5 {What else?} (66. Na1 Bxe3 {Wins on the spot.} 67.
+b5 f4 68. b6 f3 69. b7 Bf4) (66. Kxc3 Ke2 {Is also losing as White has no
+space to maneuver.} 67. b5 Bd8 68. Kb2 Ba5 {And White's king will eventually
+be supressed, e.g.} 69. Kc1 Bb6 70. Kb1 Kd2 71. Kb2 Kd3 72. Kb1 Kc4 {And once
+the b5 pawn falls, the rest is trivial, e.g.} 73. Nb4 f4 74. exf4 Kxb5 {
+And d4 will fall soon.}) 66... Bd8 67. Nb4 Bb6 68. Nc2 Ba5 69. Nb4 Ke1 {
+And here Botvinnik finally resigned as the king will penetrate either to e2 or
+to the queenside and White will end up in a similar zugzwang as in the
+variation analyzed on move 66. A tremendous game and absolutely mesmerizing
+endgame play by Smyslov - at such an important and crucial moment of the match.
+--- After this game, Smyslov also won the 20th game and clinched the match
+after 22 games with the score 12.5-9.5, becoming, thus, the 7th World Champion.
+Alas, his reign would last only for one year as he would lose the title the
+very next year in the 1958 rematch, although his career would continue for a
+loong loong time after that.} 0-1
+
+[Event "Exercise #1"]
+[Site "Riga URS"]
+[Date "1968.12.23"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Vladimir Mikhailovich Liberzo"]
+[Result "1-0"]
+[ECO "A25"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "1r3r1k/2pq1bbp/1p1p1nn1/1P1P1pp1/2PNp3/1Q2P1P1/1B2NPBP/R4RK1 w - - 0 22"]
+[PlyCount "5"]
+[EventDate "1968.??.??"]
+
+{[#] Thus, after losing the World Championship title in 1958 to Botvinnik,
+Smyslov didn't get another opportunity to fight for the World Chess
+Championship title until his shocking swansong in the 1983 cycle when he
+reached the final of the Candidates cycle before losing to the future World
+Champion, Garry Kasparov. --- As this feat suggest, despite being the World
+Champion only for a single year, Smyslov continued playing at the high level
+and very succesfully throughout his life. Due to his very logical and harmonic
+style and arguably his deep love for the game, he wasn't as affected by the
+age factor (or by health issues, like, for example, Tal) like some other
+players and continued to play tournaments all the way until the end of 1990s.
+--- Of course, it is very hard to make a selection of the best games played
+over a 30+ year long period, but I feel like any collection of Smyslov's best
+games should include the following fascinating game, played at the 6th Soviet
+Team Cup held in Riga in 1968. --- Let's start our journey through it by
+examining the position that arose on move 22. Smyslov has managed to
+strategically outplay his opponent and now - a way to increase the advantage
+is required. How would you continue in this exact position?} 22. f4 {[%csl Gf4]
+[%cal Rf4g5,Rf4e5] A very powerful move, opening up the kingside to White's
+advantage and at the same time preventing Balck from ever playing f4! White's
+pieces are all perfectly placed so it is very natural that a pawn move is the
+best.} exf3 {[%csl Re3,Ge4,Gg4] Now, it is true that White has weakened the e3
+square and provided the e4 and g4 squares into Black's hands, but in this
+position where both sides have some weak squares, Black's weaknesses are more
+pronounced simply because White has better placed pieces.} 23. Nxf3 {[%csl Rg5]
+[%cal Rf3g5,Rb2h8] Taking with the knight, opening up the bishop and
+threatening the g5 pawn was actually better. After, say} ({In the game,
+Smyslov chose} 23. Rxf3 $6 {but this is, actually, not the most precise
+continuation.}) 23... h6 (23... Ne4 24. Bxg7+ Kxg7 25. Nfd4 {[%cal Rd4f5] Is
+also very strong as Black's light-square weaknesses are ery pronounced, e.g.}
+Bg8 26. g4 $1) 24. Nfd4 {[%cal Rd4f5,Rg2e4] The knight can simply go back,
+attack the f5 pawn at the moment when the bishop is keeping the e4 square
+under control.} 1-0
+
+[Event "Exercise #2"]
+[Site "Riga URS"]
+[Date "1968.12.23"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Vladimir Mikhailovich Liberzo"]
+[Result "1-0"]
+[ECO "A25"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "4rr1k/2pqnbbp/1pNp4/1P1n1pp1/2PN4/1Q2PRP1/1B4BP/R5K1 w - - 0 26"]
+[PlyCount "1"]
+[EventDate "1968.??.??"]
+
+{By move 26, Smyslov's advantage has increased to decisive proportions, so
+Liberzon decided to take desperate measures and sacrifice the knight on d5.
+What should White do now? Accept the knight, or play something else?} 26. Raf1
+{[%csl Rf5][%cal Rf1f5,Rd4f5] White could have simply ignored the knight on d5
+and continued with the siege of the f5 pawn. The knight would still be hanging
+in that case and Black would have been left with less counterplay with best
+play, although the position still remains complicated, of course. --- Other
+moves that decline the sacrifice are also possible, but this one seems to be
+the most natural! White should be completely winning!} (26. cxd5 $2 {But this
+recapture is probably a bit unecessary as it provides Black with reasonable
+counterplay all of a sudden.}) 1-0
+
+[Event "Exercise #3"]
+[Site "Riga URS"]
+[Date "1968.12.23"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Vladimir Mikhailovich Liberzo"]
+[Result "1-0"]
+[ECO "A25"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "4r1k1/2pqn1Bp/1pNp4/1P1b1rp1/8/1Q2PRP1/6BP/R5K1 w - - 0 29"]
+[PlyCount "3"]
+[EventDate "1968.??.??"]
+
+{After Smyslov accepted the knight sacrifice - by move 29 the game has
+spiraled completely out of control. However, in this position, Smyslov found a
+fantastic blow that allowed him to maintain a large advantage (albeit in a
+tactical and complicated position). Can you find the move Smyslov played here?
+} 29. Rxf5 $3 {[%csl Rg5][%cal Rf5g5,Rg2d5,Rb3d5] This is the point of White's
+combination! Smyslov sacrifices a full queen, but is ready to capture on g5
+next and execute a devastating winning attack.} Bxb3 {The only move!} (29...
+Qxf5 {Is losing due to} 30. Nxe7+ Rxe7 31. Bxd5+) 30. Rxg5 {White has a bishop
+and the rook for the queen. But more importantly - the king on g8 is
+completely exposed and various threats are in the air. White should be
+objectively winning - although a lot of play remains in the position, of
+course.} 1-0
+
+[Event "Exercise #4"]
+[Site "Riga URS"]
+[Date "1968.12.23"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Vladimir Mikhailovich Liberzo"]
+[Result "1-0"]
+[ECO "A25"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "4r1k1/2p4p/1pNp2nB/1P3R2/2b4P/6P1/5RBK/4q3 b - - 0 36"]
+[PlyCount "9"]
+[EventDate "1968.??.??"]
+
+{After some future adventures and mistakes on both sides, the last critical
+position of the game arose on move 36. Here White has multiple mating ideas
+and Black has one - and only one - way of dealing with them. Can you find a
+very difficult - computer-generated defensive resource available to Black in
+this position?} 36... Be6 {[%cal Re6f5] It was not very easy to find the only
+defence here though. Black had to attack the rook on f5 and force it to f6
+before moving the king to the corner. This was the only way to deal against
+both h5 and Bd2 threats.} (36... Kh8 {This move doesn't work at once as after}
+37. Bd2 Qa1 38. R2f3 {[%cal Gd2c3] Bc3 is unstoppable and White wins.}) ({
+The game saw} 36... Bxb5 $4 {At the most inappropriate moment, Liberzon
+decides to capture the pawn on b5. The problem is that now the bishop on b5 is
+exposed which gives White time for the deadly Bd2-Bc3 idea.}) 37. Rf6 {[%cal
+Gh4h5] Now the long diagonal is blocked so Black can sidestep the h5 threat.}
+Kh8 {[%cal Ge6g8] This move prepares the defensive Bg8 resource which means
+that h5 loses its power.} 38. h5 {White should play something else and
+maintain the balance, but in order to illustrate the point, let's see what
+happens after the advance of the h-pawn:} (38. Bd2 Qa1 39. R6f3 {Also doesn't
+work due to} Kg8 {And the position is probably dynamically balanced. In any
+case, had Liberzon found 36...Be6, the outcome of the game would have been
+completely unclear. Alas, as it is, the game ended quite abruptly.}) 38... Ne5
+39. Rf8+ Rxf8 40. Rxf8+ Bg8 {And it is suddenly Black who wins, not White.} 1-0
+
+[Event "Exercise #5"]
+[Site "Riga URS"]
+[Date "1968.12.23"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Vladimir Mikhailovich Liberzo"]
+[Result "1-0"]
+[ECO "A25"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "4r1k1/2p4p/1pNp2nB/1b3R2/7P/6P1/5RBK/4q3 w - - 0 37"]
+[PlyCount "9"]
+[EventDate "1968.??.??"]
+
+{Alas, as it was, Liberzon missed the amazing defensive resource available to
+him on the previous move and captured the b5 pawn at the most inappropriate
+moment instead. How did White win the game here? Hopefully, finding the idea
+won't be a problem after you have seen the previous exercise!} 37. Bd2 {
+[%csl Rb5][%cal Rd2e1,Gd2c3] Now it is all over as Black can't defend the b5
+bishop AND cover the c3 square. This is not the only winning move, but sooner
+or later White has to find this idea.} Qb1 {Probably it was better to give up
+the queen, but Black's position remains lost all the same. Now, however, White
+delivers a forced checkmate.} (37... Qa1 38. Rxb5) 38. Bd5+ {Another
+consequence of the bishop moving from the a2-g8 diagonal.} Kh8 39. Bc3+ Ne5 40.
+Nxe5 dxe5 41. Rxe5 {[%csl Rh8] And mate soon follows, so Black resigned. A
+fascinating encounter, featuring both typical slow Smyslov play in the opening
+stage of the game and a dashing, violent and not fully correct Tal-like
+tactical culmination in the end of the game.} 1-0
+
+[Event "6th Soviet Team Cup"]
+[Site "Riga URS"]
+[Date "1968.12.23"]
+[Round "11"]
+[White "Vasily Smyslov"]
+[Black "Vladimir Mikhailovich Liberzo"]
+[Result "1-0"]
+[ECO "A25"]
+[Annotator "mistr"]
+[PlyCount "81"]
+[EventDate "1968.??.??"]
+
+{Thus, after losing the World Championship title in 1958 to Botvinnik, Smyslov
+didn't get another opportunity to fight for the World Chess Championship title
+until his shocking swansong in the 1983 cycle when he reached the final of the
+Candidates cycle before losing to the future World Champion, Garry Kasparov.
+--- As this feat suggest, despite being the World Champion only for a single
+year, Smyslov continued playing at the high level and very succesfully
+throughout his life. Due to his very logical and harmonic style and arguably
+his deep love for the game, he wasn't as affected by the age factor (or by
+health issues, like, for example, Tal) like some other players and continued
+to play tournaments all the way until the end of 1990s. --- Of course, it is
+very hard to make a selection of the best games played over a 30+ year long
+period, but I feel like any collection of Smyslov's best games should include
+the following fascinating game, played at the 6th Soviet Team Cup held in Riga
+in 1968.} 1. c4 {Not a surprising opening move by Smyslov. Especially in his
+later years, he switched from 1.e4 to slower, closed systems with increasing
+frequency.} e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1 {Preparing the push of
+the b-pawn is a standard plan in a number of positions where the pawn on c4 is
+meeting the pawn on e5.} d6 6. b4 a6 {I am not sure if this move is required
+as it helps White to open up things on the queenside with b5, although it was
+played by some strong players so what do I even know.} 7. e3 f5 {I am also not
+too sure about this aggressive setup with f5 in these positions - especially
+with White having played e3 instead of d3, but once again, since I don't play
+these positions with either colour my insight should be taken with a huge
+grain of salt. --- Nevertheless, this is a very fresh position with only a
+handful of games in the database.} 8. Nge2 Nf6 9. d3 O-O 10. O-O Bd7 11. a4 {
+[%cal Gb4b5] White is very clearly preparing to go b5.} Rb8 {But this move
+doesn't make sense to me at all. If you played a6 earlier, weren't you hoping
+to open up the a-file for the rook once b5 happens? Why defend the pawn
+modestly with the rook then and deviate from that plan?} (11... Qe7 {A normal
+developing move seemed quite sensible. After} 12. b5 axb5 13. axb5 Nd8 {
+Black defends b7 and has the a-file open, which is certainly better than what
+happened in the game.}) 12. b5 axb5 13. axb5 Ne7 14. Ba3 {[%cal Ra3f8,Gb5b6]
+An active place for the bishop in these positions, as it is fairly active on
+this diagonal and eyeing the c5 square, preparing for the potential c5 push.
+There is also the idea of playing b6 next.} Be6 15. Qb3 {I am not 100% sure
+about this move as now c5 is not possible, although the computer doesn't
+complain.} (15. c5 {Would be my expectation, although after} d5 16. c6 {
+The situation is not completely clear.}) (15. Qc2 {I would also expect moving
+the queen to a square where there is no pin would be more sensible but, then
+again - what do I know. The engine thinks all these moves are roughly
+equivalent.}) 15... b6 $6 {But this is apparently wrong. Black decides to
+prevent c5 once at for all, but he is playing on the side of the board where
+their opponent is attacking.} (15... Qd7 {A semi-waiting move like this one
+was quite reasonable. Then after, say} 16. f4 Bf7 17. b6 c6 {The situation is
+complicated, but Black is by no means THAT much worse.}) (15... Bf7 {It was
+also possible to play this prophylactic move, intending now to meet} 16. f4 {
+With} exf4 17. Nxf4 {When the bishop is not under the attack.}) 16. d4 {
+Quite a good move, trying to react in the center. White also tries to exploit
+the newly weakened c6 square? How exactly. Watch and see!} e4 {Black can't
+afford the center to open given that all White pieces are very actively placed.
+} 17. d5 {[%csl Gc6,Gd4,Re6][%cal Rd5e6,Ge2d4,Gd4c6,Ga3b2] A very nice
+positional move, opening up the d4 square for the knight from where it can go
+to e6 and c6. It is true that this move weakens the e5 and c5 squares, but we
+have to lose some to gain some. Also, with this move we pretty much give up on
+the c5 idea, but we are ready to reroute our bishop to b2.} Bf7 18. Nd4 Qd7 (
+18... Nd7 {[%cal Gd7c5,Gd7e5] It was probably better to try and place the
+knight to c5 or e5 first, but as it is White keeps the edge and can even
+consider undermining the structure with} 19. f3 (19. Ra1 {Also comes into the
+consideration.})) 19. Bb2 {[%cal Rb2g7] The bishop retreats to the long
+diagonal.} g5 {Trying to initiate some kingside play and gain some space on
+that side of the board, but Black's pieces are not really ready for the
+kingside initiative.} 20. Nce2 {White slowly improves the pieces. Note how
+Smyslov doesn't hurry to jump with the d4 knight to either e6 or c6.} (20. Nc6
+{Is somewhat of an empty shot as the knight only looks nice here, e.g. after}
+Rbe8 {It is somewhat out of the game.}) (20. Ne6 {This simply loses a pawn}
+Bxe6 21. dxe6 Qxe6) 20... Kh8 {Somewhat aimless move. It turns out the king
+might be in danger on this square in the future.} ({A move such as} 20... Bh5 {
+was probably better, trying to activate some pieces and potentially echange
+this slumbering bishop for the knight on e2.}) 21. Ra1 Ng6 22. f4 {A very
+powerful move, opening up the kingside to White's advantage and at the same
+time preventing Balck from ever playing f4! White's pieces are all perfectly
+placed so it is very natural that a pawn move is the best.} exf3 {[%csl Re3,
+Ge4,Gg4] Now, it is true that White has weakened the e3 square and provided
+the e4 and g4 squares into Black's hands, but in this position where both
+sides have some weak squares, Black's weaknesses are more pronounced simply
+because White has better placed pieces.} 23. Rxf3 $6 {This is, actually, not
+the most precise continuation.} (23. Nxf3 {[%csl Rg5][%cal Rf3g5,Rb2h8] Taking
+with the knight, opening up the bishop and threatening the g5 pawn was
+actually better. After, say} h6 (23... Ne4 24. Bxg7+ Kxg7 25. Nfd4 {[%cal
+Rd4f5] Is also very strong as Black's light-square weaknesses are ery
+pronounced, e.g.} Bg8 26. g4 $1) 24. Nfd4 {[%cal Rd4f5,Rg2e4] The knight can
+simply go back, attack the f5 pawn at the moment when the bishop is keeping
+the e4 square under control.}) 23... Ne7 $2 {But this passive defence of the
+f5 pawn is, well, simply too passive.} (23... Ne4 {The active jump with the
+knight was to be prefered, although it does look as if Black is losing a pawn.
+However after either} 24. Nxf5 ({Or} 24. Rxf5 Nc5 {Black suddenly has some
+counterplay as the position is quite complicated. White should come out on top
+in both lines, but it is much more combative and murky than the game
+continuation.}) 24... Ne5) 24. Nc6 {[%csl Gc6][%cal Ge2d4] Finally jumping to
+a weak square and hoping to eliminate the important defender of the f5 pawn.
+The other knight can always come to d4 and reinfroce the attack.} (24. Raf1 {
+Increasing the pressure on the f5 pawn, was also quite good.}) 24... Rbe8 (
+24... Nxc6 {Taking the knight here is not too good as after} 25. bxc6 Qe7 26.
+Nd4 {[%cal Gd4e6,Rd4f5] Black is in deep trouble.}) 25. Ned4 {[%csl Gc6,Gd4]
+Now the other knight joins the fray and the threat to the f5 pawn is very real.
+} Nfxd5 {This is absolute desperation, but probably the best practical attempt
+to confuse matters.} 26. cxd5 $2 {But this recapture is probably a bit
+unecessary as it provides Black with reasonable counterplay all of a sudden.} (
+26. Raf1 {White could have simply ignored the knight on d5 and continued with
+the siege of the f5 pawn. The knight would still be hanging in that case and
+Black would have been left with less counterplay with best play, although the
+position still remains complicated, of course.}) 26... Bxd5 27. Nxf5 $5 {
+A very creative, Tal-like move, involving the sacrifice of the full queen,
+that is objectively fully correct - but probably not the most practical. The
+idea is to uncover the attack on the g7 bishop and create play against the
+weakened king.} (27. Qc2 {The prosaic retreat of the queen was quite
+sufficient though, although after} Bxf3 28. Bxf3 {The technical task of
+converting the advantage is anything buy very easy.}) 27... Rxf5 {The only
+sensible move in this crazy position.} (27... Bxb3 {Would be losing on the
+spot after} 28. Bxg7+ Kg8 29. Ncxe7+ Rxe7 30. Bxf8 Kxf8 {When there are
+several good moves, but probably the strongest is} 31. Rf2 {[%cal Gg2c6] With
+the deadly idea of Bc6, trying to force the queen on a square where the
+discovered check will be deadly and also preparing Ra8 with a greater effect.})
+(27... Nxf5 {Loses at once to} 28. Qxd5) 28. Bxg7+ Kg8 29. Rxf5 $3 {[%csl Rg5]
+[%cal Rf5g5,Rg2d5,Rb3d5] This is the point of White's combination! Smyslov
+sacrifices a full queen, but is ready to capture on g5 next and execute a
+devastating winning attack.} Bxb3 {The only move!} (29... Qxf5 {Is losing due
+to} 30. Nxe7+ Rxe7 31. Bxd5+) 30. Rxg5 {White has a bishop and the rook for
+the queen. But more importantly - the king on g8 is completely exposed and
+various threats are in the air.} Ng6 {Trying to deal with the discovered
+attack along the g-file.} 31. Bh6 $2 {But this is apparently a mistake which
+lets Black off the hook.} (31. Bd4 {Retreating the bishop to d4 was apparently
+better as it protects the e3 pawn and the bishop is more stable here. Despite
+being behind in material (rook and bishop are worth less than the queen),
+White is better becuase all the pieces have nice squares and are active and
+the king is very weak. Although winning this game is not an easy task.}) 31...
+Qe6 {The queen is quite active here and is ready to take on e3 with check.} 32.
+h4 {[%cal Gg1h2] Creating a square on h2 for the king but allowing the pawn on
+e3 to fall with a check.} (32. Re1 {Defending the e3 pawn is objectively
+better, but then Black can obtain some counterplay after, say} Qc4 33. h4 Qc3 {
+When the position is very unclear.}) 32... Qxe3+ 33. Kh2 {Now White does have
+ideas of h5 and Rxg6 and Black's position is a bit difficult to handle in
+practical play, but considering how good White's position was before, I am
+sure Smyslov wasn't too happy at this particular point.} Qc3 {[%cal Rc3a1] A
+good move, moving the queen with a gain of tempo.} 34. Rf1 {Bringing all the
+pieces to the kingside!} Bc4 $6 {The first step in the wrong direction. Black
+is attacking the b5 pawn, but it transpires this pawn will be forever immune
+to capture and this allows the move h5 with tempo, basically.} (34... Kh8 {
+IT was better to tuck the king away from the pin first before anything else,
+as now} 35. h5 Re2 {Provides Black with some serious counterplay.}) (34... Bf7
+{Covering the f8 square and intending the same} 35. h5 Re2 {Idea was also
+better than what happened in the game.}) 35. Rf2 {[%cal Gf2a2] Covering the
+2nd rank agains the afore-mentioned Re2 idea. The position is still very
+complicated and Black has to play precisely in order to survive.} Qe1 {[%csl
+Rf2][%cal Re1f2] Attacking the rook and forcing it away from f2 once again.}
+36. Rgf5 {Now White is threatening h5 and also has some Bd2-Bc3 ideas and
+Black has to be very precise in dealing with the both of them! This is the
+culminating point of this entire encounter!} Bxb5 $4 {At the most
+inappropriate moment, Liberzon decides to capture the pawn on b5. The problem
+is that now the bishop on b5 is exposed which gives White time for the deadly
+Bd2-Bc3 idea.} (36... Be6 {It was not very easy to find the only defence here
+though. Black had to attack the rook on f5 and force it to f6 before moving
+the king to the corner. This was the only way to deal against both h5 and Bd2
+threats.} 37. Rf6 {Now the long diagonal is blocked so Black can sidestep the
+h5 threat.} Kh8 {[%cal Ge6g8] This move prepares the defensive Bg8 resource
+which means that h5 loses its power.} 38. h5 {White should play something else
+and maintain the balance, but in order to illustrate the point, let's see what
+happens after the advance of the h-pawn:} (38. Bd2 Qa1 39. R6f3 {Also doesn't
+work due to} Kg8 {And the position is probably dynamically balanced. In any
+case, had Liberzon found 36...Be6, the outcome of the game would have been
+completely unclear. Alas, as it is, the game ended quite abruptly.}) 38... Ne5
+39. Rf8+ Rxf8 40. Rxf8+ Bg8 {And it is suddenly Black who wins, not White.}) (
+36... Kh8 {This move doesn't work at once as after} 37. Bd2 Qa1 38. R2f3 {
+[%cal Gd2c3] Bc3 is unstoppable and White wins.}) 37. Bd2 {[%cal Rd2e1,Gd2c3]
+Now it is all over as Black can't defend the b5 bishop AND cover the c3 square.
+} Qb1 {Probably it was better to give up the queen, but Black's position
+remains lost all the same. Now, however, White delivers a forced checkmate.} (
+37... Qa1 38. Rxb5) 38. Bd5+ {Another consequence of the bishop moving from
+the a2-g8 diagonal.} Kh8 39. Bc3+ Ne5 40. Nxe5 dxe5 41. Rxe5 {And mate soon
+follows, so Black resigned. A fascinating encounter, featuring both typical
+slow Smyslov play in the opening stage of the game and a dashing, violent and
+not fully correct Tal-like tactical culmination in the end of the game.} 1-0
+
+[Event "Exercise #1"]
+[Site "London ENG"]
+[Date "1983.11.30"]
+[Round "5"]
+[White "Vasily Smyslov"]
+[Black "Zoltan Ribli"]
+[Result "1-0"]
+[ECO "D42"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r2r2k1/pp1bnpp1/1q2pb1p/3n4/3PQ3/P2B1N2/1P2NPPP/R1BR2K1 b - - 0 16"]
+[PlyCount "7"]
+[EventDate "1983.??.??"]
+
+{[#] As mentioned earlier, despite being an ex-world champion already in 1958,
+Smyslov continued to compete at the high level for decades. Arguably the
+greatest achievement from his later years happened in the 1982-1985 cycle. ---
+First, Smsylov qualified for the Candidates matches by winning the 2nd place
+at the strong Interzonal in Las Palmas (at the time, 3 Interzonals were held
+and two players from each Interzonal were seeded in the Candidates matches,
+together with the finalists from the previous cycle). --- Then, in the
+quarterfinal Candidates match, luck shined on him as he managed to eliminate
+Robert Hübner (the regular match ended up 5-5, four tiebreak games also
+didn't produce a winner which was, in the end, decided by a spin of the
+roulette wheel!!). --- Then, in the semi-final Candidate match, Smyslov faced
+the strong Hungarian grandmaster Zoltan Ribli. After the wins were exchanged
+in the first two games and two subsequent games, the score in the match was
+tied. Then, the fifth game happened where Smyslov produced the following
+masterpiece. --- We join the action on move 16. Up to this moment, Ribli has
+been outplaying Smyslov quite convincingly in the position with an isolated
+queen pawn and obtained a very good, almost winning position. However, at this
+crtiical moment, he underestimated the danger and made a big mistake. Can you
+improve on his play and find a reasonable move for Black in this position?} 
+16... Nf5 {[%csl Gf5][%cal Rf5d4,Rd3h7] It was far better to move the knight
+to f5 and prevent the queen from going to h7 so easily. If White wants to
+insist on it, he has to go for} (16... Ng6 {Is also better than what Ribli did
+in the game, although the knight is more active on f5, for sure.}) (16... Ba4
+$2 {So far, Ribli has been playing an excellent game, but here he misjudges
+the potential danger to his king and allows Smyslov to grab the initiative.})
+17. g4 Nd6 {[%cal Gg8f8,Gf8e7] When now the knight is on d6 and not on e7 -
+which means that the king has the e7 square available after, say} 18. Qh7+ Kf8
+19. Ng3 Ke7 {[%csl Ge7,Rg4] This, in combination with the fact that the pawn
+is now on g4, makes a whole lot of difference in the position. White doesn't
+have an attack here and Black should be objectively winning (although the
+position does remain to be difficult to play for both sides).} 1-0
+
+[Event "Exercise #2"]
+[Site "London ENG"]
+[Date "1983.11.30"]
+[Round "5"]
+[White "Vasily Smyslov"]
+[Black "Zoltan Ribli"]
+[Result "1-0"]
+[ECO "D42"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r2r1k2/pp2nppQ/4pbnp/1q2N3/3P4/P5N1/1P3PPP/R1B1R1K1 w - - 0 22"]
+[PlyCount "9"]
+[EventDate "1983.??.??"]
+
+{As mentioned in the previous exercise, in the game, Ribli allowed the White
+queen to go to h7 and destabilize the king under favourable circumstances. By
+move 22, Smyslov increased the pressure and provoked a decisive mistake on his
+opponent's part. Ribli has just retreat the knight from d5 to e7, allowing a
+decisive combination. Can you find it?} 22. Bxh6 $3 {[%csl Rf7,Rf8,Rg7,Rh6]
+[%cal Rh7f7] Boom. Now Black's position collapses at once due to the
+weaknesses of the g7, f7 and the king, in general.} Nxe5 (22... gxh6 23. Qxf7#)
+(22... Bxe5 23. Rxe5 Nxe5 24. Qxg7+ {is not an improvement for Black.}) 23. Nh5
+{[%cal Rh5g7,Rh6g7,Rh7g7] The pressure against the g7 point is at its peak!} (
+23. dxe5 {Is also good enough, as after} Bxe5 24. Nh5 Nf5 25. Bg5 {Black has
+to give up some material or get mated!} f6 26. g4 $18) 23... Nf3+ {A possible
+defence, trying to eliminate the option of advancing the g-pawn, but it
+doesn't change much.} (23... Nf5 24. dxe5 Bxe5 25. Bg5 {Transposes to the line
+analyzed earlier.}) 24. gxf3 Nf5 25. Nxf6 Nxh6 26. d5 {[%cal Re1e8] A
+wonderful move, creating pressure against the e6 pawn and also creating
+various tactical ideas associated with the capture on e6 and with the d6
+discoveries. We will see the end of the game in the very next exercise.} (26.
+Qh8+ $4 {Would be horrible as after} Ke7 27. Qxg7 {And suddenly White is the
+one losing after} Rg8 28. Nxg8+ Rxg8 {[%cal Rg8g1] it is never too late to
+lose a game of chess, I guess!}) 1-0
+
+[Event "Exercise #3"]
+[Site "London ENG"]
+[Date "1983.11.30"]
+[Round "5"]
+[White "Vasily Smyslov"]
+[Black "Zoltan Ribli"]
+[Result "1-0"]
+[ECO "D42"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r2r1k2/pp3ppQ/4pN1n/3P4/8/P4P2/1q3P1P/R3R1K1 w - - 0 27"]
+[PlyCount "11"]
+[EventDate "1983.??.??"]
+
+{Finally, on move 27, in the diagram position, Smyslov found a beautiful
+combination allowing him to obtain a decisive material advantage. Can you find
+it?} 27. Qh8+ ({To be completely fair, even} 27. dxe6 {wins, but it is much
+less pretty than the text combination.}) 27... Ke7 28. Rxe6+ $3 {[%cal Re6e7,
+Rh8g7] A tremendous blow, opening up the 7th rank with a decisive effect.} fxe6
+29. Qxg7+ {[%csl Rb2][%cal Rg7b2] Now you can see some discoveries are lining
+up against the queen on b2.} Nf7 {What else?} (29... Kd6 30. Ne4+ {Loses the
+queen on the spot.}) 30. d6+ {[%cal Gf6d5,Rd6e7] The crux of the combination.
+White frees the d5 square for the knight in order to deliver the fatal
+discovered attack on the queen on b2!} ({Only not} 30. Ng8+ $4 Rxg8 {[%cal
+Rg8g1] when the queen on g7 is pinned and when White is lost!}) 30... Rxd6 31.
+Nd5+ {[%cal Rg7b2] Finally winning the queen on b2.} Rxd5 32. Qxb2 {Black has
+a rook and the knight for the queen and a pawn, which is insufficient material
+compensation. Furthermore, the king is weak and the queenside pawns are very
+exposed, so White doesn't have any particular trouble in converting this
+position into a full point!} 1-0
+
+[Event "Candidates Semi-final"]
+[Site "London ENG"]
+[Date "1983.11.30"]
+[Round "5"]
+[White "Vasily Smyslov"]
+[Black "Zoltan Ribli"]
+[Result "1-0"]
+[ECO "D42"]
+[Annotator "mistr"]
+[PlyCount "81"]
+[EventDate "1983.??.??"]
+
+{As mentioned earlier, despite being an ex-world champion already in 1958,
+Smyslov continued to compete at the high level for decades. Arguably the
+greatest achievement from his later years happened in the 1982-1985 cycle. ---
+First, Smsylov qualified for the Candidates matches by winning the 2nd place
+at the strong Interzonal in Las Palmas (at the time, 3 Interzonals were held
+and two players from each Interzonal were seeded in the Candidates matches,
+together with the finalists from the previous cycle). --- Then, in the
+quarterfinal Candidates match, luck shined on him as he managed to eliminate
+Robert Hübner (the regular match ended up 5-5, four tiebreak games also
+didn't produce a winner which was, in the end, decided by a spin of the
+roulette wheel!!). --- Then, in the semi-final Candidate match, Smyslov faced
+the strong Hungarian grandmaster Zoltan Ribli. After the wins were exchanged
+in the first two games and two subsequent games, the score in the match was
+tied. Then, the fifth game happened where Smyslov produced the following
+masterpiece.} 1. d4 {No more 1.e4 stuff that were prominent in Smyslov's youth.
+Note that he was 62 years old at the time when this match was played!} Nf6 2.
+Nf3 e6 3. c4 d5 4. Nc3 c5 {The Tarrasch defence was all the rage in those days
+(remember that Kasparov used it in the very same cycle with great effect).
+Nowadays, this move-order is seen quite frequently as well, but mainly because
+Black immediately opts to go for the very provocative variation involving the
+immediate recapture on d4.} 5. cxd5 Nxd5 {With this move order, Black opts to
+go for the very-solid Semi-Tarrasch variation!} (5... exd5 {Would lead to the
+pure Tarrasch variation where Black accepts the isolated pawn but claims that
+the dynamic chances compensate for this strategic weakness. Nowadays this
+variation is not seen that often at the very top level, although it is a
+frequent guest at the club level.}) (5... cxd4 {At the very top level, this
+forcing line is nowadays all the rage. After} 6. Qxd4 exd5 7. e4 {It was
+discovered that the endgame arising after} dxe4 8. Qxd8+ Kxd8 9. Ng5 Be6 10.
+Nxe6+ fxe6 {Is not at all so advantageous for White as it looks at the first
+glance (better structure, pair of bishops).}) 6. e3 {Not the most ambitious
+test of Black's opening scheme.} (6. e4 Nxc3 7. bxc3 cxd4 8. cxd4 {Is another
+big theoretical line these days.}) 6... Nc6 7. Bd3 Be7 8. O-O O-O 9. a3 cxd4
+10. exd4 {So, by transposition we have reached a standard position where White
+is the one with the isolated pawn on d4. Still, White has numerous attacking
+ideas here so the weakness of the isolated pawn shouldn't be overemphasized.}
+Bf6 {[%cal Rf6d4] Placing the bishop on a square where it is exerting pressure
+on the d4 pawn and controlling the e5 square is quite logical - although not
+the only way of handling the position.} 11. Qc2 {[%cal Rc2h7] With this move,
+White tries to provoke a concession on the kingside as now the knight is
+unable to go to f6 to defend the h7 pawn. Once again, there are other natural
+moves in the position, but this idea seems quite reasonable.} h6 {Trying to go
+without the weakening of the dark-squares, but this move allows White to try
+to go for the more standard battery with the queen in front of the bishop (as
+we will see happen in the game).} (11... g6 {Would weaken the dark-squares and
+after} 12. Bh6 Bg7 13. Bxg7 Kxg7 {White can make an argument that the weakened
+dark-squares make the Black king a little bit less secure!}) 12. Rd1 {Also
+bringing the rook into play and indirectly defending the d4 pawn.} Qb6 {
+[%csl Gc8][%cal Rb6d4,Rc6d4,Rf6d4] But this move is a bit too optimistic. The
+queen tries to pressure the d4 pawn, but it is not particularly well-placed on
+b6 and it is blocking the standard b6-Bb7 development.} (12... Re8 {Or
+something similar, was more natural in this position.}) (12... Bd7 {Developing
+the bishop at once and intending to maybe place it on c6, was also quite
+natural.}) 13. Bc4 $6 {But this is not the most precise move. Smyslov tries to
+pressure the d5 point and potentially exchange there and eliminate the
+weakness, but it transpires Black has ways of dealing with that idea.} (13.
+Bh7+ Kh8 14. Be4 {Was stronger. The idea is to keep the bishop on a more
+active diagonal and also to displace the king. Now if} Nce7 15. h4 {[%cal
+Gg2g4,Gg4g5] And suddenly g4-g5 is coming with a very great effect. Typical
+computer stuff.} Bd7 16. g4 {[%cal Gg4g5] Here there is no good way to defend
+against the unpleasant g5 somehow and White is doing very well.}) 13... Rd8 {
+[%csl Gd5][%cal Gd8d5] Reinforcing the d5 point and intending to take on c3
+next.} (13... Nce7 {Trying to reinforce the d5 point is also possible as now}
+14. h4 Bd7 15. g4 {Isn't dangerous at all with the bishop exposed on c4 e.g.}
+Nxc3 16. bxc3 Qc7 17. Bd3 Bc6 {And the few tempi that Black has gained make
+all the difference in the world.}) (13... Nxc3 {Is a bit premature as after}
+14. bxc3 Ne7 15. Bf4 Bd7 16. Ne5 {The bishop on d7 is not defended by the rook
+which gives White one tempo. Not the most important tempo in the world, but it
+makes a difference to a certain extent.}) 14. Ne2 {Trying to avoid the
+exchange of the knight on c3, but it is clear this retreat is not the most
+desirable move in this type of position.} ({In order to illustrate the point,
+let's see what happens if White plays some natural move such as} 14. h3 Nxc3 {
+Now this thematic exchange, going for the position with hanging pawns, makes a
+lot of sense, as after} 15. bxc3 Ne7 16. Bf4 Bd7 17. Ne5 {The bishop on d7 is
+defended and Black can continue harmoniously with} Rac8 {This might not look
+like such a big deal, but now the bishop on c7 is under threat and Black has a
+very harmonious position. In both cases the chances are approximately balanced,
+but this small nuances are important for human players.}) 14... Bd7 15. Qe4 {
+Smyslov intends to put the bishop on d3 and create some threats to the king,
+although objectively speaking this shouldn't work - especially since White
+lost some time moving the queen and the bishop back and forth.} Nce7 16. Bd3 {
+[%cal Gd3h7] Threatening to infiltrate with the queen on h7.} Ba4 $2 {So far,
+Ribli has been playing an excellent game, but here he misjudges the potential
+danger to his king and allows Smyslov to grab the initiative.} (16... Nf5 {
+[%csl Gf5][%cal Rf5d4,Rd3h7] It was far better to move the knight to f5 and
+prevent the queen from going to h7 so easily. If White wants to insist on it,
+he has to go for} 17. g4 Nd6 {When now the knight is on d6 and not on e7 -
+which means that the king has the e7 square available after, say} 18. Qh7+ Kf8
+19. Ng3 Ke7 {This, in combination with the fact that the pawn is now on g4,
+makes a whole lot of difference in the position. White doesn't have an attack
+here and Black should be objectively winning (although the position does
+remain to be difficult to play for both sides).}) 17. Qh7+ Kf8 18. Re1 Bb5 {
+[%cal Rb5e2] Trying to exchange the light-squared bishop is quite sensible as
+it gets rid of an important attacking piece.} (18... Rac8 {Ignoring the danger
+and continuing the play is now too risky as after} 19. Ng3 {Nh5 is now a very
+serious threat, e.g.} Bxd4 20. Nh5 Ng8 {And here White has the amazing} 21. Re5
+{When g7 will fall and when Black's monarch is in real danger. This is, of
+course, a cooperative variation, but one that illustrates the potential
+dangers to the Black king.}) 19. Bxb5 (19. Be4 {Trying to keep the bishop is
+sensible, but it allows} Bxe2 {This knight is also an important attacker and
+with it gone, White's attack is gone as well. Thus Smyslov correctly keeps
+this knight and allows the exchange of the bishop.}) 19... Qxb5 20. Ng3 {
+[%cal Gg3h5,Gf3e5] One knight is heading to h5 and the other to e5. Black
+should still have defensive resources here, but it is not too easy to handle
+this in a practical game.} (20. a4 {[%cal Ga1a3,Ga3h3] With the idea of
+including the rook into the attack, was also quite interesting.}) 20... Ng6 {
+[%cal Gg6h8] Black takes a moment to open up the e7 square for the king and to
+cover the annoying check on h8, although it is debatable whether this was yet
+necessary. Still, sooner or later this knight will go to g6, so there is not
+that much harm in doing it at this point.} 21. Ne5 {[%cal Re5g6] Bringing the
+knight into the attack is very sensible.} (21. b3 {IS also a very interesting
+move here. The idea is to play a4-Ba3 next. Say after} Rac8 22. a4 Qxb3 23. Nh5
+{White also has some options of Ba3 at the right moment and the position looks
+quite dangerous for Black. The engine suggests the best way is to give up the
+exchange with} Rxc1 {Eliminating the strong dark-squared bishop.} 24. Rexc1 Qd3
+{[%cal Gd3f5] And White has an extra exchange, but Black is very solid and
+White's queen is somewhat stuck on h7, so the position is relatively unclear 
+(although if anyone should have the upper hand it is White).}) 21... Nde7 $4 {
+At the critical moment, Ribli goes full passive mode and underestimated the
+dynamic possibilities available at White in this position.} ({First of all,
+let us establish that captures on e5 don't work. Taking with the bishop is bad
+as after} 21... Bxe5 22. dxe5 {[%cal Gg3h5] Nh5 comes and Black can't defend
+g7.}) (21... Nxe5 {Is no better as after} 22. dxe5 {The bishop doesn't have a
+good square.} Bg5 (22... Bh4 23. Bxh6) (22... Be7 23. Qh8#) 23. Bxg5 hxg5 24.
+Ne4 {And White has a winning position here as Black's kingside is collapsing.})
+(21... Qa5 {[%csl Re1][%cal Ra5e1] It transpires that attacking the rook,
+bringing the queen to c7 and completely ignoring the knight on e5 (and the
+threat on g6) was the best (and virtually the only) defence. After} 22. b4 Qc7
+23. Nxg6+ (23. Be3 {Might be better, but once again, it is unclear how much of
+advantage White has in this position.}) 23... fxg6 24. Qxg6 Bxd4 {Black's
+point is that provoking b4 has allowed them to gain a tempo and that their
+position is perfectly fine in this instance. This would have definitely been
+better than the text move, although such a defensive move is extremely
+difficult to find (unless you are an engine).}) 22. Bxh6 $3 {Boom. Now Black's
+position collapses at once!} Nxe5 (22... gxh6 23. Qxf7#) (22... Bxe5 23. Rxe5
+Nxe5 24. Qxg7+ {is not an improvement for Black.}) 23. Nh5 {[%cal Rh5g7,Rh6g7,
+Rh7g7] The pressure against the g7 point is at its peak!} (23. dxe5 {Is also
+good enough, as after} Bxe5 24. Nh5 Nf5 25. Bg5 {Black has to give up some
+material or get mated!} f6 26. g4 $18) 23... Nf3+ {A possible defence, trying
+to eliminate the option of advancing the g-pawn, but it doesn't change much.} (
+23... Nf5 24. dxe5 Bxe5 25. Bg5 {Transposes to the line analyzed earlier.}) 24.
+gxf3 Nf5 25. Nxf6 Nxh6 26. d5 {[%cal Re1e8] A wonderful move, creating
+pressure against the e6 pawn and also creating various tactical ideas
+associated with the capture on e6 and with the d6 discoveries.} (26. Qh8+ $4 {
+Would be horrible as after} Ke7 27. Qxg7 {And suddenly White is the one losing
+after} Rg8 28. Nxg8+ Rxg8 {[%cal Rg8g1] it is never too late to lose a game of
+chess, I guess!}) 26... Qxb2 {[%cal Rb2f6] This loses by force - but what else
+should Black play? Black at least tries to disturb the knight on f6, but now
+Smyslov finds a very nice combination.} (26... Rac8 27. Qh8+ Ke7 28. Qxg7 {
+is now winning for White as after} Rg8 29. Rxe6+ {Wins on the spot. This was
+the point behind including the d5 move in the mix!}) (26... Ke7 {loses in a
+very similar fashion:} 27. Qxg7 Rg8 28. Rxe6+) 27. Qh8+ Ke7 28. Rxe6+ $3 {
+[%cal Re6e7,Rh8g7] A tremendous blow, opening up the 7th rank with a decisive
+effect.} fxe6 29. Qxg7+ {[%csl Rb2][%cal Rg7b2] Now you can see some
+discoveries are lining up against the queen on b2.} Nf7 {What else?} (29... Kd6
+30. Ne4+ {Loses the queen on the spot.}) 30. d6+ {[%cal Gf6d5,Rd6e7] The crux
+of the combination. White frees the d5 square for the knight in order to
+deliver the fatal discovered attack on the queen on b2!} ({Only not} 30. Ng8+
+$4 Rxg8 {[%cal Rg8g1] when the queen on g7 is pinned and when White is lost!})
+30... Rxd6 31. Nd5+ {[%cal Rg7b2] Finally winning the queen on b2.} Rxd5 32.
+Qxb2 {Black has a rook and the knight for the queen and a pawn, which is
+insufficient material compensation. Furthermore, the king is weak and the
+queenside pawns are very exposed, so White doesn't have any particular trouble
+in converting this position into a full point!} b6 33. Qb4+ Kf6 34. Re1 Rh8 35.
+h4 Rhd8 36. Re4 Nd6 37. Qc3+ e5 38. Rxe5 {A nice finishing "petite
+combinaison", simplifying matters even further.} Rxe5 39. f4 {[%cal Rc3f6]} Nf7
+40. fxe5+ Ke6 41. Qc4+ {[%cal Rc4f7] And here Ribli decided to throw in the
+towel. A wonderful creative achievement, sort of a swanson of Smyslov's career
+- even if the opening was very suspect from the modern day standards. After
+this game, Smyslov took 1-point lead and then went on to win game 7, as well
+as the match, qualifying for the final Candidates match against Garry Kasparov.
+--- A virtually unparalleled achievement at a such stage in the history of
+chess - perhaps only Viktor Korchnoi achieved the same success in the World
+Championship Cycle at an advanced age (although not even Korchnoi played the
+Candidates Final match above the age of 60).} 1-0
+
+[Event "Exercise #1"]
+[Site "Munich GER"]
+[Date "2000.07.07"]
+[Round "5"]
+[White "Zsofia Polgar"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "C60"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p2qpbp/p4np1/2pBp3/1P2P3/B1P5/P4PPP/RN1Q1RK1 b - - 0 13"]
+[PlyCount "5"]
+[EventDate "2000.??.??"]
+
+{Even in his very advanced years, Smyslov continued competing, playing
+regularly against players significantly younger than him. Most notably, in the
+late 90s and early 2000s he participated in several "Veterans" vs "Young
+Talents" and "Veterans" vs "Women" matches, where players of older generation
+teamed up against young talents and promising and upcoming female players 
+(events that, in one shape or form, persist to this day). --- In one of these
+matches, held in Munich in 2000, he faced the young Zsofia Polgar - the third
+of Polgar sisters who may have not achieved the same results as her sisters
+Susan and Judit - but who was nevertheless a very strong player. --- This
+wonderful game fully deserves to be included in this compilation of Smyslov's
+best games. Let's start by examining the position on move 13. White just
+played the very aggressive advance of the b-pawn. What should Black do now?} 
+13... Rd8 {[%cal Rf6d5,Rf6e4] An unpleasant move, creating the threat of Nxe4
+and/or Nxd5. There are other options in the position, but this one seems most
+understandable from the human viewpoint.} 14. bxc5 {White consistently
+implements the idea started with b4 but now the situation becomes very
+tactical and messy very very soon.} Nxe4 {[%csl Rd5][%cal Re4c5,Rd8d1]
+Capturing an important pawn and also creating an unpleasant pin against the d5
+bishop.} 15. c4 Qc7 {[%cal Ra3e7] Another very strong move, avoiding any sort
+of c6 discoveries.} ({Note that} 15... Nxc5 {is a one-move blunder} 16. Bxc5
+Qxc5 17. Bxf7+ {[%cal Rd1d8] And White wins material. Black can't play like
+this, unfortunately for him.}) 0-1
+
+[Event "Exercise #2"]
+[Site "Munich GER"]
+[Date "2000.07.07"]
+[Round "5"]
+[White "Zsofia Polgar"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "C60"]
+[Annotator "mistr"]
+[SetUp "1"]
+[FEN "r2r2k1/1pq2pbp/p5p1/2PBpb2/2P1n1P1/B7/P4P1P/RN1QR1K1 b - - 0 17"]
+[PlyCount "9"]
+[EventDate "2000.??.??"]
+
+{Zsofia continued playing in the very same aggressive style and on move 17 she
+tried to win the piece by trying to divert the bishop on f5 and win the e4
+knight. However, this concept turned out to have a major flaw that Smyslov
+would exploit. Can you find the move he played in the game?} 17... Nxf2 {
+But not the second chance. In this particular case this was required as the
+knight would have otherwise been lost!} 18. Kxf2 e4 {[%csl Rh2][%cal Rc7h2,
+Rg7a1] In this version, not only the rook on a1 hangs, but also the pawn on h2.
+} 19. Kg2 $2 {After this, White's position goes from bad to worse!} (19. gxf5 {
+For better or for worse, the piece on f5 should have been taken - even though
+it looks suicidial to allow the check on h2. Following} Qxh2+ 20. Kf1 Bxa1 21.
+fxg6 hxg6 {White is, of course, lost, but the position is still relatively
+messy.}) 19... Be6 {[%cal Re6d5,Rg7a1,Rd8d1] A very unpleasant quiet move,
+keeping the threat to the rook on a1 alive but also removing the bishop from
+the attack and attacking the pinned bishop.} 20. Nd2 {Now it seems as if White
+manages to lose only an exchange - not a full rook, but Smyslov has evaluated
+correctly that the simple capture on d5 is sufficient!} Bxd5 {Actually - this
+is the only move to win.} 21. cxd5 Rxd5 {[%cal Ra8d8,Rg7a1,Rd8d1] White is
+completely tied up as the pin is deadly and also the rook on a1 is hanging.}
+0-1
+
+[Event "Veterans-Women"]
+[Site "Munich GER"]
+[Date "2000.07.07"]
+[Round "5"]
+[White "Zsofia Polgar"]
+[Black "Vasily Smyslov"]
+[Result "0-1"]
+[ECO "C60"]
+[Annotator "mistr"]
+[PlyCount "56"]
+[EventDate "2000.??.??"]
+
+{[%evp 0,27,19,31,17,22,13,7,71,17,13,41,47,47,38,49,82,13,9,9,12,10,10,-4,5,
+-8,4,-3,19,-50] Even in his very advanced years, Smyslov continued competing,
+playing regularly against players significantly younger than him. Most notably,
+in the late 90s and early 2000s he participated in several "Veterans" vs
+"Young Talents" and "Veterans" vs "Women" matches, where players of older
+generation teamed up against young talents and promising and upcoming female
+players (events that, in one shape or form, persist to this day). --- In one
+of these matches, held in Munich in 2000, he faced the young Zsofia Polgar -
+the third of Polgar sisters who may have not achieved the same results as her
+sisters Susan and Judit - but who was nevertheless a very strong player. ---
+This wonderful game fully deserves to be included in this compilation of
+Smyslov's best games.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 {Smyslov is not regarded
+as the big opening theoretician, but several of his inventions in the Ruy
+Lopez have persisted to this day, including the very underrated text
+continuation that leads to the so-called Smyslov variation of the Ruy Lopez.
+The idea is to fianchetto the bishop to g7, place the knight on e7 and play in
+the King's Indian style with f5 soon.} 4. c3 a6 5. Bc4 d6 6. d4 Bg7 {[%cal
+Gg7e5,Gc6e5] Another point of this line is to reinforce the e5 point.} 7. O-O
+Qe7 $6 {But this move, defending e5 with the queen is a bit too artifical. It
+is probably not too good to move the queen so early in the opening.} (7... Nf6
+{Seems more natural, although after} 8. dxe5 dxe5 9. Qxd8+ Nxd8 10. Nxe5 Be6 {
+It is not too easy to conclude that Black has sufficient compensation for the
+pawn. Smyslov was probably trying to avoid something along those lines.}) (7...
+Nge7 {is not too brilliant here as Black doesn't have time to castle:} 8. dxe5
+Nxe5 9. Nxe5 Bxe5 10. f4 Bg7 11. f5 {[%cal Gc1g5,Gf5f6] White has a very
+strong initiative.}) 8. dxe5 $6 {but this move now releases the tension a bit
+prematurely! Now the queen exchange will not happen so there is no point to
+stabilizing the structure at this particular point.} ({A normal developing
+move such as} 8. Re1) ({or} 8. Nbd2 {was probably preferable. In general,
+unless White achieves something tangible (or is forced to take on e5), it is
+probably better not to do so in these structures!}) 8... Nxe5 9. Nxe5 dxe5 10.
+b3 {[%cal Gc1a3,Ra3f8] This was the idea behind taking on e5. White wanted to
+open up the a3-f8 diagonal in order to pressure the queen on e7. Alas, it
+transpires this is NOT that dangerous as it can be met with the simple
+inteference with the c-pawn, as we will soon see.} Nf6 11. Ba3 c5 {[%cal Ra3e7]
+Dealing with the annoying bishop on a3. It looks as if Black is making a big
+concession and that both the c5 pawn and the d5 square are now weak, but it
+transpires that there is no easy way for White to exploit it.} 12. Bd5 $5 {
+Not the most obvious move, but White is willing to give up the bishop to get
+the queen to d5 and pressure the c5 pawn.} O-O {A natural move, but probably
+not the best in this position.} (12... Be6 $5 {Challening the bishop was worth
+considering as now after} 13. c4 Bxd5 14. exd5 {[%csl Rd5] White has to
+recapture with the pawn and the position is unclear. It is true that the pawn
+on d5 is passed, but it can be secure blockaded and White no longer has the
+bishop pair.}) (12... Nxd5 13. Qxd5 {Was also playable, but now there is no
+good way to defend the c5 pawn. Black can try to play for compensation with}
+Be6 14. Qxc5 Qxc5 15. Bxc5 Rc8 {When the bishop pair compensated for the
+missing pawn to a certain extent, but White is a pawn up after all.}) 13. b4 $6
+{But this is a step in the wrong direction. White tries to play aggressively
+against the c5 pawn (maybe Zsofia felt a bit provoked with Black's opening?),
+but it turns out that strategic play was required in this particular position.}
+(13. c4 {[%cal Gd1d5,Gb1c3] Entrenching the bishop on d5 was quite unpleasant.
+It is now not clear how will Black go about creating counterplay as the queen
+can still recapture on d5 and also Nc3 is coming.}) 13... Rd8 {[%cal Rf6d5,
+Rf6e4] An unpleasant move, creating the threat of Nxe4 and/or Nxd5.} 14. bxc5 {
+White consistently implements the idea started with b4 but now the situation
+becomes very tactical and messy very very soon.} Nxe4 {[%csl Rd5][%cal Re4c5,
+Rd8d1] Capturing an important pawn and also creating an unpleasant pin against
+the d5 bishop.} 15. c4 Qc7 {[%cal Ra3e7] Another very strong move, avoiding
+any sort of c6 discoveries.} ({Note that} 15... Nxc5 {is a one-move blunder}
+16. Bxc5 Qxc5 17. Bxf7+ {[%cal Rd1d8] And White wins material. Black can't
+play like this, unfortunately for him.}) 16. Re1 $2 {[%csl Rf2] This is not a
+good move as it removes the rook from the place where it protects the f2 pawn.}
+(16. Qf3 {[%cal Rf3f7,Rd5f7] Getting out of the pin with a gain of tempo on
+the knight on e4 was quite reasonable. Note that the c5 pawn is still immune
+due to the pressure against the f7 pawn. The position is complicated and Black
+is maybe marginally better due to the better structure, but there is still all
+left to play for.}) 16... Bf5 $2 {Missing the first chance!} (16... Nxf2 {
+Was already possible here, although the follow-up is very tricky to see. After}
+17. Kxf2 e4 {[%cal Rg7a1]} 18. Qd2 Bxa1 19. Nc3 {There is only one good move
+here for Black - the amazing} Re8 {[%csl Ra1][%cal Ge4e3] Creating the
+unpleasasnt threat of e3 before capturing on c3.} (19... Bxc3 20. Qxc3 {
+[%csl Rf6,Rg7,Rh6] Is actually just winning for White due to the dark-square
+weaknesses around the Black king.}) 20. Qe3 Bxc3 21. Qxc3 e3+ {And now Qe5 is
+coming next and Black is actually winning. An amazing combination!}) 17. g4
+Nxf2 {But not the second chance. In this particular case this was required as
+the knight would have otherwise been lost!} 18. Kxf2 e4 {[%csl Rh2][%cal Rc7h2,
+Rg7a1] In this version, not only the rook on a1 hangs, but also the pawn on h2.
+} 19. Kg2 $2 {After this, White's position goes from bad to worse!} (19. gxf5 {
+For better or for worse, the piece on f5 should have been taken - even though
+it looks suicidial to allow the check on h2. Following} Qxh2+ 20. Kf1 Bxa1 21.
+fxg6 hxg6 {White is, of course, lost, but the position is still relatively
+messy.}) 19... Be6 {[%cal Re6d5,Rg7a1,Rd8d1] A very unpleasant quiet move,
+keeping the threat to the rook on a1 alive but also removing the bishop from
+the attack and attacking the pinned bishop.} 20. Nd2 {Now it seems as if White
+manages to lose only an exchange - not a full rook, but Smyslov has evaluated
+correctly that the simple capture on d5 is sufficient!} Bxd5 {Actually - this
+is the only move to win.} 21. cxd5 Rxd5 {[%cal Ra8d8,Rg7a1,Rd8d1] White is
+completely tied up as the pin is deadly and also the rook on a1 is hanging.}
+22. Qe2 Bxa1 23. Rxa1 Re8 {[%cal Ge8e4] White has two pieces for an exchange
+and a pawn, which is nominally not THAT bad, but the weakness of the king and
+the activity of Black's rooks don't leave much room for hope.} (23... Rad8 {
+It was actually possible to attack the knight on d2 here. The point is that
+after} 24. Nxe4 Qc6 {[%csl Gf6][%cal Rc6g2,Rc6f6] covers the f6 square and
+prepares a lethal battery on the light-squared diagonal. Not an easy point to
+see!}) 24. Nc4 (24. Nxe4 {Now loses to many things, but most directly to} Rde5
+25. Nf6+ Kh8 {[%csl Rg2] And White is the one who will get checkmated soon.})
+24... Rd3 25. Rb1 Qc6 26. Kg1 {A final blunder in the lost position.} Rxa3 27.
+Nxa3 Qxc5+ {[%cal Rc5a3,Rc5g1]} 28. Qf2 e3 {And here Zsofia finally decided
+she had had enough. A brutal and beautiful game and definitely not a bad
+effort for a 79-year-old.} 0-1
+
