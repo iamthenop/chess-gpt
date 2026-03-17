@@ -321,12 +321,17 @@ This is a practical retrieval layer for chess memory.
 
 ## Documentation
 
+Perspective of the LLM:
+
+* `docs/llm-experience.md`
+
 Additional design notes live in:
 
 * `docs/encoding.md`
 * `docs/schema.md`
 * `docs/ingestion.md`
 * `docs/query.md`
+* `docs/control.md`
 * `docs/examples.md`
 
 ## License

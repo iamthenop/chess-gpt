@@ -99,6 +99,7 @@ def main() -> None:
 
         if args.format == "json":
             payload = {
+                "format_version": 1,
                 "position_id": int(row["position_id"]),
                 "side_to_move": side_to_move,
                 "castling": castling,

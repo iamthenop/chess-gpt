@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 from pathlib import Path
 
 from chessgpt.db.connection import connect
@@ -36,7 +37,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--format",
-        choices=("text", "llm"),
+        choices=("text", "llm", "json"),
         default="text",
         help="Output format",
     )
@@ -52,6 +53,29 @@ def main() -> None:
         conn.close()
 
     moves = [move for move in moves if move.frequency >= args.min_frequency][: args.limit]
+
+    if args.format == "json":
+        payload = {
+            "format_version": 1,
+            "position_id": args.position_id,
+            "min_frequency": args.min_frequency,
+            "candidate_moves": [
+                {
+                    "move_uci": move.move_uci,
+                    "move_san": move.move_san,
+                    "frequency": move.frequency,
+                    "white_wins": move.white_wins,
+                    "black_wins": move.black_wins,
+                    "draws": move.draws,
+                    "white_win_rate": move.white_win_rate,
+                    "draw_rate": move.draw_rate,
+                    "black_win_rate": move.black_win_rate,
+                }
+                for move in moves
+            ],
+        }
+        print(json.dumps(payload, indent=2))
+        return
 
     if args.format == "llm":
         print(f"position_id:{args.position_id}")

@@ -1,14 +1,23 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 from pathlib import Path
 
 from chessgpt.db.connection import connect
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Initialize the chess-gpt database schema")
+    parser.add_argument(
+        "--db",
+        default="data/db/chessgpt.sqlite3",
+        help="Path to SQLite database file",
+    )
+    args = parser.parse_args()
+
     repo_root = Path(__file__).resolve().parents[1]
-    db_path = repo_root / "data" / "db" / "chessgpt.sqlite3"
+    db_path = (repo_root / args.db).resolve() if not Path(args.db).is_absolute() else Path(args.db)
     schema_dir = repo_root / "schema"
 
     conn = connect(db_path)
