@@ -1,0 +1,15 @@
+SYSTEM SUMMARY
+
+chess-gpt = chess state machine
+LLM = move selector
+
+Environment responsibilities:
+- board state
+- legality
+- history
+
+Agent responsibilities:
+- strategy
+- move choice
+
+No engine exists in this repository.
