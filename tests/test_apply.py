@@ -11,6 +11,11 @@ from chessgpt.control.apply import (
     load_position_state,
     validate_and_apply_move,
 )
+from chessgpt.errors import (
+    IllegalMoveError,
+    InvalidMoveSyntaxError,
+    MoveNotSuggestedError,
+)
 from chessgpt.pgn.ingest import ingest_game
 from chessgpt.pgn.replay import read_games
 
@@ -151,7 +156,7 @@ def test_validate_and_apply_move_rejects_invalid_uci_syntax() -> None:
     try:
         seed_opening_corpus(conn)
 
-        with pytest.raises(ValueError, match="invalid UCI move syntax"):
+        with pytest.raises(InvalidMoveSyntaxError, match="invalid UCI move syntax"):
             validate_and_apply_move(
                 conn,
                 position_id=1,
@@ -182,7 +187,7 @@ def test_validate_and_apply_move_rejects_legal_but_unsuggested_move_when_require
     try:
         seed_opening_corpus(conn)
 
-        with pytest.raises(ValueError, match="move not in suggested set"):
+        with pytest.raises(MoveNotSuggestedError, match="move not in suggested set"):
             validate_and_apply_move(
                 conn,
                 position_id=1,
@@ -249,7 +254,7 @@ def test_validate_and_apply_move_rejects_illegal_move() -> None:
     try:
         seed_opening_corpus(conn)
 
-        with pytest.raises(ValueError, match="illegal move"):
+        with pytest.raises(IllegalMoveError, match="illegal move"):
             validate_and_apply_move(
                 conn,
                 position_id=1,

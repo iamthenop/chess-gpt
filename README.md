@@ -1,6 +1,6 @@
 # chess-gpt
 
-A lightweight chess position graph and move-memory project.
+A lightweight chess position graph, move-memory, and deterministic control substrate for chess-aware language model systems.
 
 The goal is not to build a full chess engine.
 
@@ -10,7 +10,8 @@ The goal is to make a language model more efficient at chess by giving it:
 - exact position lookup
 - move-labeled transitions
 - frequency and result priors from real games
-- a clean path from PGN to retrievable chess memory
+- deterministic move validation and application
+- stable machine-readable interfaces for external callers
 
 ## Why This Exists
 
@@ -22,7 +23,7 @@ They are not naturally good at:
 - move legality bookkeeping
 - endgame precision through raw language alone
 
-This project is an attempt to bridge that gap with a compact retrieval layer.
+This project is an attempt to bridge that gap with a compact chess substrate.
 
 Instead of reasoning from scratch every move, the system can:
 
@@ -30,7 +31,8 @@ Instead of reasoning from scratch every move, the system can:
 2. look up an exact position
 3. retrieve common and successful continuations
 4. rank plausible moves more efficiently
-5. render state in both machine-facing and human-facing forms
+5. validate and apply candidate moves against authoritative state
+6. render state in both machine-facing and human-facing forms
 
 ## Design Principles
 
@@ -38,6 +40,7 @@ Instead of reasoning from scratch every move, the system can:
 - Keep the database simple.
 - Separate machine representation from human rendering.
 - Store chess as a graph of positions and transitions.
+- Separate retrieval from deterministic control.
 - Prefer retrieval and statistical guidance over engine complexity.
 - Do not overbuild.
 
@@ -96,13 +99,17 @@ This project keeps board layout and game-state context conceptually separate.
 The project treats chess as a graph.
 
 ### Nodes
+
 A node represents a position:
+
 - board layout
 - side to move
 - minimal metadata needed for future move retrieval
 
 ### Edges
+
 An edge represents a move from one position to another:
+
 - UCI move
 - SAN move
 - frequency
@@ -110,9 +117,11 @@ An edge represents a move from one position to another:
 - optional rating and time-control statistics
 
 ### Games
+
 A game is represented as a path through the graph.
 
 That makes it possible to:
+
 - replay games
 - aggregate move frequencies
 - identify common continuations
@@ -124,6 +133,8 @@ That makes it possible to:
 - SQLite
 - PGN ingestion via `python-chess`
 - compact custom board encoding
+- deterministic move-control layer
+- JSON-ready service-facing API modules
 
 SQLite is used here because it is easy to inspect, easy to version, and good enough for a retrieval-first prototype.
 
@@ -139,9 +150,13 @@ chess-gpt/
 ├─ schema/
 ├─ scripts/
 ├─ src/chessgpt/
+│  ├─ api/
+│  ├─ bridge/
+│  ├─ control/
 │  ├─ db/
 │  ├─ encoding/
 │  ├─ pgn/
+│  ├─ policy/
 │  ├─ query/
 │  └─ utils/
 └─ tests/
@@ -161,6 +176,16 @@ The current repo can already:
   * human-readable text board form
 * suggest moves from an exact stored position
 * filter low-frequency suggestions with `--min-frequency`
+* validate and apply candidate UCI moves against authoritative stored state
+* audit accepted and rejected move decisions
+* expose JSON-ready API payloads for:
+
+  * positions
+  * suggestions
+  * control/apply
+  * full turn packages
+* enforce strict issued-candidate-set-bound move application
+* package a complete LLM turn payload for external callers
 
 ## Getting Started
 
@@ -190,6 +215,12 @@ Show a stored position in LLM format:
 PYTHONPATH=src python scripts/show_position.py 1 --format llm
 ```
 
+Show a stored position in JSON format:
+
+```bash
+PYTHONPATH=src python scripts/show_position.py 1 --format json
+```
+
 Show a stored position in human-readable form:
 
 ```bash
@@ -206,6 +237,24 @@ Suggest moves while filtering low-frequency noise:
 
 ```bash
 PYTHONPATH=src python scripts/suggest_move.py 1 --min-frequency 5
+```
+
+Apply one move deterministically:
+
+```bash
+PYTHONPATH=src python scripts/apply_move.py 1 e2e4
+```
+
+Build an LLM turn payload:
+
+```bash
+PYTHONPATH=src python scripts/llm_turn.py 1 --mode prompt
+```
+
+Apply one returned UCI move from stdin:
+
+```bash
+printf "e2e4" | PYTHONPATH=src python scripts/llm_turn.py 1 --mode apply
 ```
 
 ## Example: Canonical LLM Position Format
@@ -248,6 +297,22 @@ CEDBADEC
     a   b   c   d   e   f   g   h
 ```
 
+## Service-Facing API
+
+The repo also exposes importable Python APIs for external callers:
+
+* `chessgpt.api.positions`
+* `chessgpt.api.suggestions`
+* `chessgpt.api.control`
+* `chessgpt.api.turns`
+
+These provide stable JSON-ready payloads for:
+
+* position state
+* candidate moves
+* deterministic move application
+* full turn packaging
+
 ## Current Scripts
 
 ### `scripts/init_db.py`
@@ -264,6 +329,7 @@ Displays a stored position in either:
 
 * `llm` format
 * `text` format
+* `json` format
 
 ### `scripts/suggest_move.py`
 
@@ -271,9 +337,29 @@ Shows ranked outgoing moves from a stored position.
 
 Supports:
 
-* `--format text|llm`
+* `--format text|llm|json`
 * `--limit`
 * `--min-frequency`
+
+### `scripts/apply_move.py`
+
+Validates and applies one candidate UCI move to a stored position.
+
+Supports:
+
+* `--format text|llm|json`
+* strict suggested-move policy by default
+* `--allow-unsuggested` override
+
+### `scripts/llm_turn.py`
+
+Builds a turn payload for an external LLM-facing caller and can apply one returned UCI move.
+
+Supports:
+
+* `--mode prompt|apply`
+* issued-candidate-set-bound strict mode
+* `--allow-unsuggested` override
 
 ## Current Tests
 
@@ -284,6 +370,10 @@ The repo currently includes tests for:
 * rendering
 * ingestion
 * exact move suggestion
+* deterministic move application
+* service-facing API payloads
+* turn packaging
+* candidate-set policy
 
 Run all tests with:
 
@@ -299,16 +389,17 @@ This is not:
 * a full search engine
 * a tablebase system
 * a complete chess engine replacement
+* a tournament runner
 * a graph-database showcase
 
-This is a practical retrieval layer for chess memory.
+This is a practical chess retrieval and control substrate.
 
 ## Near-Term Next Steps
 
-* tidy script ergonomics
-* add more exact-query helpers
-* improve README examples as the repo evolves
-* optionally add player-scoped suggestion modes later
+* tighten service-facing API ergonomics
+* enrich audit context for reproducibility
+* improve README and interface examples as the repo evolves
+* optionally add player-scoped and corpus-scoped suggestion modes later
 
 ## Longer-Term Ideas
 
@@ -321,7 +412,7 @@ This is a practical retrieval layer for chess memory.
 
 ## Documentation
 
-Perspective of the LLM:
+Supplementary notes:
 
 * `docs/llm-experience.md`
 
@@ -331,6 +422,7 @@ Additional design notes live in:
 * `docs/schema.md`
 * `docs/ingestion.md`
 * `docs/query.md`
+* `docs/interfaces.md`
 * `docs/control.md`
 * `docs/examples.md`
 

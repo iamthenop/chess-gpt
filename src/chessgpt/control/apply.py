@@ -6,9 +6,17 @@ from dataclasses import dataclass
 
 import chess
 
+from chessgpt.bridge.python_chess import (
+    board_blob_to_board,
+    board_to_position_parts,
+)
 from chessgpt.db.audit import record_decision_audit
-from chessgpt.encoding.board_codec import decode_board_to_rows
-from chessgpt.pgn.replay import board_to_blob
+from chessgpt.errors import (
+    IllegalMoveError,
+    InvalidMoveSyntaxError,
+    MoveNotSuggestedError,
+    PositionNotFoundError,
+)
 from chessgpt.query.suggest import suggest_moves_for_position_id
 
 UCI_MOVE_RE = re.compile(r"^[a-h][1-8][a-h][1-8][qrbn]?$")
@@ -53,7 +61,7 @@ def load_position_state(conn: sqlite3.Connection, position_id: int) -> PositionS
     ).fetchone()
 
     if row is None:
-        raise ValueError(f"position_id not found: {position_id}")
+        raise PositionNotFoundError(f"position_id not found: {position_id}")
 
     return PositionState(
         position_id=int(row["position_id"]),
@@ -62,90 +70,6 @@ def load_position_state(conn: sqlite3.Connection, position_id: int) -> PositionS
         castling_rights=int(row["castling_rights"]),
         ep_file=row["ep_file"],
     )
-
-
-def _castling_fen(mask: int) -> str:
-    rights: list[str] = []
-    if mask & 0b0010:
-        rights.append("K")
-    if mask & 0b0001:
-        rights.append("Q")
-    if mask & 0b1000:
-        rights.append("k")
-    if mask & 0b0100:
-        rights.append("q")
-    return "".join(rights) or "-"
-
-
-def _rows_to_board(
-    board_blob: bytes,
-    side_to_move: int,
-    castling_rights: int,
-    ep_file: int | None,
-) -> chess.Board:
-    board = chess.Board(None)
-
-    rows = decode_board_to_rows(board_blob)
-
-    nibble_to_symbol = {
-        "1": "P",
-        "2": "N",
-        "3": "B",
-        "4": "R",
-        "5": "Q",
-        "6": "K",
-        "F": "p",
-        "E": "n",
-        "D": "b",
-        "C": "r",
-        "B": "q",
-        "A": "k",
-    }
-
-    for rank_index, row in enumerate(rows):      # rank 1 .. rank 8
-        for file_index, ch in enumerate(row):    # a .. h
-            if ch == "0":
-                continue
-            symbol = nibble_to_symbol[ch]
-            piece = chess.Piece.from_symbol(symbol)
-            square = chess.square(file_index, rank_index)
-            board.set_piece_at(square, piece)
-
-    board.turn = chess.WHITE if side_to_move == 0 else chess.BLACK
-    board.set_castling_fen(_castling_fen(castling_rights))
-
-    if ep_file is None:
-        board.ep_square = None
-    else:
-        # If white to move, black just moved two squares -> ep target is rank 6.
-        # If black to move, white just moved two squares -> ep target is rank 3.
-        ep_rank = 5 if side_to_move == 0 else 2
-        board.ep_square = chess.square(ep_file, ep_rank)
-
-    return board
-
-
-def _side_to_move(board: chess.Board) -> int:
-    return 0 if board.turn == chess.WHITE else 1
-
-
-def _castling_rights_mask(board: chess.Board) -> int:
-    mask = 0
-    if board.has_queenside_castling_rights(chess.WHITE):
-        mask |= 0b0001
-    if board.has_kingside_castling_rights(chess.WHITE):
-        mask |= 0b0010
-    if board.has_queenside_castling_rights(chess.BLACK):
-        mask |= 0b0100
-    if board.has_kingside_castling_rights(chess.BLACK):
-        mask |= 0b1000
-    return mask
-
-
-def _ep_file(board: chess.Board) -> int | None:
-    if board.ep_square is None:
-        return None
-    return chess.square_file(board.ep_square)
 
 
 def _find_existing_position_id(
@@ -204,7 +128,7 @@ def validate_and_apply_move(
                 in_suggestions=None,
                 resulting_position_id=None,
             )
-        raise ValueError(f"invalid UCI move syntax: {move_uci}")
+        raise InvalidMoveSyntaxError(f"invalid UCI move syntax: {move_uci}")
 
     suggested = suggest_moves_for_position_id(conn, position_id, limit=1000)
     suggested_uci = {m.move_uci for m in suggested}
@@ -224,13 +148,13 @@ def validate_and_apply_move(
                 in_suggestions=0,
                 resulting_position_id=None,
             )
-        raise ValueError(f"move not in suggested set: {move_uci}")
+        raise MoveNotSuggestedError(f"move not in suggested set: {move_uci}")
 
-    board = _rows_to_board(
+    board = board_blob_to_board(
         state.board_blob,
-        state.side_to_move,
-        state.castling_rights,
-        state.ep_file,
+        side_to_move=state.side_to_move,
+        castling_rights=state.castling_rights,
+        ep_file_value=state.ep_file,
     )
 
     move = chess.Move.from_uci(move_uci)
@@ -248,15 +172,12 @@ def validate_and_apply_move(
                 in_suggestions=1 if in_suggestions else 0,
                 resulting_position_id=None,
             )
-        raise ValueError(f"illegal move for position {position_id}: {move_uci}")
+        raise IllegalMoveError(f"illegal move for position {position_id}: {move_uci}")
 
     move_san = board.san(move)
     board.push(move)
 
-    resulting_board_blob = board_to_blob(board)
-    resulting_side = _side_to_move(board)
-    resulting_castling = _castling_rights_mask(board)
-    resulting_ep = _ep_file(board)
+    resulting_board_blob, resulting_side, resulting_castling, resulting_ep = board_to_position_parts(board)
 
     resulting_position_id = _find_existing_position_id(
         conn,
